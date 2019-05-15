@@ -1,0 +1,2897 @@
+もう、[BR]
+I'm going[BR]
+
+しんぢゃうー。[CLS]
+to die...[CLS]
+
+[ED]
+[ED]
+
+
+だめー。[BR]
+Oh no...[BR]
+
+いしきが[BR]
+I'm losing[BR]
+
+たもてなぁい。[CLS]
+consciousness...[CLS]
+
+[ED]
+[ED]
+
+
+もぅ[BR]
+Ahh, I can't[BR]
+
+だめあよん。[CLS]
+do this![CLS]
+
+[ED]
+[ED]
+
+
+あああぁぁぁぁ[BR]
+I'm not sure I[BR]
+
+だめだぁー。[CLS]
+can keep going...[CLS]
+
+[ED]
+[ED]
+
+
+もぅだめ、[BR]
+This is[BR]
+
+ぐるひぃー。[CLS]
+too much...[CLS]
+
+[ED]
+[ED]
+
+
+くるしぃの、[BR]
+Owww...[BR]
+
+へらららぁー。[CLS]
+Everything's spinning...[CLS]
+
+[ED]
+[ED]
+
+
+ぐひょい、[BR]
+Ooohh...[BR]
+
+くるぴぃー。[CLS]
+It hurts...[CLS]
+
+[ED]
+[ED]
+
+
+ちょっと[BR]
+That kinda[BR]
+
+くるしいよ。[CLS]
+hurts...[CLS]
+
+[ED]
+[ED]
+
+
+ためいき、[BR]
+Deep breaths...[BR]
+
+ふぅぅぅー。[CLS]
+Huff... Puff...[CLS]
+
+[ED]
+[ED]
+
+
+うん、[BR]
+I'll do[BR]
+
+がんばる。[CLS]
+my best![CLS]
+
+[ED]
+[ED]
+
+
+がんばるぞぃ！[CLS]
+I can do this![CLS]
+
+[ED]
+[ED]
+
+
+まだまだぁっ！[CLS]
+It's not over yet![CLS]
+
+[ED]
+[ED]
+
+
+げんき。[CLS]
+I'm fine.[CLS]
+
+[ED]
+[ED]
+
+
+ヨロレイヒー！[BR]
+Woo-hoo![BR]
+
+げんきぃ。[CLS]
+Doing great![CLS]
+
+[ED]
+[ED]
+
+
+いやっほぅ！[BR]
+Yahoo![BR]
+
+げんきっ。[CLS]
+I'm fine![CLS]
+
+[ED]
+[ED]
+
+
+ゴォーゴォー！[BR]
+ROAR![BR]
+
+げんきだいっ！[CLS]
+I'm doing great![CLS]
+
+[ED]
+[ED]
+
+
+ほとんど[BR]
+Basically[BR]
+
+かいふくなし。[BR]
+didn't restore[BR]
+
+あよーん。[CLS]
+any health...[CLS]
+
+[ED]
+[ED]
+
+
+きぶんわるいの[BR]
+You only[BR]
+
+すこしだけ[BR]
+feel slightly[BR]
+
+なおった。[CLS]
+better.[CLS]
+
+[ED]
+[ED]
+
+
+さっきよりは[BR]
+Guess you[BR]
+
+ちょうし[BR]
+feel somewhat[BR]
+
+いいけどぉ。[CLS]
+better?[CLS]
+
+[ED]
+[ED]
+
+
+ちょっとだけ[BR]
+Restored[BR]
+
+たいりょく[BR]
+a bit of[BR]
+
+かいふく。[CLS]
+health.[CLS]
+
+[ED]
+[ED]
+
+
+たいりょく、[BR]
+Restored[BR]
+
+まずまず[BR]
+some[BR]
+
+かいふく。[CLS]
+health.[CLS]
+
+[ED]
+[ED]
+
+
+たいりょく、[BR]
+Health[BR]
+
+かいふく。[CLS]
+restored.[CLS]
+
+[ED]
+[ED]
+
+
+げんきが[BR]
+You feel[BR]
+
+もどったよ。[CLS]
+much better.[CLS]
+
+[ED]
+[ED]
+
+
+たいりょく、[BR]
+Health[BR]
+
+さいだいまで[BR]
+fully[BR]
+
+かいふくっ！[CLS]
+restored![CLS]
+
+[ED]
+[ED]
+
+
+まどうりょく、[BR]
+You have no[BR]
+
+なぁーい。[CLS]
+magic left![CLS]
+
+[ED]
+[ED]
+
+
+ほとんど[BR]
+You're[BR]
+
+まどうりょく[BR]
+almost out[BR]
+
+なぁい。[CLS]
+of juice![CLS]
+
+[ED]
+[ED]
+
+
+まどうりょくが[BR]
+You have[BR]
+
+すくなぁい。[BR]
+very little[BR]
+
+ぐひゅん。[CLS]
+magic left![CLS]
+
+[ED]
+[ED]
+
+
+まどうりょく、[BR]
+You don't have[BR]
+
+へってきたよ。[CLS]
+a lot of magic.[CLS]
+
+[ED]
+[ED]
+
+
+まどうりょく、[BR]
+You should[BR]
+
+そろそろ[BR]
+start saving[BR]
+
+せつやくしよ。[CLS]
+your magic.[CLS]
+
+[ED]
+[ED]
+
+
+まだ[BR]
+You still[BR]
+
+まどうりょく、[BR]
+have some[BR]
+
+のこってる。[CLS]
+magic left.[CLS]
+
+[ED]
+[ED]
+
+
+まどうりょく、[BR]
+You have[BR]
+
+じゅうぶん。[CLS]
+plenty of magic.[CLS]
+
+[ED]
+[ED]
+
+
+まどうりょく、[BR]
+You are[BR]
+
+からだじゅうに[BR]
+filled with[BR]
+
+みたされてる。[CLS]
+magic.[CLS]
+
+[ED]
+[ED]
+
+
+まどうりょく、[BR]
+Only restored[BR]
+
+かのなみだほど[BR]
+a pittance of[BR]
+
+かいふく。[CLS]
+magic...[CLS]
+
+[ED]
+[ED]
+
+
+まどうりょく、[BR]
+Restored a[BR]
+
+ちょっぴり[BR]
+tiiiny bit[BR]
+
+かいふく。[CLS]
+of magic.[CLS]
+
+[ED]
+[ED]
+
+
+まどうりょく、[BR]
+Restored a[BR]
+
+ちょっとだけ[BR]
+little bit[BR]
+
+かいふく。[CLS]
+of magic.[CLS]
+
+[ED]
+[ED]
+
+
+まどうりょく、[BR]
+Restored[BR]
+
+すこーし[BR]
+a bit[BR]
+
+かいふく。[CLS]
+of magic.[CLS]
+
+[ED]
+[ED]
+
+
+まどうりょく、[BR]
+Restored[BR]
+
+まずまず[BR]
+some[BR]
+
+かいふく。[CLS]
+magic.[CLS]
+
+[ED]
+[ED]
+
+
+うんうん。[BR]
+Good.[BR]
+
+まどうりょく、[BR]
+Magic[BR]
+
+かいふく。[CLS]
+restored.[CLS]
+
+[ED]
+[ED]
+
+
+よぉし、[BR]
+Alright![BR]
+
+まどうりょく[BR]
+The magic[BR]
+
+もどったぁ。[CLS]
+is back![CLS]
+
+[ED]
+[ED]
+
+
+まどうりょく、[BR]
+Magic[BR]
+
+さいだいまで[BR]
+fully[BR]
+
+かいふく。[CLS]
+restored.[CLS]
+
+[ED]
+[ED]
+
+
+あんまり[BR]
+You're not[BR]
+
+ちょうし[BR]
+feeling[BR]
+
+よくない。[CLS]
+so good.[CLS]
+
+[ED]
+[ED]
+
+
+さっきより[BR]
+You feel[BR]
+
+ちょうしいい、[BR]
+slightly[BR]
+
+かなぁ。[CLS]
+better.[CLS]
+
+[ED]
+[ED]
+
+
+さっきよりは[BR]
+You're feeling[BR]
+
+ちょうしいい。[CLS]
+better.[CLS]
+
+[ED]
+[ED]
+
+
+ちょうしが[BR]
+Feeling[BR]
+
+でてきたよ。[CLS]
+good now.[CLS]
+
+[ED]
+[ED]
+
+
+よしよし、[BR]
+Yup.[BR]
+
+ちょうしが[BR]
+You feel[BR]
+
+いいぞぉ。[CLS]
+great![CLS]
+
+[ED]
+[ED]
+
+
+たいりょくと[BR]
+Recovered[BR]
+
+まどうりょく、[BR]
+health[BR]
+
+かいふくだ。[CLS]
+and magic.[CLS]
+
+[ED]
+[ED]
+
+
+ふふふん、[BR]
+Hmmm-hm![BR]
+
+とっても[BR]
+You feel[BR]
+
+きぶんいい。[CLS]
+great![CLS]
+
+[ED]
+[ED]
+
+
+さいこーに[BR]
+Now THIS[BR]
+
+しあわせだなぁ[BR]
+is life![BR]
+
+ぼかぁ。[CLS]
+Oh yeah![CLS]
+
+[ED]
+[ED]
+
+
+ちっとも[BR]
+That didn't[BR]
+
+いたくないや。($C9)゛[CLS]
+hurt at all.($C9)゛[CLS]
+
+[ED]
+[ED]
+
+
+うっ！($C9)゛[CLS]
+Ow!($C9)゛[CLS]
+
+[ED]
+[ED]
+
+
+ちょっと[BR]
+That kinda[BR]
+
+いたい。($C9)金[CLS]
+hurt.($C9)金[CLS]
+
+[ED]
+[ED]
+
+
+ダメージっ！($C9)゛[CLS]
+That hurt!($C9)゛[CLS]
+
+[ED]
+[ED]
+
+
+いたいよぉ。($C9)金[CLS]
+Ouch!($C9)金[CLS]
+
+[ED]
+[ED]
+
+
+いたいっ！[BR]
+Ouch![BR]
+
+あよん。($C9)金[CLS]
+*sniff*($C9)金[CLS]
+
+[ED]
+[ED]
+
+
+いたいっ！！[BR]
+OUCH![BR]
+
+あよーん。($C9)゛[CLS]
+*sob*($C9)゛[CLS]
+
+[ED]
+[ED]
+
+
+いたさの[BR]
+Okay, this is[BR]
+
+ホームランっ！($C9)金[CLS]
+seriously painful.($C9)金[CLS]
+
+[ED]
+[ED]
+
+
+だいダメージ！($C9)゜[CLS]
+Took a big hit!($C9)゜[CLS]
+
+[ED]
+[ED]
+
+
+おおきな[BR]
+Took some major[BR]
+
+ダメージっ！($C9)゜[CLS]
+damage!($C9)゜[CLS]
+
+[ED]
+[ED]
+
+
+きょだいな[BR]
+Took some[BR]
+
+しょうげきを[BR]
+very serious[BR]
+
+くらった。($C9)゜[CLS]
+big damage!($C9)゜[CLS]
+
+[ED]
+[ED]
+
+
+ばくれつ[BR]
+Explosive[BR]
+
+だいダメージ！($C9)゜[CLS]
+damage!($C9)゜[CLS]
+
+[ED]
+[ED]
+
+
+げ！[BR]
+Blargh![BR]
+
+ないぞうを[BR]
+You almost spit[BR]
+
+はいちゃうよ。($C9)、[CLS]
+your stomach out!($C9)、[CLS]
+
+[ED]
+[ED]
+
+
+げげ！[BR]
+Urgh![BR]
+
+げきつう[BR]
+This hurts[BR]
+
+じごくだっ！($C9)、[CLS]
+like hell!($C9)、[CLS]
+
+[ED]
+[ED]
+
+
+もうれつ[BR]
+It's a[BR]
+
+きょだい[BR]
+flurry of[BR]
+
+ダメージっ！！($C9)、[CLS]
+pain!!($C9)、[CLS]
+
+[ED]
+[ED]
+
+
+ばくれつ[BR]
+Special[BR]
+
+スペシャル[BR]
+Explosive[BR]
+
+ダメージっ！！($C9)、[CLS]
+Damage!!($C9)、[CLS]
+
+[ED]
+[ED]
+
+
+イタッ！[BR]
+Ow![BR]
+
+しかいが[BR]
+Your vision[BR]
+
+あかくそまる。[CLS]
+turns red.[CLS]
+
+[ED]
+[ED]
+
+
+めから[BR]
+Blood runs[BR]
+
+ながれる[BR]
+over your[BR]
+
+ちが、[CLS]
+eyes and[CLS]
+
+くちのなかに[BR]
+goes into[BR]
+
+はいってくる。[CLS]
+your mouth.[CLS]
+
+げきつうで[BR]
+The pain[BR]
+
+きが[BR]
+is almost[BR]
+
+くるいそう。[CLS]
+intolerable.[CLS]
+
+[ED]
+[ED]
+
+
+みぎうでに[BR]
+Your[BR]
+
+げきつうが[BR]
+right arm[BR]
+
+はしる。[CLS]
+hurts.[CLS]
+
+[ED]
+[ED]
+
+
+うでから[BR]
+Losing blood[BR]
+
+ちと　きりょくが[BR]
+from arm.[BR]
+
+ぬけていく。[CLS]
+Energy dwindling.[CLS]
+
+[ED]
+[ED]
+
+
+うでが[BR]
+Can't move[BR]
+
+うごかない。[CLS]
+your arm.[CLS]
+
+いしきが[BR]
+Losing[BR]
+
+うすれてる。[CLS]
+consciousness.[CLS]
+
+[ED]
+[ED]
+
+
+ヒョイっと[BR]
+You get out[BR]
+
+よけた。[CLS]
+of the way.[CLS]
+
+[ED]
+[ED]
+
+
+ずべッ！[BR]
+Oh dear![BR]
+
+ずっこけた。[CLS]
+You slip.[CLS]
+
+[ED]
+[ED]
+
+
+れんぞく[BR]
+Another[BR]
+
+こうげき！[ED]
+attack![ED]
+
+
+($C0)($C8)[BR]
+($C0)($C8)[BR]
+
+だいだげきッ！($C9)９[ED]
+Critical hit!($C9)９[ED]
+
+
+($C0)($C8)[BR]
+($C0)($C8)[BR]
+
+[BR]
+[BR]
+
+だいだげきッ！($C9)９[ED]
+Critical hit!($C9)９[ED]
+
+
+だ、だめだぁ。[BR]
+Oh no...[BR]
+
+ぼく、[BR]
+Lights out[BR]
+
+ばたんきゅー。[CLS]
+for me...[CLS]
+
+[ED]
+[ED]
+
+
+ダッシュで[BR]
+You try to[BR]
+
+にげるっ！[CLS]
+run away![CLS]
+
+せいこうだ。[ED]
+You did it.[ED]
+
+
+ダッシュで[BR]
+You try to[BR]
+
+にげるっ！[CLS]
+run away![CLS]
+
+($CC)ゃ($C0)どべしっ！[BR]
+($CC)ゃ($C0)*slip*[BR]
+
+こけた。[CLS]
+But you trip.[CLS]
+
+[ED]
+[ED]
+
+
+($C0)($C8)[BR]
+($C0)($C8)[BR]
+
+みつけた。[CLS]
+found.[CLS]
+
+[ED]
+[ED]
+
+
+($C0)($C8)[BR]
+($C0)($C8)[BR]
+
+てにいれた。[CLS]
+obtained.[CLS]
+
+[ED]
+[ED]
+
+
+でも、もう[BR]
+But you can't
+
+もちきれない。[CLS]
+carry any more.[CLS]
+
+ほかの　ものを[BR]
+Throw something[BR]
+
+すてる？[ED]
+away?[ED]
+
+
+($C0)($C8)いーらない。[BR]
+($C0)($C8)? Meh.[BR]
+
+[BR]
+[BR]
+
+すてた。[CLS]
+tossed away.[CLS]
+
+[ED]
+[ED]
+
+
+これは[BR]
+You can't throw[BR]
+
+すてれない。[CLS]
+that away.[CLS]
+
+[ED]
+[ED]
+
+
+($C0)($C8)[BR]
+($C0)($C8)[BR]
+
+あきらめた。[CLS]
+left behind.[CLS]
+
+[ED]
+[ED]
+
+
+みつけた[BR]
+You can't[BR]
+
+アイテムは[BR]
+throw that[BR]
+
+すてれない。[CLS]
+item away.[CLS]
+
+[ED]
+[ED]
+
+
+にっきを[BR]
+I'll update[BR]
+
+つけるよ。($C9)か[ED]
+my journal.($C9)か[ED]
+
+
+にっき　に[BR]
+Will you[BR]
+
+かきこんで[BR]
+update your[BR]
+
+いいの？[ED]
+journal?[ED]
+
+
+にっき　に[BR]
+You updated[BR]
+
+かきこんだよ。[ED]
+your journal.[ED]
+
+
+ガツンッ！！[BR]
+*THUD*[BR]
+
+いたいよぉ。[CLS]
+Ow...[CLS]
+
+[ED]
+[ED]
+
+
+うひょーい、[BR]
+Yippee![BR]
+
+レベルアップ！[CLS]
+Level up![CLS]
+
+[ED]
+[ED]
+
+
+ちかろう[BR]
+Dungeon Floor[BR]
+
+　　かいだよ。[ED]
+[ED]
+
+
+ちか[BR]
+Underground Floor[BR]
+
+　　かいだよ。[ED]
+[ED]
+
+
+ファイヤー[ED]
+Fire[ED]
+
+
+アイスストーム[ED]
+Ice Storm[ED]
+
+
+ダイアキュート[ED]
+Diacute[ED]
+
+
+ばよえーん[ED]
+Baoyen[ED]
+
+
+ばよばよ[ED]
+Bayobayo[ED]
+
+
+ヒーリング[ED]
+Healing[ED]
+
+
+ライト[ED]
+Light[ED]
+
+
+ワープ[ED]
+Warp[ED]
+
+
+ばよひひひー[ED]
+Bayohihihi[ED]
+
+
+あつくなって[BR]
+It got[BR]
+
+きちゃった。[CLS]
+really hot.[CLS]
+
+[ED]
+[ED]
+
+
+さむくなって[BR]
+It got[BR]
+
+きたよ。[CLS]
+really cold.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)おぉ、[BR]
+($C1)Ohh![BR]
+
+その　ことばの[BR]
+What a[BR]
+
+ひびき。[CLS]
+lovely word![CLS]
+
+こころが[BR]
+I can feel[BR]
+
+あらわれる、[BR]
+all troubles[BR]
+
+おお！[CLS]
+melt away![CLS]
+
+まものは[BR]
+The monster[BR]
+
+かんどう[BR]
+is deeply[BR]
+
+している。[CLS]
+moved.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)まものは[BR]
+($C1)The monster[BR]
+
+まだ　かんどう[BR]
+is still[BR]
+
+している。[CLS]
+deeply moved.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)まものは[BR]
+($C1)The monster[BR]
+
+ものすごく[BR]
+becomes[BR]
+
+としをとった。[CLS]
+very old.[CLS]
+
+こし[BR]
+Its back[BR]
+
+まげまげの、[CLS]
+is crooked,[CLS]
+
+はが[BR]
+it loses[BR]
+
+ぬけぬけの、[CLS]
+its teeth,[CLS]
+
+からだ[BR]
+and it can[BR]
+
+よぼよぼに[BR]
+barely[BR]
+
+なっている。[CLS]
+stand.[CLS]
+
+[ED]
+[ED]
+
+
+てのひらから[BR]
+A dazzling[BR]
+
+うまれた[BR]
+light emerges[BR]
+
+まばゆい[CLS]
+from your palm.[CLS]
+
+ひかりが、[BR]
+It illuminates[BR]
+
+あたりを[BR]
+your[BR]
+
+てらした。[CLS]
+surroundings.[CLS]
+
+[ED]
+[ED]
+
+
+てのひらから[BR]
+Light emerges[BR]
+
+ひかりが[BR]
+from your[BR]
+
+うまれたが、[CLS]
+palm...[CLS]
+
+すぐに[BR]
+But it vanishes[BR]
+
+きえた。[CLS]
+immediately.[CLS]
+
+[ED]
+[ED]
+
+
+ワープ[BR]
+Warp[BR]
+
+せいこう！[CLS]
+successful![CLS]
+
+[ED]
+[ED]
+
+
+ガンッッッ！[ED]
+*THUD*[ED]
+
+
+いったーい！[BR]
+OWWW![BR]
+
+ワープ[BR]
+I can't use[BR]
+
+できないよぉ。[CLS]
+Warp here... [CLS]
+
+[ED]
+[ED]
+
+
+アルルの[BR]
+Arle's[BR]
+
+からだを[CLS]
+body is[CLS]
+
+ふしぎな[BR]
+engulfed by[BR]
+
+ちからが[BR]
+a mysterious[BR]
+
+つつんだ。[CLS]
+power.[CLS]
+
+[ED]
+[ED]
+
+
+ばよひひひーの[BR]
+The effects of[BR]
+
+こうかが[BR]
+Bayohihihi[BR]
+
+きれた。[CLS]
+are over.[CLS]
+
+[ED]
+[ED]
+
+
+やったぁー！[ED]
+Yaaay![ED]
+
+
+($C0)だいだげきッ！($C9)９[ED]
+($C0)Critical hit!($C9)９[ED]
+
+
+($C1)ばたんきゅー[BR]
+($C1)On the brink[BR]
+
+すんぜん。[CLS]
+of falling.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)そろそろ、[BR]
+($C1)Pretty much[BR]
+
+ばたんきゅー。[CLS]
+knocked out.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)もうじき、[BR]
+($C1)Almost[BR]
+
+ばたんきゅー。[CLS]
+out cold.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ぼろぼろだ。[CLS]
+($C1)Worn-out.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)へろへろだ。[CLS]
+($C1)Exhausted.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ふらふらだ。[CLS]
+($C1)Feeling dizzy.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)すこし[BR]
+($C1)Getting[BR]
+
+よろけている。[CLS]
+tired.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)くそぉ、って[BR]
+($C1)Not so[BR]
+
+ひょうじょう。[CLS]
+hot.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)まだまだ、って[BR]
+($C1)Can keep[BR]
+
+ひょうじょう。[CLS]
+going.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)やるなぁ、って[BR]
+($C1)Feeling[BR]
+
+ひょうじょう。[CLS]
+alright.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)げんき！[CLS]
+($C1)Feeling good![CLS]
+
+[ED]
+[ED]
+
+
+($C1)げんき、[BR]
+($C1)Feeling[BR]
+
+げんき！[CLS]
+super good![CLS]
+
+[ED]
+[ED]
+
+
+($C1)げんき、[BR]
+($C1)Feeling[BR]
+
+げんき、[BR]
+super duper[BR]
+
+げんき！[CLS]
+good![CLS]
+
+[ED]
+[ED]
+
+
+($C1)はないき[BR]
+($C1)Raring[BR]
+
+あらい！[CLS]
+to go![CLS]
+
+[ED]
+[ED]
+
+
+($C1)きはく[BR]
+($C1)Plenty[BR]
+
+じゅうぶん！[CLS]
+of vigor![CLS]
+
+[ED]
+[ED]
+
+
+($C1)とうしまんまん[BR]
+($C1)Eager to[BR]
+
+げんきすぎる！[CLS]
+fight![CLS]
+
+[ED]
+[ED]
+
+
+($C1)ほんのり[BR]
+($C1)It didn't[BR]
+
+いたい。[CLS]
+do much.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ちょっと[BR]
+It hurt a[BR]
+
+いたい。[CLS]
+little bit.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)いたい。[CLS]
+($C1)It hurt a bit.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)いたいっ！[CLS]
+($C1)That hurt![CLS]
+
+[ED]
+[ED]
+
+
+($C1)とっても[BR]
+($C1)That hurt[BR]
+
+いたいっ！[CLS]
+a lot![CLS]
+
+[ED]
+[ED]
+
+
+($C1)すっごく[BR]
+($C1)That was some[BR]
+
+だいダメージ！[CLS]
+Big Damage![CLS]
+
+[ED]
+[ED]
+
+
+($C1)めちゃくちゃ[BR]
+($C1)That was some
+
+きょだい[BR]
+VERY[BR]
+
+ダメージ！！[CLS]
+Big Damage!![CLS]
+
+[ED]
+[ED]
+
+
+($C1)ちょうウルトラ[BR]
+($C1)ULTRA[BR]
+
+スペシャル[BR]
+MEGA[BR]
+
+ダメージ！！！[CLS]
+BIG DAMAGE!!![CLS]
+
+[ED]
+[ED]
+
+
+($CD)($C0)すばやさそうな[BR]
+($CD)($C0) Looks[BR]
+
+やつ。[CLS]
+fast.[CLS]
+
+[ED]
+[ED]
+
+
+($CD)($C0)ひぇぇぇ、[BR]
+($CD)($C0) Eeep![BR]
+
+パワーが[BR]
+Looks pretty[BR]
+
+ありそう。[CLS]
+powerful...[CLS]
+
+[ED]
+[ED]
+
+
+($CD)($C0)とっても[BR]
+($CD)($C0) It's a[BR]
+
+タフそーだ。[CLS]
+tough one.[CLS]
+
+[ED]
+[ED]
+
+
+($CD)($C0)つよそうだ。[CLS]
+($CD)($C0)Looks strong.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)かるがると[BR]
+($C1)Dodged[BR]
+
+よけた。[CLS]
+easily.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ズコッ。[BR]
+($C1)Whoops.[BR]
+
+ずっこけた。[CLS]
+Tripped.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)れんぞく[BR]
+($C1)Another[BR]
+
+こうげき！[ED]
+attack![ED]
+
+
+($C1)($C8)[BR]
+($C1)($C8)[BR]
+
+だいだげき！！[ED]
+Critical hit!![ED]
+
+
+($C1)($C8)[BR]
+($C1)($C8)[BR]
+
+[BR]
+[BR]
+
+だいだげき！！[ED]
+Critical hit!![ED]
+
+
+るいぱんこ！と[BR]
+You yell[BR]
+
+こころのなかで[BR]
+"LIPEMCO!"[BR]
+
+さけんだ。[CLS]
+in your mind.[CLS]
+
+[ED]
+[ED]
+
+
+でも、[BR]
+But[BR]
+
+なにも[BR]
+nothing[BR]
+
+おこらない。[CLS]
+happens.[CLS]
+
+[ED]
+[ED]
+
+
+とびらに[BR]
+There is text[BR]
+
+　　　　もじ。[CLS]
+on the door.[CLS]
+
+[ED]
+[ED]
+
+
+カギが[BR]
+It's[BR]
+
+かかってる。[CLS]
+locked.[CLS]
+
+いま　もってる[BR]
+None of[BR]
+
+カギじゃ[BR]
+your keys[BR]
+
+あかないや。[CLS]
+fit.[CLS]
+
+[ED]
+[ED]
+
+
+うえに　いく[BR]
+There are[BR]
+
+かいだんが[BR]
+stairs[BR]
+
+あるよ。[CLS]
+going up.[CLS]
+
+のぼる？[ED]
+Go up?[ED]
+
+
+したに　いく[BR]
+There are[BR]
+
+かいだんが[BR]
+stairs[BR]
+
+あるよ。[CLS]
+going down.[CLS]
+
+おりる？[ED]
+Go down?[ED]
+
+
+($C1)はこが[BR]
+($C1)There's a[BR]
+
+おいてある。[CLS]
+chest.[CLS]
+
+($C0)あけてみる？[ED]
+($C0)Open it?[ED]
+
+
+ワナかも[BR]
+Nah.[BR]
+
+しれないから[BR]
+It might be[BR]
+
+やーめた。[CLS]
+a trap.[CLS]
+
+[ED]
+[ED]
+
+
+とる？[ED]
+Take it?[ED]
+
+
+かべに　もじ。[CLS]
+There is text on the wall.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ぼろぼろ・・・[CLS]
+($C1)*crumble*[CLS]
+
+かべが[BR]
+The wall[BR]
+
+くずれて[BR]
+collapses and[BR]
+
+金がでてきた。[CLS]
+gold comes out.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($C1)ぼろぼろ・・・[CLS]
+($C1)*crumble*[CLS]
+
+かべが[BR]
+The wall[BR]
+
+くずれて[CLS]
+collapses and[CLS]
+
+アイテムが[BR]
+an item[BR]
+
+でてきた。[CLS]
+comes out.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($C1)ぼろぼろ・・・[CLS]
+($C1)*crumble*[CLS]
+
+($CD)($C0)なにも[BR]
+($CD)($C0)Nothing[BR]
+
+でてこないや。[CLS]
+comes out.[CLS]
+
+[ED]
+[ED]
+
+
+ごつんっっっ！[BR]
+*THUD*[BR]
+
+いったーい。[ED]
+Owww![ED]
+
+
+おもいっきし[BR]
+You ram with[BR]
+
+あたま[BR]
+your head at[BR]
+
+うったよぉ。[CLS]
+full power.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)かべに[BR]
+($C1)There's a[BR]
+
+スイッチ。[CLS]
+switch on the wall.[CLS]
+
+($C0)スイッチを[BR]
+($C0)Press the[BR]
+
+いれてみる？[ED]
+switch?[ED]
+
+
+($C1)かべに[BR]
+($C1)There's a[BR]
+
+スイッチ。[CLS]
+switch on the wall.[CLS]
+
+($C0)スイッチは[BR]
+($C0)The switch is[BR]
+
+いれてるよ。[CLS]
+pressed.[CLS]
+
+[ED]
+[ED]
+
+
+なにがおこるか[BR]
+No way.[BR]
+
+わかんないから[BR]
+I don't know[BR]
+
+やーめた。[CLS]
+what it does.[CLS]
+
+[ED]
+[ED]
+
+
+わわわ。[BR]
+W-Whoa![BR]
+
+ぐるぐる[BR]
+I feel like[BR]
+
+まわるぅー。[ED]
+I'm spinning![ED]
+
+
+わぁ！[CLS]
+Waaah![CLS]
+
+[ED]
+[ED]
+
+
+いったーーい！($C9)金[CLS]
+OWWW!($C9)金[CLS]
+
+[ED]
+[ED]
+
+
+ゆかに[BR]
+There was a[BR]
+
+あなが[BR]
+hole in[BR]
+
+あいていて、[CLS]
+the floor,[CLS]
+
+おっこちて[BR]
+and I fell[BR]
+
+しまった。[CLS]
+through it.[CLS]
+
+[ED]
+[ED]
+
+
+マップが[BR]
+Take a look[BR]
+
+みれるよ。[CLS]
+at the map.[CLS]
+
+[ED]
+[ED]
+
+
+まほうを[BR]
+Use my[BR]
+
+つかうよ。[CLS]
+magic.[CLS]
+
+[ED]
+[ED]
+
+
+アイテムを[BR]
+Use my[BR]
+
+つかうよ。[CLS]
+items.[CLS]
+
+[ED]
+[ED]
+
+
+いまの[BR]
+Save my[BR]
+
+じょうたいを[BR]
+current[BR]
+
+セーブするよ。[CLS]
+progress.[CLS]
+
+[ED]
+[ED]
+
+
+まほうを[BR]
+Use my[BR]
+
+つかうよ。[CLS]
+magic.[CLS]
+
+[ED]
+[ED]
+
+
+アイテムを[BR]
+Use my[BR]
+
+つかうよ。[CLS]
+items.[CLS]
+
+[ED]
+[ED]
+
+
+ぜんりょく[BR]
+Ran away[BR]
+
+しっそうで[BR]
+as fast as[BR]
+
+にげるよ。[CLS]
+I could.[CLS]
+
+[ED]
+[ED]
+
+
+「るいぱんこ」[BR]
+"LIPEMCO"[BR]
+
+なにが[BR]
+I have[BR]
+
+おこるか[CLS]
+no idea[CLS]
+
+ぼくにも[BR]
+what this[BR]
+
+わかんない。[CLS]
+does.[CLS]
+
+[ED]
+[ED]
+
+
+「ワープ」[BR]
+"Warp"[BR]
+
+ひとつ　うえに[BR]
+Warps one[BR]
+
+ワープするよ。[CLS]
+floor above.[CLS]
+
+[ED]
+[ED]
+
+
+「ライト」[BR]
+"Light"[BR]
+
+くらやみを[BR]
+Illuminates[BR]
+
+てらすよ。[CLS]
+dark areas.[CLS]
+
+[ED]
+[ED]
+
+
+「ヒーリング」[BR]
+"Healing"[BR]
+
+たいりょくが[BR]
+Restores[BR]
+
+かいふくするよ[CLS]
+health.[CLS]
+
+[ED]
+[ED]
+
+
+「ばよ[BR]
+"Bayo[BR]
+
+　　ひひひー」[CLS]
+  hihihi"[CLS]
+
+ひかりが[BR]
+Engulfs[BR]
+
+からだを[BR]
+my body[BR]
+
+つつむよ。[CLS]
+in light.[CLS]
+
+[ED]
+[ED]
+
+
+「ファイヤー」[BR]
+"Fire"[BR]
+
+ほのおの[BR]
+The spell[BR]
+
+まほうだよ。[CLS]
+of fire.[CLS]
+
+[ED]
+[ED]
+
+
+「アイス[BR]
+"Ice[BR]
+
+　　ストーム」[CLS]
+  Storm"[CLS]
+
+こおりの[BR]
+The spell[BR]
+
+まほうだよ。[CLS]
+of ice.[CLS]
+
+[ED]
+[ED]
+
+
+「ファイヤー」[BR]
+"Fire"[BR]
+
+ほのおの[BR]
+The spell[BR]
+
+まほうだよ。[CLS]
+of fire.[CLS]
+
+[ED]
+[ED]
+
+
+「アイス[BR]
+"Ice[BR]
+
+　　ストーム」[CLS]
+  Storm"[CLS]
+
+こおりの[BR]
+The spell[BR]
+
+まほうだよ。[CLS]
+of ice.[CLS]
+
+[ED]
+[ED]
+
+
+「ダイア[BR]
+"Dia[BR]
+
+　　キュート」[BR]
+  cute"[BR]
+
+つぎにとなえる[CLS]
+Makes the[CLS]
+
+まりょくを[BR]
+next spell[BR]
+
+ばいぞう[BR]
+twice as[BR]
+
+させるよ。[CLS]
+effective.[CLS]
+
+[ED]
+[ED]
+
+
+「ばよえーん」[CLS]
+"Bayoen"[CLS]
+
+てきを[BR]
+Deeply[BR]
+
+かんどう[BR]
+moves the[BR]
+
+させるよ。[CLS]
+enemy.[CLS]
+
+[ED]
+[ED]
+
+
+「ヒーリング」[BR]
+"Healing"[BR]
+
+たいりょくが[BR]
+Restores[BR]
+
+かいふくするよ[CLS]
+health.[CLS]
+
+[ED]
+[ED]
+
+
+「ばよばよ」[BR]
+"Bayobayo"[BR]
+
+てきの[BR]
+Speeds up[BR]
+
+まわりだけ[CLS]
+time[CLS]
+
+じかんを[BR]
+around[BR]
+
+こうそくに[BR]
+the enemy[BR]
+
+すすませるよ。[CLS]
+by a lot.[CLS]
+
+[ED]
+[ED]
+
+
+「らっきょ」[CLS]
+"Veggies"[CLS]
+
+たいりょくが[BR]
+Restore[BR]
+
+ちょっぴり[BR]
+a tiny bit[BR]
+
+かいふく。[CLS]
+of health.[CLS]
+
+[ED]
+[ED]
+
+
+「ふくじん[BR]
+"Pickles"[BR]
+
+　　　　づけ」[CLS]
+[CLS]
+
+
+たいりょくが[BR]
+Restore[BR]
+
+かいふく。[CLS]
+health.[CLS]
+
+[ED]
+[ED]
+
+
+「カレー[BR]
+"Curry"[BR]
+
+　　　ライス」[CLS]
+[CLS]
+
+たいりょくが[BR]
+Fully[BR]
+
+すべて[BR]
+restores[BR]
+
+かいふく。[CLS]
+health.[CLS]
+
+[ED]
+[ED]
+
+
+「せんにん[BR]
+"Wizard[BR]
+
+　　　　ザケ」[CLS]
+Wine"[CLS]
+
+まどうりょくが[BR]
+Restores[BR]
+
+ちょっぴり[BR]
+a tiny bit[BR]
+
+かいふく。[CLS]
+of magic.[CLS]
+
+[ED]
+[ED]
+
+
+「まどうザケ」[BR]
+"Magic Liquor"[BR]
+
+まどうりょくが[BR]
+Restores[BR]
+
+かいふく。[CLS]
+magic.[CLS]
+
+[ED]
+[ED]
+
+
+「もももザケ」[CLS]
+"Momomo Sake"[CLS]
+
+まどうりょくが[BR]
+Fully[BR]
+
+すべて[BR]
+restores[BR]
+
+かいふく。[CLS]
+magic.[CLS]
+
+[ED]
+[ED]
+
+
+「りゅうの[BR]
+"Dragon[BR]
+
+　　　　ツメ」[BR]
+    Claw"[BR]
+
+たいりょくと[CLS]
+Restores[CLS]
+
+まどうりょくが[BR]
+both magic[BR]
+
+ちょっぴり[BR]
+and health by[BR]
+
+かいふく。[CLS]
+a tiny bit.[CLS]
+
+[ED]
+[ED]
+
+
+「りゅうの[BR]
+"Dragon[BR]
+
+　　　しっぽ」[CLS]
+    Tail"[CLS]
+
+たいりょくと[BR]
+Restores[BR]
+
+まどうりょくが[BR]
+both magic[BR]
+
+かいふく。[CLS]
+and health.[CLS]
+
+[ED]
+[ED]
+
+
+「りゅうの[BR]
+"Dragon[BR]
+
+　　　　ツノ」[BR]
+    Horn"[BR]
+
+たいりょくと[CLS]
+Fully[CLS]
+
+まどうりょくが[BR]
+restores[BR]
+
+すべて[BR]
+both magic[BR]
+
+かいふく。[CLS]
+and health.[CLS]
+
+[ED]
+[ED]
+
+
+「のうてん[BR]
+"Vigor[BR]
+
+　　　　ぐさ」[CLS]
+    Herbs"[CLS]
+
+だいだげきが[BR]
+Increase[BR]
+
+でるように[BR]
+Critical[BR]
+
+なるよ。[CLS]
+rate.[CLS]
+
+[ED]
+[ED]
+
+
+「いだてん[BR]
+"Swift[BR]
+
+　　　　ぐさ」[CLS]
+    Herbs"[CLS]
+
+すばやさが[BR]
+Increase[BR]
+
+ふえるよ。[CLS]
+speed.[CLS]
+
+[ED]
+[ED]
+
+
+「めんたま[BR]
+"Focus[BR]
+
+　　　　ぐさ」[CLS]
+    Herbs"[CLS]
+
+こうげきの[BR]
+Less[BR]
+
+しっぱいが[BR]
+likely[BR]
+
+へるよ。[CLS]
+to miss.[CLS]
+
+[ED]
+[ED]
+
+
+「どくけし[BR]
+"Antidote[BR]
+
+    Herbs"[CLS]
+[CLS]
+
+からだの[BR]
+Removes[BR]
+
+どくを[BR]
+all[BR]
+
+けすよ。[CLS]
+poison.[CLS]
+
+[ED]
+[ED]
+
+
+「どんぱ[BR]
+"Donpa[BR]
+
+　　　うんぱ」[CLS]
+   Unpa"[CLS]
+
+どんぱが[BR]
+Stick[BR]
+
+ゆかに[BR]
+Donpa on[BR]
+
+くっつくよ。[CLS]
+the floor.[CLS]
+
+[ED]
+[ED]
+
+
+「うんぱ」[BR]
+"Unpa"[BR]
+
+どんぱと[BR]
+Return to[BR]
+
+くっつくよ。[CLS]
+Donpa.[CLS]
+
+[ED]
+[ED]
+
+
+「マンド[BR]
+"Mandrake"[BR]
+
+　　　レイク」[CLS]
+[CLS]
+
+にんぎょう[BR]
+A plant that[BR]
+
+みたいな[BR]
+looks like[BR]
+
+しょくぶつ。[CLS]
+a doll.[CLS]
+
+[ED]
+[ED]
+
+
+「はい」[BR]
+"Ashes"[BR]
+
+バンパイアの[BR]
+Remains of[BR]
+
+ざんがい。[CLS]
+a vampire.[CLS]
+
+[ED]
+[ED]
+
+
+「しろ[BR]
+"White[BR]
+
+　　てぶくろ」[CLS]
+  Mittens"[CLS]
+
+すこしだけ[BR]
+They make[BR]
+
+つよくなれる[BR]
+you feel[BR]
+
+てぶくろだよ。[CLS]
+a bit stronger.[CLS]
+
+[ED]
+[ED]
+
+
+「セイレーンの[BR]
+"Siren's[BR]
+
+　　　　　や」[CLS]
+     Arrow"[CLS]
+
+あたまが[BR]
+Inflicts a[BR]
+
+ぷーになるよ。[CLS]
+mean headache.[CLS]
+
+[ED]
+[ED]
+
+
+「おうごん[BR]
+"Golden[BR]
+
+　　　リンゴ」[CLS]
+   Apple"[CLS]
+
+ひかりかがやく[BR]
+An unusual,[BR]
+
+めずらしい[BR]
+shiny[BR]
+
+リンゴだよ。[CLS]
+apple.[CLS]
+
+[ED]
+[ED]
+
+
+「ミホのつえ」[CLS]
+"Miho's Wand"[CLS]
+
+まどうりょくの[BR]
+Reduces[BR]
+
+しょうひが[BR]
+magic[BR]
+
+へるよ。[CLS]
+consumption.[CLS]
+
+[ED]
+[ED]
+
+
+「ピチのつえ」[CLS]
+"Pich's Wand"[CLS]
+
+たまに[BR]
+Increases[BR]
+
+だいだげきを[BR]
+Critical[BR]
+
+だすよ。[CLS]
+rate.[CLS]
+
+[ED]
+[ED]
+
+
+「ロフのつえ」[BR]
+"Loph's Wand"[BR]
+
+たまに[CLS]
+Makes you[CLS]
+
+れんぞく[BR]
+more likely[BR]
+
+こうげきが[BR]
+to attack[BR]
+
+でるよ。[CLS]
+again.[CLS]
+
+[ED]
+[ED]
+
+
+「パポのつえ」[CLS]
+"Papo's Wand"[CLS]
+
+たまに[BR]
+Occasionally[BR]
+
+こうげきを[BR]
+protects[BR]
+
+ふせぐよ。[CLS]
+from attacks.[CLS]
+
+[ED]
+[ED]
+
+
+「あかのいし」[CLS]
+"Red Gem"[CLS]
+
+あかく[BR]
+A gem[BR]
+
+ひかる[BR]
+that shines[BR]
+
+いしだよ。[CLS]
+red.[CLS]
+
+[ED]
+[ED]
+
+
+「あおのいし」[CLS]
+"Blue Gem"[CLS]
+
+あおく[BR]
+A gem[BR]
+
+ひかる[BR]
+that shines[BR]
+
+いしだよ。[CLS]
+blue.[CLS]
+
+[ED]
+[ED]
+
+
+「きいろの[BR]
+"Yellow[BR]
+
+　　　　いし」[CLS]
+    Gem"[CLS]
+
+きいろく[BR]
+A gem[BR]
+
+ひかる[BR]
+that shines[BR]
+
+いしだよ。[CLS]
+yellow.[CLS]
+
+[ED]
+[ED]
+
+
+「イヤリング」[BR]
+"Earring"[BR]
+
+とっても[BR]
+It's so[BR]
+
+きれい。[CLS]
+lovely![CLS]
+
+[ED]
+[ED]
+
+
+「アイテム[BR]
+"Item[BR]
+
+　　　ぶくろ」[CLS]
+   Bag"[CLS]
+
+アイテムを[BR]
+A bag with[BR]
+
+いれる[BR]
+an item[BR]
+
+ふくろ。[CLS]
+inside.[CLS]
+
+[ED]
+[ED]
+
+
+「ふくぶくろ」[BR]
+"Mystery Bag"[BR]
+
+なかみが[BR]
+There could[BR]
+
+わからない[CLS]
+be anything[CLS]
+
+おたのしみ[BR]
+inside![BR]
+
+ぶくろ。[CLS]
+How exciting![CLS]
+
+[ED]
+[ED]
+
+
+・・・・・・・[BR]
+......[BR]
+
+・・・・・・・[BR]
+......[BR]
+
+・・・・・・・[CLS]
+......[CLS]
+
+あたまのなかで[BR]
+I hear a[BR]
+
+じゅもんが[BR]
+spell echoing[BR]
+
+ひびいてる。[CLS]
+in my mind...[CLS]
+
+・・・ヒー・・[BR]
+...Hea...[BR]
+
+・・・・・リ・[BR]
+...li...[BR]
+
+・・・ング・・[CLS]
+...ng...[CLS]
+
+ヒーリ・・・・[BR]
+Heali...[BR]
+
+・・・ング・・[BR]
+...ng...[BR]
+
+・・・・・・・[CLS]
+......[CLS]
+
+わかった！[BR]
+Got it![BR]
+
+ヒーリングだ！[CLS]
+It's Healing![CLS]
+
+[ED]
+[ED]
+
+
+ヒーリングの[BR]
+You have[BR]
+
+まほうを[BR]
+remembered[BR]
+
+おもいだした。[CLS]
+Healing.[CLS]
+
+[ED]
+[ED]
+
+
+・・・・・・・[BR]
+......[BR]
+
+・・・・・・・[BR]
+......[BR]
+
+・・・・・・・[CLS]
+......[CLS]
+
+あたまが[BR]
+My head[BR]
+
+ガンガンする・[BR]
+is throbbing...[BR]
+
+・・・・・・・[CLS]
+......[CLS]
+
+ダ・・・・ダイ[BR]
+Di...[BR]
+
+・・・ア・・・[BR]
+...a...[BR]
+
+キ・・・ュ・・[CLS]
+...cu...[CLS]
+
+ダイアキ・・・[BR]
+Dia...[BR]
+
+・・・ュ・・・[BR]
+...cu...[BR]
+
+ー・・・・・ト[CLS]
+...te.[CLS]
+
+わかった！[BR]
+Oh, yes![BR]
+
+ダイア[BR]
+I got it![BR]
+
+キュートだ！[CLS]
+It's Diacute![CLS]
+
+[ED]
+[ED]
+
+
+ダイア[BR]
+You now[BR]
+
+キュートの[BR]
+remember[BR]
+
+まほうを[CLS]
+the spell[CLS]
+
+おもいだした。[CLS]
+Diacute.[CLS]
+
+[ED]
+[ED]
+
+
+・・・・・・・[BR]
+......[BR]
+
+・・・・・・・[BR]
+......[BR]
+
+・・・・・・・[CLS]
+......[CLS]
+
+あ、あたまが[BR]
+M-My head...[BR]
+
+いたいよぉ・・[BR]
+It hurts...[BR]
+
+・・・・・・・[CLS]
+......[CLS]
+
+ん・・・・・ー[BR]
+N......[BR]
+
+・・・え・・・[BR]
+...e...[BR]
+
+よ・・・・・ば[CLS]
+oy... ab.[CLS]
+
+ちがう・・・・[BR]
+No, wait...[BR]
+
+・・・ば・・・[BR]
+...Ba...[BR]
+
+よえーん・・・[CLS]
+yoen...[CLS]
+
+わかった！[BR]
+Got it![BR]
+
+ばよえーんだ！[CLS]
+It's Bayoen![CLS]
+
+[ED]
+[ED]
+
+
+ばよえーんの[BR]
+You have[BR]
+
+まほうを[BR]
+remembered[BR]
+
+おもいだした。[CLS]
+Bayoen.[CLS]
+
+[ED]
+[ED]
+
+
+・・・・・・・[BR]
+......[BR]
+
+・・・・・・・[BR]
+......[BR]
+
+・・・・・・・[CLS]
+......[CLS]
+
+あ、あたまが[BR]
+M-My head feels[BR]
+
+ふにゃふにゃ[BR]
+feels all[BR]
+
+するぅ・・・・[CLS]
+mushy...[CLS]
+
+・・・プ・・・[BR]
+...rp...[BR]
+
+ワ・・・・・・[BR]
+Wa...[BR]
+
+・・・・・・ー[CLS]
+...r...[CLS]
+
+ワ・・・・・・[BR]
+Wa...[BR]
+
+・・・・・・プ[BR]
+...r...[BR]
+
+・・・ー・・・[CLS]
+...p.[CLS]
+
+わかった！[BR]
+Got it![BR]
+
+ワープだ！[CLS]
+It's Warp![CLS]
+
+[ED]
+[ED]
+
+
+ワープの[BR]
+You have[BR]
+
+まほうを[BR]
+remembered[BR]
+
+おもいだした。[CLS]
+Warp.[CLS]
+
+[ED]
+[ED]
+
+
+ちか[BR]
+It's the[BR]
+
+１００かい[BR]
+Underground[BR]
+
+だよ。
+Level 100.

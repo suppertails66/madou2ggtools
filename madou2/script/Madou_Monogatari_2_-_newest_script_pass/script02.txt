@@ -1,0 +1,2710 @@
+やみから[BR]
+A Will-o-Wisp[BR]
+
+ウィルウィスプ[BR]
+emerges[BR]
+
+あらわる。[CLS]
+from the darkness.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ほのおの[BR]
+($C1)Fire flies[BR]
+
+たいあたり！($C9)ふ[ED]
+all over you!($C9)ふ[ED]
+
+
+($C1)ぼぼぉぅ！($C9)ふ[ED]
+($C1)Fwooosh!($C9)ふ[ED]
+
+
+「まぶしい！[BR]
+"So bright![BR]
+
+　めが[BR]
+I can't[BR]
+
+　くらむよぉ」[CLS]
+see!"[CLS]
+
+[ED]
+[ED]
+
+
+めが　くらんで[BR]
+I can't aim[BR]
+
+まほうが[BR]
+my spells[BR]
+
+あたらないぃ。[CLS]
+like this![CLS]
+
+[ED]
+[ED]
+
+
+まぶしいのが[BR]
+You can see[BR]
+
+なおった。[CLS]
+again.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ぼぼぼぼぼ[BR]
+($C1)*fwoosh*[BR]
+
+ぼぼぼぼぼ[BR]
+*fwoosh*[BR]
+
+ぼぼぼぼぼ($C9)へ[ED]
+*fwoosh*($C9)へ[ED]
+
+
+($C1)いのちの[BR]
+($C1)It burned[BR]
+
+ほのおが[BR]
+out all of[BR]
+
+もえつきた。[CLS]
+its life.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ぷしゅー。($C9)ほ[CLS]
+($C1)Pshhh.($C9)ほ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ほのおのたまが[BR]
+($C1)The fireball[BR]
+
+ちょくげき。[CLS]
+hits it square.[CLS]
+
+($C0)「ありゃぁ？」($C9)き[CLS]
+($C0)"Huh?"($C9)き[CLS]
+
+($C1)ほのおのたまを[BR]
+($C1)It ate[BR]
+
+きれいに[BR]
+the fireball[BR]
+
+たべる。[CLS]
+in one gulp.[CLS]
+
+「むしゃむしゃ[BR]
+"Om-nom[BR]
+
+むしゃむしゃ」[CLS]
+om-nom"[CLS]
+
+「げぷっ」[CLS]
+*burp*[CLS]
+
+まんぞくな[BR]
+It looks[BR]
+
+ひょうじょう。[CLS]
+satisfied.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ウィルウィスプ[BR]
+($C1)The Will-o-Wisp[BR]
+
+きえさった。[CLS]
+dissipates.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)リュンクスが[BR]
+($C1)A Lynx[BR]
+
+はねてきた。[CLS]
+hops about.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ねこパーンチ！($C9)み[ED]
+($C1)Kitty Punch!($C9)み[ED]
+
+
+($C1)ねこキーック！($C9)み[ED]
+($C1)Kitty Kick!($C9)み[ED]
+
+
+($C1)しっぽを[BR]
+($C1)It curls[BR]
+
+ぐるぐるまいて[BR]
+its tail[BR]
+
+まるくなった。[CLS]
+like a spring.[CLS]
+
+($C0)？？？？？[CLS]
+($C0)???[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ボヨヨーン。($CC)カ[CLS]
+($C1)*BOING*($CC)カ[CLS]
+
+アルルの[BR]
+It pushed[BR]
+
+こうげきを[BR]
+Arle's attack[BR]
+
+はねのける。[CLS]
+aside.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)リュンクスは[BR]
+($C1)The Lynx[BR]
+
+しっぽを[BR]
+unwraps[BR]
+
+といた。[CLS]
+its tail.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)らっきょを[BR]
+($C1)It started[BR]
+
+とりだして[BR]
+eating some[BR]
+
+たべはじめた。[CLS]
+veggies.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ふにぃ」($C9)む[CLS]
+($C1)"Meow."($C9)む[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ブルブル・・・[BR]
+($C1)"Brrr...[BR]
+
+さむいニャー。[CLS]
+So cold, meow."[CLS]
+
+うごきが[BR]
+It moves[BR]
+
+にぶくなった。[CLS]
+slower now.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)リュンクスは[BR]
+($C1)The Lynx[BR]
+
+ばたんきゅー。[CLS]
+is out cold.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)いきおいよく[BR]
+($C1)A Dark Dragon[BR]
+
+ダークドラゴン[BR]
+leaps down[BR]
+
+おちてきた。[CLS]
+with great force.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ゴォオオオ！[BR]
+($C1)ROAAAAR![BR]
+
+ほのおを[BR]
+It breathes[BR]
+
+はきだす。($C9)や[ED]
+fire.($C9)や[ED]
+
+
+($C9)ゆ($C1)ほのおの[BR]
+($C9)ゆ($C1)It puts so[BR]
+
+いきおいが[BR]
+much force[BR]
+
+つよすぎて、[CLS]
+in it,[CLS]
+
+じぶんの[BR]
+that it[BR]
+
+からだが[BR]
+scorches its[BR]
+
+こげた。[CLS]
+own body.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)じぶんの[BR]
+($C1)It swallows[BR]
+
+ツノを[BR]
+its own[BR]
+
+のみこんだ。[CLS]
+horn.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)きょだいな[BR]
+($C1)It swings[BR]
+
+しっぽを[BR]
+its enormous[BR]
+
+ふりまわす。[CLS]
+tail.[CLS]
+
+($C1)ゴキュッ！！($C9)ゆ[CLS]
+($C1)*crunch*($C9)ゆ[CLS]
+
+($C1)つうろが[BR]
+($C1)The corridor[BR]
+
+せますぎて[CLS]
+is too narrow,[CLS]
+
+せぼねを[BR]
+and its[BR]
+
+ねじって[BR]
+spine took[BR]
+
+しまった。[CLS]
+a bad twist.[CLS]
+
+「い、[BR]
+"Owww...[BR]
+
+いたい・・・」[CLS]
+M-My back..."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)くろいガスを[BR]
+($C1)It breathes[BR]
+
+はきだす。[CLS]
+dark gas.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)つうろが[BR]
+($C1)The corridor[BR]
+
+やみに[BR]
+is engulfed[BR]
+
+とざされた。[CLS]
+in darkness[CLS]
+
+($C0)「な、[BR]
+($C0)"W-What[BR]
+
+　なによ[BR]
+is going[BR]
+
+　これ！」[CLS]
+on?!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)くろいガスが[BR]
+($C1)The dark[BR]
+
+きえうせた。[CLS]
+gas dissipates.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)あつい。($C9)よ[CLS]
+($C1)So hot.($C9)よ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「んー、[BR]
+($C1)"Hmmm,[BR]
+
+きもちよかー」[CLS]
+feels great."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ダークドラゴン[BR]
+($C1)The Dark Dragon[BR]
+
+まっくろこげ。[CLS]
+is charred black.[CLS]
+
+[ED]
+[ED]
+
+
+「やだよっ！」($C9)く[CLS]
+"Bring it on!"($C9)く[CLS]
+
+($C1)「ききわけの[BR]
+($C1)"Such an[BR]
+
+　ない[BR]
+unruly[BR]
+
+　むすめだな」[CLS]
+lady."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「アレイ[BR]
+($C1)[BR]
+
+　　アード！」($C9)り($C0)げっ、[BR]
+"Areiado!"($C9)り($C0)Eep![BR]
+
+こだいまほう？[CLS]
+Ancient magic?![CLS]
+
+どぉぉぉん！！[ED]
+BOOOM!![ED]
+
+
+わぁぁぁ！！[BR]
+Waaah!![BR]
+
+なんちゅー[BR]
+What incredible[BR]
+
+はかいりょく！[CLS]
+power![CLS]
+
+「さっきは[BR]
+"I was going[BR]
+
+ゆだんしたけど[CLS]
+easy on you.[CLS]
+
+こんどは[BR]
+But I won't[BR]
+
+そうは[BR]
+have any[BR]
+
+いかないわ！」[CLS]
+mercy now!"[CLS]
+
+($C1)「ふっ」[CLS]
+($C1)"Hmph."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「アレイアード[BR]
+($C1)"Areiado[BR]
+
+スペシャル！」($C9)り($C9)る($C0)げげげっ！($C9)け($C0)どどぉーん！！[ED]
+Special!"($C9)り($C9)る($C0)Eeek!($C9)け($C0)KABOOOM!![ED]
+
+
+どぉーん！！[CLS]
+BOOOM!![CLS]
+
+[ED]
+[ED]
+
+
+($C1)「やみの[BR]
+($C1)"Blade of[BR]
+
+　　　けんよ！($C9)れ($C0)「わぁ、[BR]
+Darkness!($C9)れ($C0)W-Wait![BR]
+
+ちょっと[BR]
+Not[BR]
+
+それなしっ！」[CLS]
+that!"[CLS]
+
+($C1)きりさけっ！」($C9)ろ($CC)コ[ED]
+($C1)"Tear her apart!"($C9)ろ($CC)コ[ED]
+
+
+($C1)「うぅぅぅッ」($C9)わ[CLS]
+($C1)"Ouuungh."($C9)わ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「むねんっ！」($C9)ん[ED]
+($C1)"How disgraceful..."($C9)ん[ED]
+
+
+($C1)シェゾは[BR]
+($C1)Schezo is[BR]
+
+ばたんきゅー。[CLS]
+knocked out.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)みぎてが[BR]
+($C1)Her right[BR]
+
+もとに[BR]
+hand is back[BR]
+
+もどる。[CLS]
+to normal.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)けむりから[BR]
+($C1)Jarne[BR]
+
+ジャァーン[BR]
+appears[BR]
+
+しゅつげん。[CLS]
+from the smoke.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)うでを[BR]
+($C1)She spins[BR]
+
+まわして[BR]
+her arm and[BR]
+
+パンチ。($C9)ぁ[ED]
+punches you.($C9)ぁ[ED]
+
+
+($C1)みぎてが[BR]
+($C1)Her right hand[BR]
+
+きょだいか。[CLS]
+becomes huge.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)きょだいな[BR]
+($C1)She punches[BR]
+
+みぎてで[BR]
+you with her[BR]
+
+パンチッ！[ED]
+huge hand![ED]
+
+
+($C1)りょうてから[BR]
+($C1)Smoke comes[BR]
+
+けむりが[BR]
+out from[BR]
+
+でてきた。[CLS]
+her hands.[CLS]
+
+($C0)「へんなもの[BR]
+($C0)"Hey, cut[BR]
+
+ださないでよ」[CLS]
+it out!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)けむりが[BR]
+($C1)The smoke[BR]
+
+きえた。[CLS]
+dissipates.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ジャァーンの[BR]
+($C1)A Dragon[BR]
+
+ふところから[CLS]
+Claw falls[CLS]
+
+りゅうのツメが[BR]
+from[BR]
+
+ころがり[BR]
+Jarne's[BR]
+
+おちた。[CLS]
+purse.[CLS]
+
+($C0)ひろう？[ED]
+($C0)Pick it up?[ED]
+
+
+りゅうのツメを[BR]
+Obtained a[BR]
+
+てにいれた。[CLS]
+Dragon Claw.[CLS]
+
+[ED]
+[ED]
+
+
+いま[BR]
+This[BR]
+
+そんなことを[BR]
+is not[BR]
+
+the time[CLS]
+
+ひまは[BR]
+to do[BR]
+
+ないよ。[CLS]
+that![CLS]
+
+[ED]
+[ED]
+
+
+($C1)「では、しんで[BR]
+($C1)"Now then...[BR]
+
+もらいましょう[BR]
+time to[BR]
+
+！！！！！[CLS]
+die!!![CLS]
+
+メガ・バクレツ[BR]
+Mega Explosive[BR]
+
+ジュゲェエエぇ[CLS]
+JUGEE---[CLS]
+
+がっあがあが」[BR]
+--Eeggh!"[BR]
+
+アゴが[BR]
+She dislocated[BR]
+
+はずれた。[CLS]
+her jaw.[CLS]
+
+($C0)まぬけだなぁ。[CLS]
+($C0)What a moron.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「じゅ」($C9)ぃ[CLS]
+($C1)"Juh..."($C9)ぃ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「じょ」($C9)ぅ[CLS]
+($C1)"Joh..."($C9)ぅ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ジャァーンは[BR]
+($C1)Jarne's down[BR]
+
+ばたんきゅー。[CLS]
+for the count.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)セイレーンが[BR]
+($C1)A Siren walks[BR]
+
+やってきた。[CLS]
+on stage.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)セイレーンは[BR]
+($C1)The Siren[BR]
+
+うたった。($C9)ゃ($CD)($C0)のうてんに[BR]
+sings.($C9)ゃ($CD)($C0)Her voice[BR]
+
+こえが[BR]
+pierces[BR]
+
+つきささる。[ED]
+your head.[ED]
+
+
+($C1)おどる[BR]
+($C1)She's getting[BR]
+
+じゅんびを[BR]
+ready to[BR]
+
+している。[CLS]
+dance.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)セイレーンは[BR]
+($C1)The Siren[BR]
+
+ゆうがに[BR]
+dances with[BR]
+
+おどりだした。[CLS]
+grace.[CLS]
+
+($CD)($C0)あぁ、なんて[BR]
+($CD)($C0)Ohh! What[BR]
+
+すばらしい[BR]
+a wonderful[BR]
+
+おどりなの。[CLS]
+performance![CLS]
+
+ぼーーー。[CLS]
+*blush*[CLS]
+
+[ED]
+[ED]
+
+
+ぼーーー。[CLS]
+*blush*[CLS]
+
+はっ！[CLS]
+Ah![CLS]
+
+セイレーンに[BR]
+You were[BR]
+
+みとれて[BR]
+charmed by[BR]
+
+しまった。[CLS]
+the Siren.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)マイクで[BR]
+($C1)She hits[BR]
+
+おもいっきり[BR]
+you with[BR]
+
+なぐる。($C9)ゅ[ED]
+her microphone.($C9)ゅ[ED]
+
+
+($C1)マイクが[BR]
+($C1)The microphone[BR]
+
+こわれた。[CLS]
+broke.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)セイレーンは[BR]
+($C1)The Siren[BR]
+
+うたった。[CLS]
+sings.[CLS]
+
+「・・・・・」[CLS]
+"......"[CLS]
+
+しかし[BR]
+But the[BR]
+
+マイクは[BR]
+microphone[BR]
+
+こわれてる。[CLS]
+is broken.[CLS]
+
+マイクの[BR]
+She starts[BR]
+
+しゅうりを[BR]
+working to[BR]
+
+はじめた。[CLS]
+repair it.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「あ、あ、[BR]
+($C1)*tap* *tap*[BR]
+
+ほんじつは[BR]
+"Ahem.[BR]
+
+せいてんなり。[CLS]
+Test, test.[CLS]
+
+ふぅ、[BR]
+Whew.[BR]
+
+なおった[BR]
+It works[BR]
+
+みたいですわ。[CLS]
+fine now.[CLS]
+
+ぢゃぁ、[BR]
+Well then,[BR]
+
+いきますわよっ[BR]
+time to[BR]
+
+！！！」[CLS]
+sing again!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「イヤイヤ」($C9)ょ[ED]
+($C1)"No, no!"($C9)ょ[ED]
+
+
+($C1)セイレーンは[BR]
+($C1)The Siren's[BR]
+
+ばたんきゅー。[CLS]
+show is over.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「・・・・・」[ED]
+($C1)"......"[ED]
+
+
+($C1)レイスが[BR]
+($C1)A Wraith[BR]
+
+しずかに[BR]
+appears,[BR]
+
+あらわれた。[CLS]
+quietly.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「・・・・・」[BR]
+($C1)"......"[BR]
+
+ぼーっと[BR]
+It just[BR]
+
+してる。[CLS]
+hovers there.[CLS]
+
+($C0)？？？[BR]
+($C0)???[BR]
+
+なんなの？[CLS]
+What's it doing?[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「いかないで[BR]
+($C1)"Don't[BR]
+
+　・・・・・」[CLS]
+go..."[CLS]
+
+($C0)ひぃーん、[BR]
+($C0)Eeek![BR]
+
+にげれないぃ。[CLS]
+I can't run![CLS]
+
+[ED]
+[ED]
+
+
+($C1)レイスは[BR]
+($C1)The Wraith[BR]
+
+にげていった。[CLS]
+runs off.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「いっしょに[BR]
+($C1)"Let's[BR]
+
+しにましょぉ[BR]
+die...[BR]
+
+ぉぉぉぉぉ！」[ED]
+TOGETHER!"[ED]
+
+
+($C1)レイスは[BR]
+($C1)The Wraith[BR]
+
+じめつした。[CLS]
+kills itself.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「どうして？」($C9)イ[CLS]
+($C1)"Why...?"($C9)イ[CLS]
+
+($CD)($C0)「いや、[BR]
+($CD)($C0)"Uh, sorry,[BR]
+
+　その・・・」[CLS]
+I..."[CLS]
+
+($C1)レイスは[BR]
+($C1)The Wraith[BR]
+
+かなしそうだ。[CLS]
+looks sad.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「あ、いいもの[BR]
+($C1)"Oh, you[BR]
+
+もってるんだ。[BR]
+have something[BR]
+
+　　いいなぁ」[CLS]
+very nice..."[CLS]
+
+もももザケを[BR]
+It stares[BR]
+
+ジーッと[BR]
+intently at[BR]
+
+みつめている。[CLS]
+Momomo Sake.[CLS]
+
+($CD)($C0)もももザケが[BR]
+($CD)($C0)It must really[BR]
+
+ほしいのかな。[BR]
+like it.[BR]
+
+あげてみる？[ED]
+Do I hand it over?[ED]
+
+
+($C1)「くれるの？[BR]
+($C1)"You're giving[BR]
+
+ほんとうに[BR]
+it to me?[BR]
+
+くれるの？」[CLS]
+Really?"[CLS]
+
+($CD)($C0)ほんとうに[BR]
+($CD)($C0)Give it[BR]
+
+あげる？[ED]
+for real?[ED]
+
+
+($C1)「わぁーい。[BR]
+($C1)"Yaay![BR]
+
+　ありがとぅ」[CLS]
+Thank you!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「やっぱり、[BR]
+($C1)*siiigh*[BR]
+
+　そうだよね[BR]
+"I knew[BR]
+
+　・・・・・」[CLS]
+it..."[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($C1)レイスは[BR]
+($C1)The Wraith is[BR]
+
+ばたんきゅー。[CLS]
+even quieter now.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ドラコが[BR]
+($C1)Draco comes[BR]
+
+とんできた。[CLS]
+flying.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ちからいっぱい[BR]
+($C1)She scratches[BR]
+
+アルルを[BR]
+Arle with[BR]
+
+ひっかく。($C9)エ[ED]
+all her might.($C9)エ[ED]
+
+
+($C1)「すぅー」[BR]
+($C1)*huff*[BR]
+
+いきを[BR]
+She's inhaling[BR]
+
+すっている。($C9)オ($C0)くる！？[CLS]
+air.($C9)オ($C0)Uh-oh![CLS]
+
+[ED]
+[ED]
+
+
+($C1)「もう[BR]
+($C1)"This is[BR]
+
+ゆるさなーい！[BR]
+it for you!"[BR]
+
+　すぅーーー」($C9)オ($C0)げげげっ！($C9)け[CLS]
+*huff*($C9)オ($C0)Ahhh!($C9)け[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ファイヤー[BR]
+($C1)"Fire[BR]
+
+　ブレスだ！[BR]
+Breath!"[BR]
+
+　がおぉ！！」[ED]
+ROAAAR![ED]
+
+
+($C1)「グレート[BR]
+($C1)"Great[BR]
+
+ファイヤーだ！[BR]
+Fire!"[BR]
+
+がおーーっ！」[ED]
+ROAAAR![ED]
+
+
+($C1)カレーライスを[BR]
+($C1)She starts[BR]
+
+とりだして[BR]
+eating some[BR]
+
+たべはじめた。[CLS]
+curry.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ゆるしてぇ」[BR]
+($C1)"I'm sorry!"[BR]
+
+カレーライスを[BR]
+She offers a[BR]
+
+さしだした。[CLS]
+plate of curry.[CLS]
+
+($C0)みのがす？[ED]
+($C0)Forgive her?[ED]
+
+
+($C1)「ひどぉい！」[CLS]
+($C1)"How cruel!"[CLS]
+
+[ED]
+[ED]
+
+
+カレーライスを[BR]
+You receive[BR]
+
+てにいれた。[CLS]
+Curry.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ドラコは[BR]
+($C1)Draco[BR]
+
+とんでにげた。[CLS]
+flies off.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「いったいな」($C9)カ[CLS]
+($C1)"That hurt..."($C9)カ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ドラコは[BR]
+($C1)Draco[BR]
+
+ばたんきゅー。[CLS]
+gives up.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)メデューサが[BR]
+($C1)A Medusa[BR]
+
+とびでた。[CLS]
+pops out.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)するどい[BR]
+($C1)She scratches[BR]
+
+つめで[BR]
+you with her[BR]
+
+つく！($C9)ケ[ED]
+sharp nails!($C9)ケ[ED]
+
+
+($C1)あたまにはえた[BR]
+($C1)The eyes of[BR]
+
+へびたちの[BR]
+the snakes on[BR]
+
+めがひかった。[CLS]
+her head shine.[CLS]
+
+[ED]
+[ED]
+
+
+くっ、[BR]
+W-What's[BR]
+
+かなしばり！？[BR]
+going on?![BR]
+
+うごけないよ！[CLS]
+I can't move![CLS]
+
+[ED]
+[ED]
+
+
+ふぅ。[BR]
+Whew![BR]
+
+かなしばりが[BR]
+The paralysis[BR]
+
+とけたみたい。[CLS]
+wore off.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)シャッ！！[BR]
+($C1)*hiss*[BR]
+
+へびが[BR]
+The snakes[BR]
+
+かみつく！[CLS]
+bite at you![CLS]
+
+[ED]
+[ED]
+
+
+よけられない！[CLS]
+You can't dodge![CLS]
+
+[ED]
+[ED]
+
+
+へびの[BR]
+The snakes[BR]
+
+どくが[BR]
+inject you[BR]
+
+まわる。[CLS]
+with poison.[CLS]
+
+[ED]
+[ED]
+
+
+へびを[BR]
+You swat[BR]
+
+たたき[BR]
+the snakes[BR]
+
+おとした。[CLS]
+off.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)メデューサの[BR]
+($C1)The eyes of[BR]
+
+めが[BR]
+the Medusa[BR]
+
+ひかる。[CLS]
+are shining.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)きいろい[BR]
+($C1)She shoots[BR]
+
+こうせんが[BR]
+off a yellow[BR]
+
+はなたれた。[CLS]
+beam.[CLS]
+
+[ED]
+[ED]
+
+
+「あぶない！」[BR]
+"Oh crap!"[BR]
+
+すばやく[BR]
+You get out[BR]
+
+よけるっ。[CLS]
+of the way.[CLS]
+
+[ED]
+[ED]
+
+
+「きゃーーーー[BR]
+"NOOOOO[BR]
+
+ーーーっ！！」($C9)コ[ED]
+OOO!!"($C9)コ[ED]
+
+
+こうせんを[BR]
+Arle is[BR]
+
+あびた[BR]
+hit by[BR]
+
+アルルは[CLS]
+the beam.[CLS]
+
+いしに[BR]
+She's turned[BR]
+
+へんかした！[CLS]
+to stone![CLS]
+
+[ED]
+[ED]
+
+
+ばたんきゅー。[BR]
+You've hit[BR]
+
+ゲーム[BR]
+rock bottom.[BR]
+
+　オーバー！！[CLS]
+Game over![CLS]
+
+[ED]
+[ED]
+
+
+($C1)「やるわね！」($C9)サ[CLS]
+($C1)"Not bad!"($C9)サ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)あたまの[BR]
+($C1)The snakes on[BR]
+
+へびたちが[BR]
+her head are[BR]
+
+ねむりだした。[CLS]
+sleeping.[CLS]
+
+「これっ！[BR]
+"Hey! This[BR]
+
+なにしてるの、[BR]
+is no time[BR]
+
+おきなさい！」[CLS]
+to sleep!"[CLS]
+
+メデューサは[BR]
+The Medusa[BR]
+
+あたまを[BR]
+is slapping[BR]
+
+たたきだした。[CLS]
+her head.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)メデューサは[BR]
+($C1)The Medusa is[BR]
+
+ばたんきゅー。[CLS]
+out of commission.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)スキュラが[BR]
+($C1)Scylla makes[BR]
+
+しゅつげん。[CLS]
+her appearance.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)まえあしで[BR]
+($C1)She strikes[BR]
+
+アルルを[BR]
+at Arle with[BR]
+
+たたく。($C9)セ[ED]
+her forelegs.($C9)セ[ED]
+
+
+($C1)もらってくよぉ[ED]
+($C1)"I'll take that."[ED]
+
+
+($C0)($C8)わぁ！[BR]
+($C0)($C8)She pilfers the[BR]
+
+[BR]
+[BR]
+
+ぬすまれた！[CLS]
+from your bag![CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($C1)スキュラは[BR]
+($C1)Scylla[BR]
+
+すたこらさと[BR]
+scampers[BR]
+
+にげた。[CLS]
+away.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「かむわよぉ」($C9)タ[ED]
+($C1)"It's chewin' time!"($C9)タ[ED]
+
+
+どくを[BR]
+You were[BR]
+
+うけた。[CLS]
+poisoned.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ごっくん」[BR]
+($C1)*nom*[BR]
+
+りゅうのしっぽ[BR]
+She eats a[BR]
+
+のみこんだ。[CLS]
+Dragon Tail.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「きゃいん」($C9)チ[CLS]
+($C1)*whine*($C9)チ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)スキュラは[BR]
+($C1)Scylla becomes[BR]
+
+ばたんきゅー。[CLS]
+tame.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ゾンビッコが[BR]
+($C1)A Zombie Girl[BR]
+
+ふってきた。[CLS]
+staggers towards you.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ゾンビッコ[BR]
+($C1)"Zombie Girl[BR]
+
+パンチ！($C9)ト[ED]
+Punch!"($C9)ト[ED]
+
+
+($C1)つづけざまに[BR]
+($C1)"Followed by...[BR]
+
+ゾンビッコ[BR]
+Zombie Girl[BR]
+
+キック！($C9)ト[ED]
+Kick!"($C9)ト[ED]
+
+
+($C1)さらに[BR]
+($C1)"And finally,[BR]
+
+ゾンビッコ[BR]
+Zombie Girl[BR]
+
+チョップ！($C9)ト[ED]
+Chop!"($C9)ト[ED]
+
+
+($C1)「ううっ」($C9)ナ[CLS]
+($C1)"Ghhh..."($C9)ナ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ふふふん」[BR]
+($C1)"Hm-hm-hm..."[BR]
+
+よゆーの[BR]
+She's laughing,[BR]
+
+わらい。[CLS]
+tauntingly.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ゾンビッコは[BR]
+($C1)The Zombie Girl[BR]
+
+とけた。[CLS]
+crumbles off.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)バンシーズが[BR]
+($C1)One after the[BR]
+
+ぞろぞろ[BR]
+other, a trio of[BR]
+
+やってきた。[CLS]
+Banshees appears.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「きぃ」[BR]
+($C1)"Kwee!"[BR]
+
+「ぷぃ」[BR]
+"Pwee!"[BR]
+
+「ぐぃ」($C9)ヌ($C0)ひめいが[BR]
+"Gwee!"($C9)ヌ($C0)Their shrieks[BR]
+
+あたまに[BR]
+pierce[BR]
+
+つきささる。[ED]
+your head.[ED]
+
+
+($C1)「きぃぃ！」[BR]
+($C1)"KWEE!"[BR]
+
+「ぷぅぅ！」[BR]
+"PWOO!"[BR]
+
+「ぴぃぃ！」[CLS]
+"PWEE!"[CLS]
+
+($C1)きょうれつな[BR]
+($C1)You are assaulted[BR]
+
+はどうが[BR]
+by a powerful[BR]
+
+おそいかかる。[CLS]
+soundwave.[CLS]
+
+($C0)こまくが[BR]
+($C0)My poor[BR]
+
+やぶれるぅ！($C9)゜[ED]
+eardrums!($C9)゜[ED]
+
+
+($C1)あたまをくだく[BR]
+($C1)They let out a voice[BR]
+
+そうぜつな[BR]
+so fierce it could[BR]
+
+こえを　だす。($C9)ノ($C0)うぁぁ！[BR]
+smash your head.($C9)ノ($C0)Ahhh![BR]
+
+め、めまいが[BR]
+I-I'm feeling[BR]
+
+するぅ。[CLS]
+dizzyyy...[CLS]
+
+[ED]
+[ED]
+
+
+くらくらぁ。[BR]
+*wobble*[BR]
+
+めまいが[BR]
+I'm feeling[BR]
+
+するよぉ。[CLS]
+dizzy...[CLS]
+
+[ED]
+[ED]
+
+
+($C0)めまいが[BR]
+($C0)You no longer[BR]
+
+ひいていった。[CLS]
+feel dizzy.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「きゃん」[BR]
+($C1)"Kyan!"[BR]
+
+「ぷん」[BR]
+"Poon!"[BR]
+
+「ぴゃん」($C9)ハ[CLS]
+"Pyan!"($C9)ハ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「い」[BR]
+($C1)"Eeh..."[BR]
+
+「う」[BR]
+"Uuh..."[BR]
+
+「おー」($C9)ヒ[ED]
+"Ooh..."($C9)ヒ[ED]
+
+
+($C1)バンシーズは[BR]
+($C1)The Banshees[BR]
+
+ばたんきゅー。[CLS]
+have piped down.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「わたしに[BR]
+($C1)"Give it[BR]
+
+　　あたえよ」($C9)フ[CLS]
+to me..."($C9)フ[CLS]
+
+($C0)「な、[BR]
+($C0)"W-Who?[BR]
+
+What do you want?!"($C9)こ[CLS]
+($C9)こ[CLS]
+
+($C1)「ちを！」($C9)ヘ[CLS]
+($C1)"YOUR BLOOD!"($C9)ヘ[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($C1)バンパイアが[BR]
+($C1)A Vampire[BR]
+
+あらわれた。[CLS]
+draws near.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)アルルに[BR]
+($C1)He swoops[BR]
+
+おそいかかる。($C9)ホ[ED]
+down on Arle.($C9)ホ[ED]
+
+
+($C1)くびすじに[BR]
+($C1)He brings his[BR]
+
+くちびるを[BR]
+lips close to[BR]
+
+よせる。($C9)け[CLS]
+her neck.($C9)け[CLS]
+
+($CD)($C0)「わ！　わ！[BR]
+($CD)($C0)"Aaaah![BR]
+
+　せまって[BR]
+Don't get[BR]
+
+くるなよぉ！」[CLS]
+any closer!"[CLS]
+
+($C1)やわらかい[BR]
+($C1)He bites[BR]
+
+はだに[BR]
+on her soft[BR]
+
+かみつく。[CLS]
+skin.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+うぅ・・・($C9)さ[CLS]
+Ugh...($C9)さ[CLS]
+
+($C1)ちゅーちゅー。($C9)マ[CLS]
+($C1)*sluuurp*($C9)マ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「よみに　すむ[BR]
+($C1)"Comrades from[BR]
+
+　わがともよ、[BR]
+Hell, lend me[BR]
+
+　ちからを！」[CLS]
+your power!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)やみが[BR]
+($C1)The Vampire[BR]
+
+バンパイアを[BR]
+is covered[BR]
+
+つつみこんだ。[CLS]
+by darkness.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)うしなった[BR]
+($C1)He recovers[BR]
+
+ちからが[BR]
+his lost[BR]
+
+よみがえる。[CLS]
+strength.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)やみのちからで[BR]
+($C1)He creates a[BR]
+
+みぎてにムチを[BR]
+whip using the[BR]
+
+つくりだす。[CLS]
+power of darkness.[CLS]
+
+($CD)($C0)「げげげっ！」($C9)け[CLS]
+($CD)($C0)"Oh crap!"($C9)け[CLS]
+
+($CC)シ($C1)ピシッ！[BR]
+($CC)シ($C1)*snap*[BR]
+
+ピシッ！[BR]
+*snap*[BR]
+
+ピシッッッ！！[ED]
+*SNAP*[ED]
+
+
+($C1)「フッ！」[BR]
+($C1)"Hmph!"[BR]
+
+するどいキバを[BR]
+His sharp fangs[BR]
+
+とばす。[ED]
+fall off.[ED]
+
+
+($C1)「わたしの[BR]
+($C1)"W-Where[BR]
+
+　キバは[BR]
+did my[BR]
+
+　　どこだ？」[CLS]
+fangs go?"[CLS]
+
+バンパイアは[BR]
+The Vampire[BR]
+
+キバを[BR]
+is looking[BR]
+
+さがしている。[CLS]
+for his fangs.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「くっ」($C9)ミ[CLS]
+($C1)"Urgh!"($C9)ミ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「な、なんだ[BR]
+($C1)"W-What in the[BR]
+
+　それは！？」[CLS]
+world are those?!"[CLS]
+
+($CD)($C0)「ただの[BR]
+($CD)($C0)"They're just veggies.[BR]
+
+らっきょだよ」[CLS]
+This one's an onion."[CLS]
+
+($C1)「うぉぉ！[BR]
+($C1)"ARGH![BR]
+
+　は、はやく[BR]
+T-Throw it[BR]
+
+　すてろっ！」[CLS]
+away! Hurry!!"[CLS]
+
+バンパイアは[BR]
+The Vampire does[BR]
+
+らっきょを[BR]
+not seem to like[BR]
+
+こわがってる。[CLS]
+onions.[CLS]
+
+($CD)($C0)にやぁ。[CLS]
+($CD)($C0)*grin*[CLS]
+
+うりうり。[BR]
+*poke* *poke*[BR]
+
+「おいしいから[BR]
+"Eat your veggies.[BR]
+
+たべてごらん」[CLS]
+They're good for you."[CLS]
+
+らっきょを[BR]
+You poke the[BR]
+
+バンパイアに[BR]
+Vampire with[BR]
+
+おしつける。[CLS]
+an onion.[CLS]
+
+($C1)「ひえええええ[BR]
+($C1)"EEEEEE[BR]
+
+えええええええ[BR]
+EEEWWW[BR]
+
+ええええ！！」[CLS]
+WWWWWW!!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)バンパイアは[BR]
+($C1)The Vampire[BR]
+
+にげた。[CLS]
+runs away.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)バンパイアは[BR]
+($C1)The Vampire[BR]
+
+くずれて[BR]
+crumbles apart,[BR]
+
+はいになった。[CLS]
+leaving ashes behind.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)すきまかぜで[BR]
+($C1)A draft of air[BR]
+
+はいは[BR]
+blows the ashes[BR]
+
+ふきとんだ。[CLS]
+away.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)マミーが[BR]
+($C1)It's a[BR]
+
+でてきた。[CLS]
+Mummy.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ほうたいを[BR]
+($C1)A Mummy walks[BR]
+
+まきなおして[BR]
+by, rewinding[BR]
+
+マミーがきた。[CLS]
+its bandages.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)パンチだ！($C9)モ[ED]
+($C1)"Punch!"($C9)モ[ED]
+
+
+($C1)キックだ！($C9)モ[ED]
+($C1)"Kick!"($C9)モ[ED]
+
+
+($C1)「はぁあああ」($C9)ヤ[CLS]
+($C1)"Haaaah!"($C9)ヤ[CLS]
+
+($C1)きあいを[BR]
+($C1)It psyches[BR]
+
+ためている。[CLS]
+itself up.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($C1)ダイナマイト[BR]
+($C1)"Dynamite[BR]
+
+パンチだっ！！($C9)モ($C9)モ($C9)モ[ED]
+Punch!!"($C9)モ($C9)モ($C9)モ[ED]
+
+
+($C1)ダイナマイト[BR]
+($C1)"Dynamite[BR]
+
+キックだっ！！($C9)モ($C9)モ($C9)モ[ED]
+Kick!!"($C9)モ($C9)モ($C9)モ[ED]
+
+
+($C1)ほうたいを[BR]
+($C1)It throws[BR]
+
+なげつける。($C9)モ[CLS]
+bandages at you.($C9)モ[CLS]
+
+($CD)($C0)ほうたいが[BR]
+($CD)($C0)The bandages[BR]
+
+からだに[BR]
+coil around[BR]
+
+からみつく。[CLS]
+you.[CLS]
+
+「いやーん、[BR]
+"G-Get them[BR]
+
+　なにこれっ！[BR]
+off of me![BR]
+
+うごけない！」($C9)８[CLS]
+Ah! I can't move!"($C9)８[CLS]
+
+アルルは[BR]
+Arle is unable[BR]
+
+うごけない。[CLS]
+to move.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ほうたいが[BR]
+($C1)Its bandages[BR]
+
+ほどけている。[CLS]
+come loose.[CLS]
+
+($CD)($C0)「そのままだと[BR]
+($CD)($C0)"Uhmm...[BR]
+
+からだが[BR]
+I can see[BR]
+
+みえちゃうよ」[CLS]
+your body."[CLS]
+
+($C1)「きゃっ！！」[CLS]
+($C1)"Eeeek!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)あわてて[BR]
+($C1)The Mummy runs[BR]
+
+にげた。[CLS]
+away, flustered.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「うっく」($C9)ユ[CLS]
+($C1)"Uck."($C9)ユ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「あちちっ！」[BR]
+($C1)"H-Hot!"[BR]
+
+ほうたいが[BR]
+The bandages[BR]
+
+もえだした。[CLS]
+catch fire.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)あつさで[BR]
+($C1)It's writhing[BR]
+
+のたうち[BR]
+in pain from[BR]
+
+まわっている。[CLS]
+the heat.[CLS]
+
+($CD)($C0)あらららら。[CLS]
+($CD)($C0)Oh dear.[CLS]
+
+($C1)「！！！！！」[CLS]
+($C1)"!!!!!!"[CLS]
+
+($C1)「！！！！！！[BR]
+($C1)"!!!!!![BR]
+
+！！！！！！」[CLS]
+!!!!!!"[CLS]
+
+($C1)「！！！！！！[BR]
+($C1)"!!!!!![BR]
+
+！！！！！！！[BR]
+!!!!!![BR]
+
+！！！！！！」[CLS]
+!!!!!!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ふぅ・・・」[CLS]
+($C1)"Whew..."[CLS]
+
+($C1)なんとか[BR]
+($C1)It managed[BR]
+
+ほのおを[BR]
+to put out[BR]
+
+けしとめた。[CLS]
+the fire.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)マミーは[BR]
+($C1)The Mummy[BR]
+
+ばたんきゅー。[CLS]
+is unraveled.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ラミアが[BR]
+($C1)A Lamia[BR]
+
+すべってきた。[CLS]
+slithers your way.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)さけた　したが[BR]
+($C1)She stretches[BR]
+
+ムチのように[BR]
+her tongue and[BR]
+
+のびる！($C9)ル[ED]
+uses it like a whip!($C9)ル[ED]
+
+
+($C1)アルルの[BR]
+($C1)She bites[BR]
+
+うでを[BR]
+Arle's[BR]
+
+かむ！[ED]
+arm![ED]
+
+
+どくが[BR]
+Ohhh...[BR]
+
+ぜんしんに[BR]
+I think I'm[BR]
+
+まわるよぅ。[CLS]
+poisoned...[CLS]
+
+[ED]
+[ED]
+
+
+($C1)はいごに[BR]
+($C1)You notice[BR]
+
+くろい　かげが[BR]
+a shadow coming[BR]
+
+あらわれた。($C9)ロ[CLS]
+from the back.($C9)ロ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ラミアは[BR]
+($C1)The Lamia[BR]
+
+くろい　かげに[BR]
+is engulfed[BR]
+
+のみこまれた。($C9)ワ[CLS]
+by the shadow.($C9)ワ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ガルダが[BR]
+($C1)Garuda has[BR]
+
+あらわれた。[CLS]
+appeared.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)すごいはやさで[BR]
+($C1)It flies[BR]
+
+アルルを[BR]
+towards Arle[BR]
+
+おそう！($C9)ル($C1)が、うろこが[BR]
+with great speed!($C9)ル($C1)...But the ceiling[BR]
+
+すべって[BR]
+is low, so it[BR]
+
+ころんだ。[CLS]
+just falls down.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「なかなか[BR]
+($C1)"You're[BR]
+
+やるじゃない」($C9)レ[CLS]
+pretty good."($C9)レ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ラミアは[BR]
+($C1)Lamia was out[BR]
+
+ばたんきゅー。[CLS]
+of her league.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ガルダが[BR]
+($C1)Garuda swoops[BR]
+
+おりてきた。[CLS]
+down.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)するどい[BR]
+($C1)She scratches[BR]
+
+あしで[BR]
+at you with[BR]
+
+ひっかく！($C9)ン[ED]
+her sharp talons!($C9)ン[ED]
+
+
+ガルダの[BR]
+You are afflicted[BR]
+
+どくを[BR]
+by Garuda's[BR]
+
+くらった。[CLS]
+poison.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ガルダは[BR]
+($C1)Garuda flaps[BR]
+
+おもいっきり[BR]
+her wings with[BR]
+
+はばたいた。($C9)ン($C0)「わわわっ！[BR]
+all her might.($C9)ン($C0)"Whoa![BR]
+
+すごい[BR]
+The wind pressure[BR]
+
+ふうあつ！！」[ED]
+is incredible!"[ED]
+
+
+($C1)ガルダが[BR]
+($C1)Garuda[BR]
+
+りゅうのツメを[BR]
+steals your[BR]
+
+うばった。($C9)ン($C0)しまった！[CLS]
+Dragon Claw.($C9)ン($C0)Dang it![CLS]
+
+[ED]
+[ED]
+
+
+($C1)ガルダは[BR]
+($C1)Garuda[BR]
+
+ニコニコがおで[BR]
+grins and[BR]
+
+とんでいった。[CLS]
+flies away.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「クー」($C9)ン[CLS]
+($C1)"Koo!"($C9)ン[CLS]
+
+[ED]
+[ED]
+
+
+($C1)はばたいて[BR]
+($C1)She flaps her[BR]
+
+まほうを[BR]
+wings and deflects[BR]
+
+はねのけた。($C9)ワ[CLS]
+your spell.($C9)ワ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ガルダは[BR]
+($C1)Garuda's all[BR]
+
+ばたんきゅー。[CLS]
+feathered out.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)サタンが[BR]
+($C1)Satan stands[BR]
+
+うかびでた。[CLS]
+before you.[CLS]
+
+($C1)「いさぎよく[BR]
+($C1)"Join me,[BR]
+
+わたしの[BR]
+and become[BR]
+
+きさきになれ」[CLS]
+my bride."[CLS]
+
+($C0)「やだよっ」($C9)く[CLS]
+($C0)"No way."($C9)く[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「しょうがいの[BR]
+($C1)"Swear to[BR]
+
+　あいを[BR]
+love me for[BR]
+
+　　ちかえっ」[CLS]
+all eternity."[CLS]
+
+($C0)「やだってば」[CLS]
+($C0)"I said no!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「わたしは[BR]
+($C1)"I would[BR]
+
+せかいが[BR]
+shower you with[BR]
+
+ほろびようとも[CLS]
+affection,[CLS]
+
+おまえを[BR]
+even after[BR]
+
+あいしてやると[BR]
+the end of[BR]
+
+　　いうのに」[CLS]
+the world."[CLS]
+
+($C0)「いらない[BR]
+($C0)"I don't want anything[BR]
+
+　よぉーだ！」[CLS]
+to do with you!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「しかたない。[BR]
+($C1)"It seems I'll[BR]
+
+おとなしく[BR]
+have to convince[BR]
+
+してもらおう」[CLS]
+you the hard way."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「おろかな」($C9)ィ[ED]
+($C1)"You fool."($C9)ィ[ED]
+
+
+($C1)「おまえの[BR]
+($C1)"Your[BR]
+
+　たいりょくを[BR]
+endurance[BR]
+
+　　もらうぞ」[CLS]
+is mine."[CLS]
+
+サタンが[BR]
+Satan[BR]
+
+アルルに[BR]
+draws close[BR]
+
+しのびよる。[CLS]
+to Arle.[CLS]
+
+($C0)「ちょっと！[BR]
+($C0)"Hey![BR]
+
+やめてよ[BR]
+Stay away from me,[BR]
+
+へんたい！！」[CLS]
+you perv!"[CLS]
+
+[ED]
+[ED]
+
+
+たいりょくを[BR]
+He absorbs[BR]
+
+すいとられた。[CLS]
+your endurance.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ほぉ」($C9)ゥ[CLS]
+($C1)"Hoh."($C9)ゥ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)サタンは[BR]
+($C1)Satan[BR]
+
+ニヤリと[BR]
+is[BR]
+
+わらった。[CLS]
+grinning.[CLS]
+
+($C0)「ありゃぁ？」($C9)き($C1)マントで[BR]
+($C0)"Huh?"($C9)き($C1)He deflects[BR]
+
+こうげきを[BR]
+your spell[BR]
+
+はねのけた。[CLS]
+with his cape.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「なかなか[BR]
+($C1)"You're pretty[BR]
+
+　　　やるな」($C9)ェ[CLS]
+good."($C9)ェ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ゆるさぬぞ」($C9)ォ($C0)わわわ。[CLS]
+($C1)"You'll pay for this!"($C9)ォ($C0)Uh-oh.[CLS]
+
+そうとう[BR]
+I think[BR]
+
+おこってるよ。[BR]
+I made him[BR]
+
+まいったなぁ。[CLS]
+angry.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「しねっ！」($C9)ャ[ED]
+($C1)"Die!"($C9)ャ[ED]
+
+
+($C1)「おまえの[BR]
+($C1)"Give[BR]
+
+　ちからを[BR]
+me your[BR]
+
+　ささげよっ」[CLS]
+power!"[CLS]
+
+サタンが[BR]
+Satan[BR]
+
+アルルに[BR]
+approaches[BR]
+
+せまった。[CLS]
+Arle.[CLS]
+
+($C0)「よ、[BR]
+($C0)"S-Stay away[BR]
+
+よるなぁ！！」[CLS]
+from me!!"[CLS]
+
+[ED]
+[ED]
+
+
+たいりょくと[BR]
+He absorbs[BR]
+
+まどうりょくを[BR]
+your endurance[BR]
+
+すいとられた。[CLS]
+and magic.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ぐぉっ」($C9)ュ[CLS]
+($C1)"Urgh!"($C9)ュ[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「あまいなっ」[CLS]
+($C1)"Too easy."[CLS]
+
+($C0)「げげげっ！」($C9)け($C1)マントを[BR]
+($C0)"Crap!"($C9)け($C1)He waves[BR]
+
+ひるがえして[CLS]
+his cape,[CLS]
+
+こうげきを[BR]
+deflecting[BR]
+
+はねかえした。[CLS]
+your spell.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ビリビリッ。[BR]
+($C1)*riiip*[BR]
+
+「しまった！」[CLS]
+"Darn it!"[CLS]
+
+サタンの[BR]
+Satan's[BR]
+
+マントが[BR]
+cape is[BR]
+
+やぶれた。[CLS]
+torn.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)サタンさまは[BR]
+($C1)Lord Satan[BR]
+
+ばたんきゅー。[CLS]
+has been defeated.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)バンパイアは[BR]
+($C1)The Vampire[BR]
+
+あわてて[BR]
+panics and[BR]
+
+にげてった。
+runs away.

@@ -1,0 +1,598 @@
+　　　プランナー($D0)[ED]
+Planner($D0)[ED]
+
+
+($C2)はくりゅうほう　かすみ($D0)[ED]
+($C2)Kasumi Hakuryuho($D0)[ED]
+
+
+($C2)　　ドクターけいみ($D0)[ED]
+($C2)Doctor Keimi($D0)[ED]
+
+
+($C2)　　　プログラマー($D0)[ED]
+($C2)Programmer($D0)[ED]
+
+
+($C2)　　にしざか　ひとし($D0)[ED]
+($C2)Hitoshi Nishizaka($D0)[ED]
+
+
+($C2)　　　デザイナー($D0)[ED]
+($C2)Designer($D0)[ED]
+
+
+($C2)　　　あるてみす($D0)[ED]
+($C2)Artemis($D0)[ED]
+
+
+($C2)　　　サウンド($D0)[ED]
+($C2)Sound($D0)[ED]
+
+
+($C2)　　　($87)($86)($88)($89)($D0)[ED]
+($C2)BA.M($D0)[ED]
+
+
+($C2)　　　ディレクター($D0)[ED]
+($C2)Director($D0)[ED]
+
+
+($C2)　　すえなが　かつじ($D0)[ED]
+($C2)Katsuji Suenaga($D0)[ED]
+
+
+($C2)　　プロデューサー($D0)[ED]
+($C2)Producer($D0)[ED]
+
+
+($C2)　　($89)($8A)($8A)にいたに($D0)[ED]
+($C2)($89)($8A)($8A)にいたに($D0)[ED]
+
+
+($C1)リュンクスは[BR]さいふを[BR]ぬすんだ。($D0)[ED]
+($C1)The Lynx[BR]has stolen[BR]your wallet.($D0)[ED]
+
+
+($C0)し、しまった！($D0)[ED]
+($C0)Oh no!($D0)[ED]
+
+
+($C2)ぼくの　なまえは　アルル・ナジャ($8E)($D0)[ED]
+($C2)My name is Arle Nadja.($8E)($D0)[ED]
+
+
+($C2)このまえ　($8B)($8C)さいになったばかり($8E)($D0)[ED]
+($C2)I've just turned 16 years old.($8E)($D0)[ED]
+
+
+($C2)これでも　まどうしの　たまごなんだよ($8E)($D0)[ED]
+($C2)Believe it or not, I'm a magician in the making.($8E)($D0)[ED]
+
+
+($C2)ぼくは　まどうを　べんきょうするために($8D)($D0)[ED]
+($C2)I was on my way to the Ancient Magic School($8D)($D0)[ED]
+
+
+($C2)こだいまどうスクールへ　いくんだ($8E)($D0)[ED]
+($C2)in order to study.$8E)($D0)[ED]
+
+
+($C2)スクールは　とぉーいところに　あるから($D0)[ED]
+($C2)The School is preeetty far away,($D0)[ED]
+
+
+($C2)とっても　たいへんだけど($8D)ぼくは($D0)[ED]
+($C2)so it's been kinda hard,($D0)[ED]
+
+
+($C2)せかいいちの　まどうしになるために($D0)[ED]
+($C2)but I want to become the($D0)[ED]
+
+
+($C2)いっしょうけんめい　がんばるんだ($8E)($D0)[ED]
+($C2)best magician in the world.($8E)($D0)[ED]
+
+
+($C2)だから($8D)こんなところで($D0)[ED]
+($C2)That's why I can't let($D0)[ED]
+
+
+($C2)てまどってるばあいぢゃないよ($8E)($D0)[ED]
+($C2)something like this stop me!($8E)($D0)[ED]
+
+
+($C2)はやく　つかまえなきゃ($8E)($D0)[ED]
+($C2)I have to catch that Lynx!($8E)($D0)[ED]
+
+
+($C2)わわっ！！($D0)[ED]
+($C2)Whoa!!($D0)[ED]
+
+
+($C2)「フフフ・・・」($D0)[ED]
+($C2)"Heheheh..."($D0)[ED]
+
+
+($C2)「だれ！？　なんのようなの！？」($D0)[ED]
+($C2)"Who are you?! What do you want?!"($D0)[ED]
+
+
+($C2)「おまえの　すべてが　ほしいだけだ」($D0)[ED]
+($C2)"I want you. All of you."($D0)[ED]
+
+
+($C2)ああああああああ！($D0)[ED]
+($C2)EEEEK!($D0)[ED]
+
+
+($C2)へんたいだわ　このひとっ！($D0)[ED]
+($C2)IT'S A PERVERT!($D0)[ED]
+
+
+($C2)「ウィリィィィィィィィィィ・・・」($D0)[ED]
+($C2)"Veryyy much..."($D0)[ED]
+
+
+($C2)！！！！！！！！！($D0)[ED]
+($C2)!!!($D0)[ED]
+
+
+($C2)「スゥゥゥリィィィィィプ！」($D0)[ED]
+($C2)Sleeeeep!($D0)[ED]
+
+
+($C2)「うああああああぁぁぁぁぁ・・・」($D0)[ED]
+($C2)AAAAaaaahhh...($D0)[ED]
+
+
+($C2)いったぁーい($8E)あたまが　ズキズキする($8E)($D0)[ED]
+($C2)Awww... My head... It hurts...($8E)($D0)[ED]
+
+
+($C2)なによ($8D)あの　まどうし！($D0)[ED]
+($C2)What was up with that mage?!($D0)[ED]
+
+
+($C2)ちょーっと　かおが　いいからって！($D0)[ED]
+($C2)He can't get away with it just 'cause he's got a pretty face!($D0)[ED]
+
+
+($C2)ひとりで　もんくいっても　しかたないや($8E)($D0)[ED]
+($C2)Ugh. No point in whining now.($8E)($D0)[ED]
+
+
+($C2)まほうで　すぐに　だっしゅつしよう($8E)($D0)[ED]
+($C2)I'll use my magic to get out of here.($8E)($D0)[ED]
+
+
+($C2)えーと($8D)ワー・・・・・・・・・・($D0)[ED]
+($C2)Uhmm, what was it? Wa...?($D0)[ED]
+
+
+($C2)！？　ま($8D)まほうが　おもいだせないっ！？($D0)[ED]
+($C2)*gasp* I-I can't remember it!($D0)[ED]
+
+
+($C2)くそぉーーーーーーーーーーっ！！($D0)[ED]
+($C2)OH COME ON!!($D0)[ED]
+
+
+($C2)まりょくを　すいとられたっ！！！！！($D0)[ED]
+($C2)I lost my magic power!!!($D0)[ED]
+
+
+($C2)・・・・・・・・・($D0)[ED]
+($C2)......($D0)[ED]
+
+
+($C2)「ずずず・・・($8E)んーーーーー($8D)うまい！」($D0)[ED]
+($C2)*slurp* "Hmm-hm! Delish!"($D0)[ED]
+
+
+($C2)「おちゃは　ウーロンに　かぎるなぁ」($D0)[ED]
+($C2)"Oolong tea is the best!"($D0)[ED]
+
+
+($C2)まものだ($8E)みはってる・・・($D0)[ED]
+($C2)That monster's standing watch...($D0)[ED]
+
+
+($C2)まほうが　つかえないとなると・・・($D0)[ED]
+($C2)If I can't use my magic...($D0)[ED]
+
+
+($C2)これしかないっ！！($D0)[ED]
+($C2)I'll have to use my other skills!($D0)[ED]
+
+
+($C2)ぼくは　まものを　いろけで　だまして($D0)[ED]
+($C2)I used my "feminine wiles" to trick the monster($D0)[ED]
+
+
+($C2)カギを　うばいとった($8E)($D0)[ED]
+($C2)and steal the key.($8E)($D0)[ED]
+
+
+($C2)こんな　ちかろうからは($8D)($D0)[ED]
+($C2)I'm gonna leave this dungeon,($8D)($D0)[ED]
+
+
+($C2)さっさと　だっしゅつしてやるっ！！($D0)[ED]
+($C2)lickety-split!($D0)[ED]
+
+
+($C1)リュンクスが[BR]あらわれた。($D0)[ED]
+($C1)A Lynx[BR]has appeared.($D0)[ED]
+
+
+($C0)うわぁ、[BR]かわいぃー。　($D0)[ED]
+($C0)Awww.[BR]It's so cute!($D0)[ED]
+
+
+($C0)え？($D0)[ED]
+($C0)Huh?($D0)[ED]
+
+
+($C2)ライラの　いせき・・・($D0)[ED]
+($C2)Lyra's ruins...($D0)[ED]
+
+
+($C2)えいがを　きわめた　ライラぞくの($D0)[ED]
+($C2)What's left of the($D0)[ED]
+
+
+($C2)はなやかな　ぶんめいの　あと($8E)($D0)[ED]
+($C2)once-glorious Lyrans.($8E)($D0)[ED]
+
+
+($C2)「ミイルが　いってたのは　ここね」($D0)[ED]
+($C2)This must be the place Miilu mentioned.($D0)[ED]
+
+
+($C2)この　ちかに($8D)ルベルクラクっていう($D0)[ED]
+($C2)That jewel, ($8D)the Rubelcrack($D0)[ED]
+
+
+($C2)ほうせきが　ねむってるらしい($8E)($D0)[ED]
+($C2)should be down here.($8E)($D0)[ED]
+
+
+($C2)え゛？($D0)[ED]
+($C2)Huh?($D0)[ED]
+
+
+($C2)「きゃーーーーーーーーーーー！！！！！」($D0)[ED]
+($C2)EEEEEEK!!!($D0)[ED]
+
+
+($C2)いてて・・・・・($D0)[ED]
+($C2)Owww...($D0)[ED]
+
+
+($C2)おしり　うっちゃった・・・・・($D0)[ED]
+($C2)My poor butt...($D0)[ED]
+
+
+($C2)でも($8D)きょうりょくな　まりょくを　ひめた($D0)[ED]
+($C2)Anyway, ($8D)the Staff of Uranus holds($D0)[ED]
+
+
+($C2)ウラノスのつえと　こうかんなんて($8D)($D0)[ED]
+($C2)great power. What kind of jewel($8D)($D0)[ED]
+
+
+($C2)いったい　どんな　ほうせきなんだろ・・・($D0)[ED]
+($C2)could be a worthy trade...?($D0)[ED]
+
+
+($C2)「きゃああああああああああっ！！」($D0)[ED]
+($C2)EEEEEK!($D0)[ED]
+
+
+($C2)「ぐ・・・・・」($D0)[ED]
+($C2)"Goo..."($D0)[ED]
+
+
+($C2)「ぐ！？」($D0)[ED]
+($C2)"'Goo'?!"($D0)[ED]
+
+
+($C2)「ぐ・・・ぐぐぐ・・・・・」($D0)[ED]
+($C2)"Goo... Ghhh..."($D0)[ED]
+
+
+($C2)「ひたいの　ほうせき・・・」($D0)[ED]
+($C2)That jewel on its forehead...($D0)[ED]
+
+
+($C2)「ルベルクラクだ・・・・・」($D0)[ED]
+($C2)That must be the Rubelcrack...($D0)[ED]
+
+
+($C2)「だいじょうぶだよ($8D)おびえなくても($8E)($D0)[ED]
+($C2)No need to be afraid.($D0)[ED]
+
+
+($C2)きみの　ひたいから($D0)[ED]
+($C2)I won't take that thing($D0)[ED]
+
+
+($C2)もぎとったりしないから」($D0)[ED]
+($C2)from your forehead."($D0)[ED]
+
+
+($C2)「・・・・・・・・・・」($D0)[ED]
+($C2)"......"($D0)[ED]
+
+
+($C2)「ぼくを　しんじて」($D0)[ED]
+($C2)"You can trust me."($D0)[ED]
+
+
+($C2)「ぐぐ・・・・・」($D0)[ED]
+($C2)"Ghgh..."($D0)[ED]
+
+
+($C2)「ぐぅーーーーー！！」($D0)[ED]
+($C2)"GOO!!"($D0)[ED]
+
+
+($C2)ルベルクラクを　うめこんだ　せいぶつは($8D)($D0)[ED]
+($C2)Once he realized I was not going to hurt him,($8D)($D0)[ED]
+
+
+($C2)ぼくに　てきいがないことを　かんじると($8D)($D0)[ED]
+($C2)the cute creature carrying the Rubelcrack($8D)($D0)[ED]
+
+
+($C2)ゆっくりと　ちかづいてきた($8E)($D0)[ED]
+($C2)approached me, little by little.($8E)($D0)[ED]
+
+
+($C2)ウラノス・スタッフを　てにいれることは($D0)[ED]
+($C2)I was unable to obtain the($D0)[ED]
+
+
+($C2)できなくなったけど($8D)($D0)[ED]
+($C2)Staff of Uranus, but it's fine.($8D)($D0)[ED]
+
+
+($C2)かわりに　みつけた　($8B)ぴきの　なかま($8E)($D0)[ED]
+($C2)I've made a new friend.($8E)($D0)[ED]
+
+
+($C2)ぼくたちは　ライラのいせきをあとにした($8E)($D0)[ED]
+($C2)I can finally leave Lyra's ruins behind.($8E)($D0)[ED]
+
+
+($C2)「じゃ($8D)いこっか」($D0)[ED]
+($C2)"Okay, let's go!"($D0)[ED]
+
+
+($C2)「ぐーーーーー！」($D0)[ED]
+($C2)"Goo!"($D0)[ED]
+
+
+($C2)「あれ？($D0)[ED]
+($C2)"Hm?($D0)[ED]
+
+
+($C2)なにか　わすれてる　きがするけど・・・」($D0)[ED]
+($C2)I feel like I forgot something..."($D0)[ED]
+
+
+($C2)「ぐ？」($D0)[ED]
+($C2)"Goo?"($D0)[ED]
+
+
+($C2)「ま($8D)いっか」($D0)[ED]
+($C2)"It's probably nothing important."($D0)[ED]
+
+
+($C2)「ぐーーーーーーーーーーっ！！」($D0)[ED]
+($C2)"GOO!"($D0)[ED]
+
+
+($C2)　　　　　お　　　わ　　　り($D0)[ED]
+($C2)　　　　　　THE END($D0)[ED]
+
+
+($C2)　　プロデューサー　　　[BR]　　($89)($8A)($8A)にいたに　　　($D0)[ED]
+($C2)Producer[BR]　　($89)($8A)($8A)Niitani($D0)[ED]
+
+
+($C2)　　　ディレクター　　　[BR]　　すえなが　かつじ　　($D0)[ED]
+($C2)Director[BR]Katsuji Suenaga($D0)[ED]
+
+
+($C2)　　　プランナー　　　　[BR]はくりゅうほう　かすみ　($D0)[ED]
+($C2)Planner[BR]Kasumi Hakuryuho($D0)[ED]
+
+
+($C2)　　　プランナー　　　　[BR]　　ドクターけいみ　　　($D0)[ED]
+($C2)Planner[BR]Doctor Keimi($D0)[ED]
+
+
+($C2)　　　プログラマー　　　[BR]　　にしざか　ひとし　　($D0)[ED]
+($C2)Programmer[BR]Hitoshi Nishizaka($D0)[ED]
+
+
+($C2)グラフィックデザイナー　[BR]　　　あるてみす　　　　($D0)[ED]
+($C2)Graphic Designer[BR]Artemis($D0)[ED]
+
+
+($C2)サウンド($8F)サンプリング　[BR]　　　　($87)($86)($88)($89)　　　　($D0)[ED]
+($C2)Sound & Sampling[BR]BA.M($D0)[ED]
+
+
+($C2)　　　コンポーザー　　　[BR]　　　　　まつ　　　　　($D0)[ED]
+($C2)Composer[BR]Matsu($D0)[ED]
+
+
+($C2)　　　コンポーザー　　　[BR]　　　　($87)($86)($88)($89)　　　　($D0)[ED]
+($C2)Composer[BR]BA.M($D0)[ED]
+
+
+($C2)　サウンド・ドライバー　[BR]　　じぇみに　ひろの　　($D0)[ED]
+($C2)Sound Driver[BR]Hirono Gemini($D0)[ED]
+
+
+($C2)パッケージ($8F)マニュアル　[BR]　　きづき　あやめ　　　($D0)[ED]
+($C2)Package & Manual[BR]Ayame Kizuki($D0)[ED]
+
+
+($C2)パッケージ($8F)マニュアル　[BR]　　レインボーパパ　　　($D0)[ED]
+($C2)Package & Manual[BR]Rainbow Papa($D0)[ED]
+
+
+($C2)パッケージ($8F)マニュアル　[BR]　　　　　いち　　　　　($D0)[ED]
+($C2)Package & Manual[BR]Ichi($D0)[ED]
+
+
+($C2)パッケージ($8F)マニュアル　[BR]　　　あるてみす　　　　($D0)[ED]
+($C2)Package & Manual[BR]Artemis($D0)[ED]
+
+
+($C2)パッケージ($8F)マニュアル　[BR]　　かずと　ひそく　　　($D0)[ED]
+($C2)Package & Manual[BR]Hisoku Kazuto($D0)[ED]
+
+
+($C2)　　　きょうりょく　　　[BR]　　　　($90)($91)($91)　　　　　($D0)[ED]
+($C2)Cooperation[BR]RCC($D0)[ED]
+
+
+($C2)　　　きょうりょく　　　[BR]　　けみ・じゅにあ　　　($D0)[ED]
+($C2)Cooperation[BR]Kemi Junior($D0)[ED]
+
+
+($C2)　　　きょうりょく　　　[BR]　コンパイルのみんな　　($D0)[ED]
+($C2)Cooperation[BR]All of Compile's Staff($D0)[ED]
+
+
+($C2)　　　($92)($8B)($93)($93)($94)　($95)($96)($97)($98)($99)($9A)[ED]
+($C2)($92)1994 COMPILE[ED]
+
+
+らっきょ[ED]
+Veggies[ED]
+
+
+ふくじんづけ[ED]
+Pickles[ED]
+
+
+カレーライス[ED]
+Curry[ED]
+
+
+せんにんザケ[ED]
+Wizard Wine[ED]
+
+
+まどうザケ[ED]
+Magic Liquor[ED]
+
+
+もももザケ[ED]
+Momomo Sake[ED]
+
+
+りゅうのツメ[ED]
+Dragon Claw[ED]
+
+
+りゅうのしっぽ[ED]
+Dragon Tail[ED]
+
+
+りゅうのツノ[ED]
+Dragon Horn[ED]
+
+
+のうてんぐさ[ED]
+Vigor Herbs[ED]
+
+
+いだてんぐさ[ED]
+Swift Herbs[ED]
+
+
+めんたまぐさ[ED]
+Focus Herbs[ED]
+
+
+どくけしそう[ED]
+Antidote Herbs[ED]
+
+
+どんぱうんぱ[ED]
+Donpa-Unpa[ED]
+
+
+うんぱ[ED]
+Unpa[ED]
+
+
+マンドレイク[ED]
+Mandrake[ED]
+
+
+はい[ED]
+Ashes[ED]
+
+
+しろてぶくろ[ED]
+White Mittens[ED]
+
+
+セイレーンのや[ED]
+Siren's Arrow[ED]
+
+
+おうごんリンゴ[ED]
+Golden Apple[ED]
+
+
+ミホのつえ[ED]
+Miho's Wand[ED]
+
+
+ピチのつえ[ED]
+Pich's Wand[ED]
+
+
+ロフのつえ[ED]
+Loph's Wand[ED]
+
+
+パポのつえ[ED]
+Papo's Wand[ED]
+
+
+あかのいし[ED]
+Red Gem[ED]
+
+
+あおのいし[ED]
+Blue Gem[ED]
+
+
+きいろのいし[ED]
+Yellow Gem[ED]
+
+
+イヤリング[ED]
+Earring[ED]
+
+
+[ED]
+[ED]
+
+
+アイテムぶくろ[ED]
+Item Bag[ED]
+
+
+ふくぶくろ
+Mystery Bag

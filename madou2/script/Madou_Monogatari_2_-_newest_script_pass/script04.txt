@@ -1,0 +1,6920 @@
+スイッチを[BR]
+You press[BR]
+
+いれたよ。[CLS]
+the switch.[CLS]
+
+($CC)れ($C1)ひがしのほうで[BR]
+($CC)れ($C1)You hear a noise[BR]
+
+おとがした。[CLS]
+from the east.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)ゆかに[BR]
+($C1)Something[BR]
+
+キラリと[BR]
+shines on[BR]
+
+ひかるもの。[CLS]
+the floor.[CLS]
+
+($CD)($C0)みずいろの[BR]
+($CD)($C0)It's a[BR]
+
+カギだ。[CLS]
+blue key.[CLS]
+
+[ED]
+[ED]
+
+
+みずいろの[BR]
+You got[BR]
+
+カギを[BR]
+the blue[BR]
+
+てにいれた。[CLS]
+key.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)はこの[BR]
+($C1)The chest[BR]
+
+なかは[BR]
+is[BR]
+
+からっぽ。[CLS]
+empty.[CLS]
+
+($CD)($CC)る($CE)７($CF)６($C0)し、しまった！[BR]
+($CD)($CC)る($CE)７($CF)６($C0)Oh no![BR]
+
+ワナだ！！[CLS]
+It's a trap![CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)おゆが[BR]
+($C1)It's hot[BR]
+
+あつまって、[CLS]
+water,[CLS]
+
+くうちゅうに[BR]
+floating[BR]
+
+ういている。[CLS]
+mid-air.[CLS]
+
+($CD)($C0)まほうの[BR]
+($CD)($C0)It's like[BR]
+
+おふろみたい。[CLS]
+a magic bath.[CLS]
+
+はいってみる？[ED]
+Go in?[ED]
+
+
+($CE)２($CF)３($C0)んんんん、[BR]
+($CE)２($CF)３($C0)Hmmm...[BR]
+
+いいきぶん。[CLS]
+So relaxing.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($CE)２($CF)４($C0)はいるの[BR]
+($CE)２($CF)４($C0)Meh.[BR]
+
+やーめた。[CLS]
+*shrug*[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)きぜつした[BR]
+($C1)There is a[BR]
+
+まものがいる。[CLS]
+monster, fainted.[CLS]
+
+($CD)($C0)ろうやから[BR]
+($CD)($C0)It's the one I[BR]
+
+ぬけでるときに[CLS]
+slapped silly[CLS]
+
+ぼくが[BR]
+when I got[BR]
+
+ひっぱたいた[BR]
+out of the[BR]
+
+やつだ。[CLS]
+cell.[CLS]
+
+[ED]
+[ED]
+
+
+($CC)も($CE)７($CF)５($C1)なかから[BR]
+($CC)も($CE)７($CF)５($C1)A poison[BR]
+
+どくのやが[BR]
+dart shoots[BR]
+
+とんできた！($D0)($C9)け($C0)あわてて[BR]
+out!($D0)($C9)け($C0)You manage[BR]
+
+よこに　とんで[BR]
+to get out[BR]
+
+よける。[CLS]
+of its way.[CLS]
+
+[ED]
+[ED]
+
+
+いったーい！($C9)金($C1)どくやは[BR]
+OWWW!($C9)金($C1)A poison[BR]
+
+アルルの[BR]
+dart shoots[BR]
+
+めのまえを[CLS]
+out,[CLS]
+
+すりぬけて[BR]
+hitting the[BR]
+
+とびらに[BR]
+door, barely[BR]
+
+ささった。[CLS]
+missing Arle.[CLS]
+
+($CD)($C0)しかしアルルは[BR]
+($CD)($C0)However, she[BR]
+
+あわてて[BR]
+panicked, and jumped[BR]
+
+よけたため[CLS]
+out of its way,[CLS]
+
+($D1)１($CE)３($CF)７($C0)かべに[BR]
+($D1)１($CE)３($CF)７($C0)crashing[BR]
+
+げきとつした。[BR]
+into the wall.[BR]
+
+「とほほ」[CLS]
+That was so lame...[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($CE)７($CF)５($C0)げげげっ！($C9)け($C1)まりょくを[BR]
+($CE)７($CF)５($C0)Eep!($C9)け($C1)The mummy of someone[BR]
+
+すいとられた[BR]
+who had all of its[BR]
+
+ミイラがいる。[CLS]
+magic sucked out.[CLS]
+
+($CD)($CE)０($CF)５($C0)ぞぞぞっ・・・[BR]
+($CD)($CE)０($CF)５($C0)*gulp*[BR]
+
+はやく[BR]
+If I don't[BR]
+
+にげないと[CLS]
+get out fast[CLS]
+
+ぼくも　おなじ[BR]
+I might[BR]
+
+うんめいに[BR]
+end up[BR]
+
+なってしまう。[CLS]
+the same...[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)じめんに[BR]
+($C1)There's a[BR]
+
+あなが[BR]
+hole in the[BR]
+
+ほってある。[CLS]
+ground.[CLS]
+
+($CD)($C0)にげだすために[BR]
+($CD)($C0)Maybe someone[BR]
+
+ほったのかな。[BR]
+was trying[BR]
+
+・・・でも、[CLS]
+to get out.[CLS]
+
+とちゅうで[BR]
+But it seems[BR]
+
+あきらめた[BR]
+they gave up[BR]
+
+みたいだ。[CLS]
+halfway through.[CLS]
+
+[ED]
+[ED]
+
+
+($CE)７($CF)０($C0)で、でぐちだ。[BR]
+($CE)７($CF)０($C0)The exit![BR]
+
+やっと[BR]
+I can[BR]
+
+そとにで・・・[CLS]
+finally get--[CLS]
+
+($D1)゛($D1)３($C1)「おとなしく[BR]
+($D1)゛($D1)３($C1)"You should[BR]
+
+ろうに　おれば[BR]
+have stayed[BR]
+
+よいものを」[CLS]
+in your cell."[CLS]
+
+($CD)($CE)６($CF)６($C0)「あ、[BR]
+($CD)($CE)６($CF)６($C0)"Ah![BR]
+
+　あんた！」[CLS]
+It's you!"[CLS]
+
+($C1)「おまえの[BR]
+($C1)"I wanted[BR]
+
+　まりょくは[BR]
+to take[BR]
+
+　ゆっくりと[CLS]
+my time[CLS]
+
+きゅうしゅう[BR]
+absorbing[BR]
+
+するつもり[BR]
+your magic,[BR]
+
+だったが[CLS]
+but you've[CLS]
+
+($D1)あ($D1)か($C1)しかたがない。[CLS]
+($D1)あ($D1)か($C1)forced my hand.[CLS]
+
+($D1)。($D1)い($C1)ここで[BR]
+($D1)。($D1)い($C1)I'll just[BR]
+
+しんで[BR]
+have to[BR]
+
+もらおう！」[CLS]
+kill you!"[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+金を１００[BR]
+Obtained[BR]
+
+てにいれた。[CLS]
+100G.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ゆかに[BR]
+($C1)Something[BR]
+
+キラリと[BR]
+shines on[BR]
+
+ひかるもの。[CLS]
+the floor.[CLS]
+
+($CD)($C0)あかいろの[BR]
+($CD)($C0)It's a[BR]
+
+カギだ。[CLS]
+red key.[CLS]
+
+[ED]
+[ED]
+
+
+あかいろの[BR]
+You got[BR]
+
+カギを[BR]
+the red[BR]
+
+てにいれた。[CLS]
+key.[CLS]
+
+[ED]
+[ED]
+
+
+($CE)６($CF)４($C0)みょうな[BR]
+($CE)６($CF)４($C0)You feel[BR]
+
+けはい・・・[BR]
+a weird[BR]
+
+・・・・・[CLS]
+presence...[CLS]
+
+($CE)６「な、[BR]
+($CE)"W-Who's[BR]
+
+なにもの！？」[CLS]
+there?!"[CLS]
+
+($C1)「おじょうさん[BR]
+($C1)"Hello there,[BR]
+
+　・・・・・[CLS]
+young lady...[CLS]
+
+いっしょに[BR]
+How about[BR]
+
+おちゃ[BR]
+we have a[BR]
+
+しなーい？」[CLS]
+cup of tea?"[CLS]
+
+($CD)($CE)４($CF)６($C0)ずげっ。[CLS]
+($CD)($CE)４($CF)６($C0)Urgh.[CLS]
+
+きんちょうかん[BR]
+It's one of[BR]
+
+ないなぁ・・・[CLS]
+THOSE, huh...[CLS]
+
+「あなた[BR]
+"Who are[BR]
+
+　だれ？」[CLS]
+you?"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ふっ、[BR]
+($C1)"Ahem.[BR]
+
+　わたしは[BR]
+My name is[BR]
+
+　ミイル・・・[CLS]
+Miilu..."[CLS]
+
+($CD)($CE)０($CF)７($C0)「ちょーど[BR]
+($CD)($CE)０($CF)７($C0)"Perfect[BR]
+
+　いいわ。[CLS]
+timing.[CLS]
+
+ぼく、おなか[BR]
+I was just[BR]
+
+すいてたから」[CLS]
+getting hungry."[CLS]
+
+($C1)「は？」[CLS]
+($C1)"Excuse me?"[CLS]
+
+($CD)($CE)５($CF)３($C0)「おいしそう」[CLS]
+($CD)($CE)５($CF)３($C0)"You look tasty."[CLS]
+
+($C1)「わわあっ！[BR]
+($C1)"Whoa![BR]
+
+　ちょっと[BR]
+P-Please,[BR]
+
+　まてぃ！！」[CLS]
+wait a moment!"[CLS]
+
+($CD)($CE)０($CF)３($C0)ぼくは[BR]
+($CD)($CE)０($CF)３($C0)"Let me[BR]
+
+しおを[BR]
+sprinkle[BR]
+
+ふりかける。[CLS]
+some salt."[CLS]
+
+($CE)０($CE)０[ED]
+($CE)０($CE)０[ED]
+
+
+($C1)「や、や、[BR]
+($C1)"N-No![BR]
+
+　たべないで！[CLS]
+Don't eat me![CLS]
+
+ウラノスのつえ[BR]
+I'll give you[BR]
+
+あげるから、[BR]
+the Staff[BR]
+
+やめて！」[CLS]
+of Uranus!"[CLS]
+
+($CD)($CE)７($CF)０($C0)「ほんとぅ？[BR]
+($CD)($CE)７($CF)０($C0)"Really?[BR]
+
+　ラッキー！」[CLS]
+Yay!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「じゃが、[BR]
+($C1)"But I cannot[BR]
+
+　タダでは[BR]
+give it for[BR]
+
+　やらんぞ。[CLS]
+free, you see.[CLS]
+
+ライラの[BR]
+There is a[BR]
+
+ちかめいきゅう[BR]
+jewel called[BR]
+
+に　かくされた[CLS]
+Rubelcrack[CLS]
+
+ルベルクラクと[BR]
+in Lyra's[BR]
+
+よばれている[CLS]
+Labyrinth.[CLS]
+
+ほうせきと[BR]
+I'll trade[BR]
+
+こうかんじゃ」[CLS]
+the staff for it."[CLS]
+
+($CD)($CE)金($CF)０($C0)「オッケー。[BR]
+($CD)($CE)金($CF)０($C0)"Fine.[BR]
+
+　しょうだん[BR]
+It's a[BR]
+
+　せいりつね」[CLS]
+deal."[CLS]
+
+($C1)「それから[BR]
+($C1)"Oh, and one[BR]
+
+もぅひとぉつ。[CLS]
+more thing.[CLS]
+
+いっしょに[BR]
+Would you like[BR]
+
+おちゃして[BR]
+to drink a[BR]
+
+くれない？」[CLS]
+cup of tea?"[CLS]
+
+($CD)($CE)６($CF)４($C0)「しつこい！」[CLS]
+($CD)($CE)６($CF)４($C0)"No way!"[CLS]
+
+($CC)ク($C0)ぼくの　けりが[BR]
+($CC)ク($C0)Your kick[BR]
+
+がんめんに[BR]
+sinks into[BR]
+
+めりこむ。[CLS]
+his face.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ピューーーーー[BR]
+($C1)*fweeee[BR]
+
+ーーーーーーー[BR]
+eeeee[BR]
+
+ーーーーー！！[CLS]
+eeee*[CLS]
+
+($CC)マ($C1)キランッ！[CLS]
+($CC)マ($C1)*sparkle*[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)みぎの[BR]
+($C1)You feel[BR]
+
+とびらから[CLS]
+a dry wind[CLS]
+
+かわいた[BR]
+from the[BR]
+
+かぜが[BR]
+gate on[BR]
+
+ふいてくる。[CLS]
+the right.[CLS]
+
+($CD)($C0)でぐちは[BR]
+($CD)($C0)Maybe that's[BR]
+
+みぎかな？[CLS]
+the exit?[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「さっきは[BR]
+($C1)"That was[BR]
+
+ひきょうなてで[BR]
+a dirty trick[BR]
+
+やられたが、[CLS]
+you pulled on me.[CLS]
+
+こんどは[BR]
+I'm gonna get[BR]
+
+にがさんで！」[CLS]
+you this time!"[CLS]
+
+[ED]
+[ED]
+
+
+($CE)６($CF)８($C1)おもい[BR]
+($CE)６($CF)８($C1)You feel[BR]
+
+ふんいき。[CLS]
+a presence.[CLS]
+
+($CD)($C0)・・・なにか[BR]
+($CD)($C0)...Is someone[BR]
+
+かくれてる？[CLS]
+hiding?[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「たいじゅうの[BR]
+($C1)"Do not[BR]
+
+おもいものは[BR]
+place heavy[BR]
+
+のるべからず」[CLS]
+weights."[CLS]
+
+[ED]
+[ED]
+
+
+へ？[CLS]
+Huh?[CLS]
+
+($C1)ゆかが[BR]
+($C1)The floor[BR]
+
+ひらいた。[CLS]
+opens.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+ひっどぉーい！[BR]
+How RUDE![BR]
+
+ぼくは[BR]
+I'm not[BR]
+
+おもくないぞ！[CLS]
+heavy![CLS]
+
+[ED]
+[ED]
+
+
+($C1)ミホのつえが[BR]
+($C1)Miho's Wand[BR]
+
+おちている。[CLS]
+is on the ground.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($CE)゛($CF)７とびらから[BR]
+($CE)゛($CF)You take a peek[BR]
+
+のぞいてみる。[CLS]
+beyond the bars.[CLS]
+
+($CB)す($C0)みはりが[BR]
+($CB)す($C0)There's[BR]
+
+たくさん[BR]
+a lot of[BR]
+
+いるみたい。[CLS]
+guards...[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+スイッチを[BR]
+You press[BR]
+
+いれたよ。[CLS]
+the switch.[CLS]
+
+($CC)れ($C1)きたの　ほうで[BR]
+($CC)れ($C1)You hear a noise[BR]
+
+おとがした。[CLS]
+from the north.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)ぼろぼろ・・・[CLS]
+($C1)*crumble*[CLS]
+
+かべが[BR]
+The wall[BR]
+
+くずれて[CLS]
+collapses,[CLS]
+
+カレーライスが[BR]
+and Curry[BR]
+
+でてきた。[CLS]
+comes out.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「ひだりに[BR]
+($C1)"Please[BR]
+
+すすんで[BR]
+keep going[BR]
+
+みなさい」[CLS]
+left."[CLS]
+
+[ED]
+[ED]
+
+
+($CE)７($CF)６($C1)ゴォオオオ！！[CLS]
+($CE)７($CF)６($C1)*FWOOOSH*[CLS]
+
+($CD)($CE)５($CF)６($C0)あつい、[BR]
+($CD)($CE)５($CF)６($C0)Ahh![BR]
+
+あついよぉ！[CLS]
+It's too hot![CLS]
+
+このままじゃ[BR]
+I can't go[BR]
+
+あつくて[BR]
+through[BR]
+
+とおれないや。[CLS]
+like this![CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($CE)７($CF)６($C1)ゴォオオオ！！[CLS]
+($CE)７($CF)６($C1)*FWOOOSH*[CLS]
+
+($CD)($CE)２($CF)１($C0)ふふふん！[BR]
+($CD)($CE)２($CF)１($C0)Heheheh![BR]
+
+ぜんぜん[BR]
+Cool as a[BR]
+
+あつくないよ。[CLS]
+spring breeze![CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)とびらに[BR]
+($C1)There is a[BR]
+
+あなが[BR]
+hole in[BR]
+
+あいている。[CLS]
+the door.[CLS]
+
+($CD)($CE)７($CF)６($C0)なにか[BR]
+($CD)($CE)７($CF)６($C0)Let's have[BR]
+
+みえるのかな？[CLS]
+a peek...[CLS]
+
+げげげっ！($C9)け($CB)す($C1)きょうぼうで[BR]
+Oh crap!($C9)け($CB)す($C1)There is[BR]
+
+じゃあくな[BR]
+a huge[BR]
+
+きを　はっした[CLS]
+monster,[CLS]
+
+きょだいな[BR]
+emitting a[BR]
+
+まものが[BR]
+powerful,[BR]
+
+なかにいる。[CLS]
+evil aura.[CLS]
+
+($CD)($CE)６($CF)７($C0)ゲームだったら[BR]
+($CD)($CE)６($CF)７($C0)If this was a[BR]
+
+さいしゅうボス[BR]
+game, that would be[BR]
+
+って　やつだ。[CLS]
+the final boss...[CLS]
+
+こりゃ[BR]
+I'd better[BR]
+
+いかないほうが[BR]
+not go that[BR]
+
+いいよ。[CLS]
+way.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「わたしからの[BR]
+($C1)"Here is a[BR]
+
+おくりものだ。[CLS]
+little gift.[CLS]
+
+ゆうこうに[BR]
+Please use[BR]
+
+つかいなさい」[CLS]
+it well."[CLS]
+
+($C1)カレーライスが[BR]
+($C1)It's a plate[BR]
+
+おいてある。[CLS]
+of curry.[CLS]
+
+($C0)ひろう？[ED]
+($C0)Pick it up?[ED]
+
+
+($C1)きいろく[BR]
+($C1)A yellow[BR]
+
+かがやく[BR]
+gem is[BR]
+
+ほうせきが[CLS]
+floating[CLS]
+
+ちゅうに[BR]
+in mid-[BR]
+
+ういている。[CLS]
+air.[CLS]
+
+($C0)とる？[ED]
+($C0)Take it?[ED]
+
+
+($CE)７($CF)７($C0)ありゃ？[CLS]
+($CE)７($CF)７($C0)Huh?[CLS]
+
+まものなんか[BR]
+There's no[BR]
+
+いやしないよ。[CLS]
+monsters in here.[CLS]
+
+イリュージョン[BR]
+It was an[BR]
+
+だったのか。[CLS]
+illusion.[CLS]
+
+($CE)６($CF)４($C0)ちぇっ、[BR]
+($CE)６($CF)４($C0)Bah.[BR]
+
+だまされた。[CLS]
+What a dirty trick.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)ゆかに[BR]
+($C1)There are[BR]
+
+くさが[BR]
+herbs on[BR]
+
+おちている。[CLS]
+the floor.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($C1)かべに[BR]
+($C1)A wand[BR]
+
+つえの　えが[BR]
+is engraved[BR]
+
+ほられている。[CLS]
+on the wall.[CLS]
+
+($CD)($C0)なんだろ、[BR]
+($CD)($C0)Hm, what's[BR]
+
+これ？[CLS]
+this?[CLS]
+
+[ED]
+[ED]
+
+
+($C1)つえの　えが[BR]
+($C1)The engraving[BR]
+
+もえだした。[CLS]
+is burning.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($D1)１($CE)゛($CF)６あちちちちっ！[CLS]
+($D1)１($CE)゛($CF)Owww! It's hot![CLS]
+
+($C1)つえが[BR]
+($C1)The wand[BR]
+
+かべから[BR]
+peels off[BR]
+
+はげおちた。[CLS]
+the wall.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($C1)つえの　えが[BR]
+($C1)The engraving[BR]
+
+ひかりだした。[CLS]
+is shining.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($D1)１($CE)５($CF)６($C0)ま、[BR]
+($D1)１($CE)５($CF)６($C0)I-It's so[BR]
+
+まぶしいっ！[CLS]
+bright![CLS]
+
+($C1)つえが[BR]
+($C1)The wand[BR]
+
+かべから[BR]
+peels off[BR]
+
+はげおちた。[CLS]
+the wall.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($C1)かべから[BR]
+($C1)A long needle[BR]
+
+ながい　はりが[BR]
+is shot from[BR]
+
+とんできた！[CLS]
+the wall![CLS]
+
+($CD)($CE)７($CF)６($C0)わわわっ！！[CLS]
+($CD)($CE)７($CF)６($C0)EEEEK![CLS]
+
+とっさに[BR]
+You dodge[BR]
+
+よけて[BR]
+it in a[BR]
+
+かわす。[CLS]
+flash.[CLS]
+
+あぶない[BR]
+That was[BR]
+
+あぶない。[CLS]
+close.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)てがみが[BR]
+($C1)There is a[BR]
+
+おちている。[CLS]
+letter on the ground.[CLS]
+
+($C0)なんで[BR]
+($C0)What's a[BR]
+
+こんなところに[BR]
+letter doing[BR]
+
+てがみが？[CLS]
+here?[CLS]
+
+とにかく[BR]
+Let's see[BR]
+
+よんでみよう。[CLS]
+what it says.[CLS]
+
+($C1)「あたしが[BR]
+($C1)"If you're[BR]
+
+しかけた[BR]
+reading this,[BR]
+
+ハリを[CLS]
+you must[CLS]
+
+うまく[BR]
+have dodged[BR]
+
+よけたようね。[BR]
+my needle.[BR]
+
+ほめてあげる。[CLS]
+Good job.[CLS]
+
+でも、[BR]
+Let's see how[BR]
+
+つぎのワナは[BR]
+you fare with[BR]
+
+どうかしらね？[CLS]
+my NEXT trap.[CLS]
+
+おほほほほ！[BR]
+Ohohohohoh!"[BR]
+
+　ルルーより」[CLS]
+ ~ Rulue[CLS]
+
+($CD)($CE)６($CF)７($C0)あのハリは[BR]
+($CD)($CE)６($CF)７($C0)The writer[BR]
+
+この　ひとが[BR]
+was behind[BR]
+
+しかけたのか！[CLS]
+that trap?![CLS]
+
+ゆるせんっ！[CLS]
+Oh, if I get you...![CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)はなが[BR]
+($C1)A single[BR]
+
+いちりん[BR]
+flower is[BR]
+
+さいている。[CLS]
+in bloom.[CLS]
+
+($CD)($C0)こんなところに[BR]
+($CD)($C0)How did it[BR]
+
+はなが[BR]
+manage to[BR]
+
+さいてるなんて[CLS]
+sprout here?[CLS]
+
+へんだなぁ。[CLS]
+How weird.[CLS]
+
+とってみる？[ED]
+Pull it out?[ED]
+
+
+うんしょ。($D0)($D1)金[CLS]
+Oomph.($D0)($D1)金[CLS]
+
+($C0)うーんしょ。($D0)($D1)金[CLS]
+($C0)Heave-ho.($D0)($D1)金[CLS]
+
+($C0)よーし、[BR]
+($C0)Tough guy,[BR]
+
+こんどこそ！[CLS]
+huh? Then[CLS]
+
+せぇーのぉ！！[CLS]
+how's... THIS!![CLS]
+
+($D1)金($C1)「きゃああああ[BR]
+($D1)金($C1)"AAAAAA[BR]
+
+　ああああああ[BR]
+AAAHHH[BR]
+
+　あああ！！」($C9)て[CLS]
+HHHHHH!!"($C9)て[CLS]
+
+($C1)きょうれつな[BR]
+($C1)A terrible[BR]
+
+ひめいが[BR]
+shriek pierces[BR]
+
+ひびきわたる！[CLS]
+your skull![CLS]
+
+($CD)($CE)５($CF)６($C0)きゃーーーっ！[BR]
+($CD)($CE)５($CF)６($C0)"Eeeek![BR]
+
+あたまが[BR]
+My head![BR]
+
+いたいぃ！！($C9)゜[CLS]
+It hurts!!"($C9)゜[CLS]
+
+[ED]
+[ED]
+
+
+金を２００[BR]
+Obtained[BR]
+
+てにいれた。[CLS]
+200G.[CLS]
+
+[ED]
+[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「いっぽう[BR]
+($C1)"One[BR]
+
+　つうこうの[BR]
+way[BR]
+
+　へや」[CLS]
+room"[CLS]
+
+[ED]
+[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「つぎの[BR]
+($C1)"The next trial[BR]
+
+かんもんは[BR]
+is Warping[BR]
+
+ワープじごく」[CLS]
+Hell."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ふっ、[BR]
+($C1)"Hmph.[BR]
+
+　ようやく[BR]
+There you[BR]
+
+　みつけたぞ」[CLS]
+are."[CLS]
+
+($CD)($CE)７($CF)６($C0)「あ、[BR]
+($CD)($CE)７($CF)６($C0)"Ah![BR]
+
+　あんた！！」[CLS]
+It's you!"[CLS]
+
+($C1)「こんどは[BR]
+($C1)"It will[BR]
+
+まえのようには[BR]
+be different[BR]
+
+いかんぞ」[CLS]
+this time."[CLS]
+
+($CD)($CE)、($CF)３($C0)「ベェーっだ！[BR]
+($CD)($CE)、($CF)３($C0)"You're right![BR]
+
+かえりうちに[BR]
+I'll beat you[BR]
+
+してあげる！」[CLS]
+even HARDER!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ゆかに[BR]
+($C1)Something[BR]
+
+キラリと[BR]
+shines on[BR]
+
+ひかるもの。[CLS]
+the floor.[CLS]
+
+($CD)($C0)みどりいろの[BR]
+($CD)($C0)It's a[BR]
+
+カギだ。[CLS]
+green key.[CLS]
+
+ひろう？[ED]
+Pick it up?[ED]
+
+
+みどりいろの[BR]
+You got[BR]
+
+カギを[BR]
+the green[BR]
+
+てにいれた。[CLS]
+key.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)てがみが[BR]
+($C1)There is a[BR]
+
+おちている。[CLS]
+letter on the ground.[CLS]
+
+($CD)($CE)４($CF)７($C0)また　てがみ？[CLS]
+($CD)($CE)４($CF)７($C0)Another one?[CLS]
+
+とにかく[BR]
+Well, let's[BR]
+
+よんでみよう。[CLS]
+read it.[CLS]
+
+($C1)「サタンさまは[BR]
+($C1)"Satan is[BR]
+
+　わたしの[BR]
+MINE, and[BR]
+
+　　　ものよ！[CLS]
+mine alone![CLS]
+
+だから[BR]
+Give up[BR]
+
+あきらめて[BR]
+on him and[BR]
+
+かえりなさい！[CLS]
+leave![CLS]
+
+わかったわね！[BR]
+Got it?!"[BR]
+
+　ルルーより」[CLS]
+~ Rulue[CLS]
+
+($CD)($CE)３($CF)７($CE)３($C0)なんの[BR]
+($CD)($CE)３($CF)７($CE)３($C0)"Huh?[BR]
+
+ことだろ？[BR]
+What's this[BR]
+
+へんなのぉ。[CLS]
+all about?[CLS]
+
+アルル[BR]
+I don't[BR]
+
+わかんなぁい。[CLS]
+get it..."[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)かべに[BR]
+($C1)An arrow[BR]
+
+やが[BR]
+is pierced[BR]
+
+ささっている。[CLS]
+on the wall.[CLS]
+
+ゆかには[BR]
+You notice[BR]
+
+スイッチの[BR]
+a switch[BR]
+
+しかけがある。[CLS]
+on the floor.[CLS]
+
+($CD)($C0)ゆかを　ふむと[BR]
+($CD)($C0)Stepping on[BR]
+
+やがとんでくる[BR]
+that tile probably[BR]
+
+しかけみたい。[CLS]
+shoots an arrow.[CLS]
+
+($CE)　・・・これは？[CLS]
+($CE)...What's this?[CLS]
+
+($C1)よくみると、[CLS]
+($C1)Upon closer look,[CLS]
+
+やの　さきに[BR]
+you notice a piece[BR]
+
+ぬのきれが[BR]
+of cloth stuck[BR]
+
+ついている。[CLS]
+on the arrow.[CLS]
+
+($CD)($C0)これ、ドレスの[BR]
+($CD)($C0)Looks like a part[BR]
+
+きれっぱしだ。[CLS]
+of a dress.[CLS]
+
+($CE)　だれのだろう[BR]
+($CE)I wonder WHOSE[BR]
+
+・・・・・[CLS]
+dress, though...[CLS]
+
+[ED]
+[ED]
+
+
+($C1)かべに[BR]
+($C1)There are words[BR]
+
+もじが[BR]
+carved on[BR]
+
+ほってある。[CLS]
+the wall.[CLS]
+
+「わたしと[BR]
+"In order to[BR]
+
+　であうには、[CLS]
+meet me,[CLS]
+
+うみより[BR]
+your wisdom must be[BR]
+
+ふかい　ちえと[CLS]
+deeper than the ocean,[CLS]
+
+だいちより[BR]
+and you must[BR]
+
+つよい[BR]
+also be[BR]
+
+ちからが[CLS]
+stronger[CLS]
+
+ひつようだ」[CLS]
+than the earth."[CLS]
+
+($CD)($CE)４($CF)７($C0)なに、これ？[CLS]
+($CD)($CE)４($CF)７($C0)What's this all about?[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)「カギを[BR]
+($C1)"Give[BR]
+
+　かえせーーー[BR]
+back that[BR]
+
+　ーーーっ！」[ED]
+key!!!"[ED]
+
+
+カギを[BR]
+Give the[BR]
+
+かえす？[ED]
+key back?[ED]
+
+
+「カギを[BR]
+"Alright,[BR]
+
+　かえすね」[CLS]
+here you go."[CLS]
+
+($C1)カギを[BR]
+($C1)She takes[BR]
+
+うけとると[BR]
+the key[BR]
+
+さっていった。[CLS]
+and leaves.[CLS]
+
+[ED]
+[ED]
+
+
+ドラコが[BR]
+Draco[BR]
+
+おそいかかって[BR]
+attacks[BR]
+
+きた。[CLS]
+you.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)かべに[BR]
+($C1)There are[BR]
+
+もじが[BR]
+words carved[BR]
+
+ほってある。[CLS]
+on the wall.[CLS]
+
+「ちなみに、[CLS]
+"By the way,[CLS]
+
+わたしは[BR]
+I'm a[BR]
+
+ぜっせいの[BR]
+real[BR]
+
+びけいだから、[CLS]
+beauty,[CLS]
+
+あんしん[BR]
+if you were[BR]
+
+しなさい」[CLS]
+wondering."[CLS]
+
+($CD)($CE)４($CF)７($C0)へんなのー。[CLS]
+($CD)($CE)４($CF)７($C0)How weird.[CLS]
+
+($CE)４($CE)４でも、[BR]
+($CE)４($CE)Though,[BR]
+
+にたような[BR]
+I feel like[BR]
+
+ないようを[CLS]
+I saw[CLS]
+
+どっかで[BR]
+something[BR]
+
+みた　おぼえが[BR]
+similar[BR]
+
+あるなぁ。[CLS]
+already.[CLS]
+
+($CE)４どこだっけ？[CLS]
+($CE)Where was it?[CLS]
+
+($CE)４($CE)　[ED]
+($CE)４($CE)　[ED]
+
+
+($C1)かべに[BR]
+($C1)There are[BR]
+
+もじが[BR]
+words carved[BR]
+
+ほってある。[CLS]
+on the wall.[CLS]
+
+「しかし、[BR]
+"I promise[BR]
+
+であうことの[BR]
+everlasting[BR]
+
+できたものには[CLS]
+love[CLS]
+
+しょうがいの[BR]
+to whoever[BR]
+
+あいを[BR]
+manages[BR]
+
+ちかう」[CLS]
+to meet me."[CLS]
+
+($CD)($CE)４($CF)７($C0)ここにも[BR]
+($CD)($CE)４($CF)７($C0)There's more[BR]
+
+へんなのが[BR]
+weird stuff[BR]
+
+かいてある。[CLS]
+written here.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)かべに[BR]
+($C1)There is[BR]
+
+あなが[BR]
+a hole[BR]
+
+あいている。[CLS]
+in the wall.[CLS]
+
+($CD)($C0)のぞいてみる？[ED]
+($CD)($C0)Take a peek?[ED]
+
+
+($CE)、($CF)７なにも[BR]
+($CE)、($CF)I can't see[BR]
+
+みえないや。[CLS]
+anything...[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($CE)２($CF)７($C0)こわいから[BR]
+($CE)２($CF)７($C0)No way.[BR]
+
+やめとこう。[CLS]
+It's too scary.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)なかから[BR]
+($C1)Smoke[BR]
+
+けむりが[BR]
+comes[BR]
+
+でてきた。[CLS]
+out.[CLS]
+
+($CD)($CE)７($CF)６($C0)ななな！[BR]
+($CD)($CE)７($CF)６($C0)W-What[BR]
+
+なによ[BR]
+is[BR]
+
+これはっ！？[CLS]
+this?![CLS]
+
+この[BR]
+T-This[BR]
+
+け、けむりは[BR]
+smoke[BR]
+
+な・・・[CLS]
+is...[CLS]
+
+($CE)１($CF)７($C0)な・・・に・・[BR]
+($CE)１($CF)７($C0)is...[BR]
+
+・・・こ・・・[BR]
+...making...[BR]
+
+れ・・・・・・[CLS]
+...me...[CLS]
+
+($CE)２($CF)７($C0)ぐぅ・・・・・[BR]
+($CE)２($CF)７($C0)......[BR]
+
+・・・・・・・[BR]
+...Zzz...[BR]
+
+・・・・・・・[CLS]
+......[CLS]
+
+ぐぅ・・・・・[BR]
+Zzz...[BR]
+
+・・・・・・・[CLS]
+......[CLS]
+
+ぐぅ・・・・・[CLS]
+...Zzz...[CLS]
+
+ぐぅ・・・[CLS]
+......[CLS]
+
+($CE)０($CF)０($C0)んーーーーー、[BR]
+($CE)０($CF)０($C0)Hmmmm![BR]
+
+よく　ねたぁ！[BR]
+What a nice[BR]
+
+むにゃむにゃ。[CLS]
+sleep![CLS]
+
+この　けむり、[BR]
+Anyway, I guess[BR]
+
+さいみんガス[BR]
+that smoke was[BR]
+
+だったんだ。[CLS]
+sleeping gas.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)パポのつえが[BR]
+($C1)Papo's Wand is[BR]
+
+おちている。[CLS]
+on the ground.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+まどうりょくが[BR]
+You feel like[BR]
+
+すいとられてる[BR]
+your magic is[BR]
+
+かんじがする。[CLS]
+being sucked out.[CLS]
+
+[ED]
+[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「なんじは[BR]
+($C1)"Are you[BR]
+
+　まよえる[BR]
+a lost[BR]
+
+　こひつじか？[CLS]
+lamb?[CLS]
+
+ならば、[BR]
+Then go[BR]
+
+ちか２かいに[BR]
+back to[BR]
+
+もどるがよい」[CLS]
+floor 2."[CLS]
+
+[ED]
+[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「つぎは[BR]
+($C1)"Next up is[BR]
+
+　かべじごく」[CLS]
+the Wall Hell."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)かべに[BR]
+($C1)There is[BR]
+
+あなが[BR]
+a hole[BR]
+
+あいている。[CLS]
+in the wall.[CLS]
+
+($CD)($C0)のぞいてみる？[ED]
+($CD)($C0)Take a peek?[ED]
+
+
+($CE)、($CF)７むこうがわに[BR]
+($CE)、($CF)You see a[BR]
+
+かいだんが[BR]
+staircase on[BR]
+
+みえる。[CLS]
+the other side.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)みずたまりが[BR]
+($C1)A pool of water[BR]
+
+ちゅうに[BR]
+is floating[BR]
+
+ういている。[CLS]
+in mid-air.[CLS]
+
+[ED]
+[ED]
+
+
+ちょうどいい[BR]
+Great! It's[BR]
+
+ゆかげんに[BR]
+warm enough[BR]
+
+なったみたい。[CLS]
+for a bath now.[CLS]
+
+おゆたまりに[BR]
+Enter the[BR]
+
+はいってみる？[ED]
+hot water?[ED]
+
+
+($D1)１($CE)２($CF)３($C0)んんん。[BR]
+($D1)１($CE)２($CF)３($C0)Ahhh.[BR]
+
+いぃゆだなぁ。[CLS]
+So relaxing.[CLS]
+
+いままでの[BR]
+I can feel[BR]
+
+つかれが[BR]
+all stress[BR]
+
+ふっとぶよ。[CLS]
+melt away.[CLS]
+
+($C1)おゆたまりは[BR]
+($C1)The hot water[BR]
+
+ゆげになって[BR]
+becomes steam[BR]
+
+きえていった。[CLS]
+and evaporates.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($D1)１($CE)２($CF)４($C0)おゆたまりに[BR]
+($D1)１($CE)２($CF)４($C0)Meh.[BR]
+
+はいるの[BR]
+No thanks,[BR]
+
+やーめた。[CLS]
+I'm good.[CLS]
+
+($C1)おゆたまりは[BR]
+($C1)The hot water[BR]
+
+じょうはつして[BR]
+evaporates[BR]
+
+きえていった。[CLS]
+after a while.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)みずたまりは[BR]
+($C1)The pool of[BR]
+
+カチンカチンに[BR]
+water becomes[BR]
+
+こおった。[CLS]
+solid ice.[CLS]
+
+($C0)さわってみる？[ED]
+($C0)Touch it?[ED]
+
+
+($D1)１($CE)２($CF)１($C0)あああ。[BR]
+($D1)１($CE)２($CF)１($C0)Ahah.[BR]
+
+ひんやりして[BR]
+It's so cool[BR]
+
+きもちいい。[CLS]
+and smooth![CLS]
+
+($C1)こおった[BR]
+($C1)The frozen[BR]
+
+みずたまりは[BR]
+water melts[BR]
+
+とけてきえた。[CLS]
+and disappears.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($D1)１($CE)２($CF)４($C0)みずたまりに[BR]
+($D1)１($CE)２($CF)４($C0)Meh.[BR]
+
+さわるの[BR]
+Why would I[BR]
+
+やーめた。[CLS]
+want to?[CLS]
+
+($C1)こおった[BR]
+($C1)The frozen[BR]
+
+みずたまりは[BR]
+water smashes[BR]
+
+くだけちった。[CLS]
+on the ground.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)まどうしょを[BR]
+($C1)You find a[BR]
+
+てにいれた。[CLS]
+magic book.[CLS]
+
+まどうしょを[BR]
+When you[BR]
+
+ひらくと、[CLS]
+open it,[CLS]
+
+いきなり[BR]
+dazzling[BR]
+
+まぶしく[BR]
+light comes[BR]
+
+ひかりだした。[CLS]
+out of it.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($CE)５($CF)７($C0)あたまの[BR]
+($CE)５($CF)７($C0)You hear[BR]
+
+なかで[BR]
+a voice[BR]
+
+こえがする。[CLS]
+in your head.[CLS]
+
+「くらやみに[BR]
+"The spell[BR]
+
+たいこうする[BR]
+that counters[BR]
+
+まほう。[CLS]
+darkness.[CLS]
+
+それが[BR]
+That is...[BR]
+
+ライト・・・」[CLS]
+'Light'."[CLS]
+
+($C1)まどうしょが[BR]
+($C1)The magic[BR]
+
+スッと[BR]
+book vanishes[BR]
+
+きえていった。[CLS]
+in your hands.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+ライトの[BR]
+You have learned[BR]
+
+まほうを[BR]
+the spell[BR]
+
+おぼえた。[CLS]
+"Light".[CLS]
+
+[ED]
+[ED]
+
+
+($C0)イタイッ！！[CLS]
+($C0)Owww![CLS]
+
+おちている[BR]
+You step[BR]
+
+がびょうを[BR]
+on a thumb[BR]
+
+ふんづけた。[CLS]
+tack.[CLS]
+
+[ED]
+[ED]
+
+
+($D1)１($CE)６($CF)６($C0)だれよっ！[CLS]
+($D1)１($CE)６($CF)６($C0)Who did this?![CLS]
+
+こんなところに[BR]
+Who would leave[BR]
+
+がびょうを[BR]
+thumb tacks[BR]
+
+すてたのはっ！[CLS]
+on the floor?![CLS]
+
+($CE)０($CF)７($C0)おや？[CLS]
+($CE)０($CF)７($C0)Huh?[CLS]
+
+がびょうの[BR]
+On closer[BR]
+
+うらに[CLS]
+inspection,[CLS]
+
+もじが[BR]
+you notice words on the[BR]
+
+かいてある。[CLS]
+back of the thumb tacks.[CLS]
+
+($C1)ばらまかれた[BR]
+($C1)You gather[BR]
+
+がびょうを[BR]
+the thumb[BR]
+
+そのまま[CLS]
+tacks,[CLS]
+
+うらがえして[BR]
+and manage[BR]
+
+もじを[BR]
+to form[BR]
+
+よんでみた。[CLS]
+a message.[CLS]
+
+($CD)($CE)０($CE)０($C0)なになに・・・[CLS]
+($CD)($CE)０($CE)０($C0)Let's see what it says...[CLS]
+
+($C1)「ワナに[BR]
+($C1)"Looks like[BR]
+
+ひっかかった[BR]
+you fell for[BR]
+
+ようね。[CLS]
+my trap.[CLS]
+
+そんな[BR]
+そんな[BR]
+
+じつりょくで[CLS]
+If that's your best,[CLS]
+
+サタンさまを[BR]
+you'll never[BR]
+
+うばおうなんて[BR]
+take Satan[BR]
+
+むぼうだわね。[CLS]
+from me.[CLS]
+
+おほほほほ！[BR]
+Ohohohohoh!"[BR]
+
+　ルルーより」[CLS]
+~ Rulue[CLS]
+
+($CD)($CE)６($CF)６($C0)ムッカー！[BR]
+($CD)($CE)６($CF)６($C0)ARGH![BR]
+
+ルルー、[BR]
+Damn you,[BR]
+
+ゆるすまじ！[CLS]
+Rulue!![CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+うひゃぁ、[BR]
+Oouph![BR]
+
+ここは[BR]
+It's so hot[BR]
+
+あついなぁ。[CLS]
+in here![CLS]
+
+[ED]
+[ED]
+
+
+($CC)ろ($C1)しゅっ！！[CLS]
+($CC)ろ($C1)*thwak*[CLS]
+
+あなから[BR]
+An arrow[BR]
+
+やが[BR]
+shoots out[BR]
+
+とびでた。[CLS]
+of the hole.[CLS]
+
+($CD)($CE)゜($CF)５[ED]
+($CD)($CE)゜($CF)５[ED]
+
+
+イタイッ！！[CLS]
+Ouch!![CLS]
+
+ほほに[BR]
+It scratches[BR]
+
+かすって[BR]
+your[BR]
+
+しまった。[CLS]
+cheek.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)あおいろの[BR]
+($C1)A blue gem[BR]
+
+いしが[BR]
+is floating[BR]
+
+ういている。[CLS]
+in mid-air.[CLS]
+
+($C0)とる？[ED]
+($C0)Take it?[ED]
+
+
+いらないから[BR]
+No thanks.[BR]
+
+そのままに[BR]
+I'll leave it[BR]
+
+しておこう。[CLS]
+alone.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ハァハァ。[BR]
+($C1)*huff* *puff*[BR]
+
+み、[BR]
+"I-I finally[BR]
+
+みつけたぞ！」[CLS]
+found you!"[CLS]
+
+($CD)($CE)４($CF)６($C0)「また[BR]
+($CD)($CE)４($CF)６($C0)"Back for[BR]
+
+　たおされに[BR]
+another[BR]
+
+　きたの？」[CLS]
+beating?"[CLS]
+
+($C1)「こんどこそ[BR]
+($C1)"No. This time,[BR]
+
+　おまえを[BR]
+I WILL have my[BR]
+
+　もらう！」[CLS]
+way with you!"[CLS]
+
+($CD)($CE)７($CF)７($C0)「えっ！？」[CLS]
+($CD)($CE)７($CF)７($C0)"Excuse me?!"[CLS]
+
+($C1)「いや・・・[BR]
+($C1)"...Oh."[BR]
+
+コホン・・・、[BR]
+*cough*[BR]
+
+　ていせい。[CLS]
+"Correction.[CLS]
+
+おまえの[BR]
+I will[BR]
+
+ちからを[BR]
+obtain[BR]
+
+もらう！」[CLS]
+your power!"[CLS]
+
+($CD)($CE)、($CF)１($C0)「ぼくに[BR]
+($CD)($CE)、($CF)１($C0)"You'll have to[BR]
+
+かてたらね！」[CLS]
+beat me first!"[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)はこの　なかに[BR]
+($C1)Inside the chest[BR]
+
+はこがある。[CLS]
+there is a chest.[CLS]
+
+($C0)あけてみる？[ED]
+($C0)Open it?[ED]
+
+
+($C1)はこの　なかの[BR]
+($C1)Inside the chest[BR]
+
+はこの　なかに[BR]
+inside the chest[BR]
+
+はこがある。[CLS]
+there is a chest.[CLS]
+
+($C0)あけてみる？[ED]
+($C0)Open it?[ED]
+
+
+($C1)はこの　なかの[BR]
+($C1)Inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかに[CLS]
+inside the chest[CLS]
+
+はこがある。[CLS]
+there is a chest.[CLS]
+
+($C0)あけてみる？[ED]
+($C0)Open it?[ED]
+
+
+($C1)はこの　なかの[BR]
+($C1)Inside the chest[BR]
+
+inside the chest[BR]
+
+はこの　なかの[CLS]
+inside the chest[CLS]
+
+はこの　なかに[BR]
+inside the chest[BR]
+
+はこがある。[CLS]
+there is a chest.[CLS]
+
+($C0)あけてみる？[ED]
+($C0)Open it?[ED]
+
+
+($C1)はこの　なかの[BR]
+($C1)Inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[CLS]
+inside the chest[CLS]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかに[BR]
+inside the chest[BR]
+
+はこがある。[CLS]
+there is a chest.[CLS]
+
+($C0)あけてみる？[ED]
+($C0)Open it?[ED]
+
+
+($C1)はこの　なかの[BR]
+($C1)Inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[CLS]
+inside the chest[CLS]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかに[CLS]
+inside the chest[CLS]
+
+はこがある。[CLS]
+there is a chest.[CLS]
+
+($C0)あけてみる？[ED]
+($C0)Open it?[ED]
+
+
+($C1)はこの　なかの[BR]
+($C1)Inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[CLS]
+inside the chest[CLS]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[CLS]
+inside the chest[CLS]
+
+はこの　なかに[BR]
+inside the chest[BR]
+
+はこがある。[CLS]
+there is a chest.[CLS]
+
+($C0)あけてみる？[ED]
+($C0)Open it?[ED]
+
+
+($C1)はこの　なかの[BR]
+($C1)Inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[CLS]
+inside the chest[CLS]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[CLS]
+inside the chest[CLS]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかに[BR]
+inside the chest[BR]
+
+はこがある。[CLS]
+there is a chest.[CLS]
+
+($C0)あけてみる？[ED]
+($C0)Open it?[ED]
+
+
+($C1)はこの　なかの[BR]
+($C1)Inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[CLS]
+inside the chest[CLS]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[CLS]
+inside the chest[CLS]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかに[CLS]
+inside the chest[CLS]
+
+はこがある。[CLS]
+there is a chest.[CLS]
+
+($C0)あけてみる？[ED]
+($C0)Open it?[ED]
+
+
+($C1)はこの　なかの[BR]
+($C1)Inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[CLS]
+inside the chest[CLS]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[CLS]
+inside the chest[CLS]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[BR]
+inside the chest[BR]
+
+はこの　なかの[CLS]
+inside the chest[CLS]
+
+はこの　なかに[BR]
+inside the chest[BR]
+
+金をみつけた。[CLS]
+there are some coins.[CLS]
+
+($CD)($CE)４($CF)７($C0)たった[BR]
+($CD)($CE)４($CF)７($C0)That's...[BR]
+
+これっぽっち？[BR]
+That's it?[BR]
+
+とほほ・・・[CLS]
+I want to cry...[CLS]
+
+[ED]
+[ED]
+
+
+金を１０[BR]
+Obtained[BR]
+
+てにいれた。[CLS]
+10G...[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ハッハッハッ[BR]
+($C1)*pant* *pant*[BR]
+
+　・・・・・」[CLS]
+*pant*[CLS]
+
+スキュラが[BR]
+Scylla lies[BR]
+
+ねそべって[CLS]
+sprawled,[CLS]
+
+したを[BR]
+her tongue out[BR]
+
+だしている。[CLS]
+of her mouth.[CLS]
+
+($CD)($C0)あつがってる[BR]
+($CD)($C0)It must be too[BR]
+
+みたいだよ。[CLS]
+hot for her.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)スキュラが[BR]
+($C1)Scylla is[BR]
+
+おこって[BR]
+angered and[BR]
+
+おそってきた！[CLS]
+attacks you![CLS]
+
+[ED]
+[ED]
+
+
+　　($C9)ス($C1)スキュラは[BR]
+　　($C9)ス($C1)Scylla seems[BR]
+
+よろこんでる。[CLS]
+happy.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)スキュラは[BR]
+($C1)Scylla bows[BR]
+
+あたまを[BR]
+her head[BR]
+
+さげたあと[CLS]
+at you,[CLS]
+
+どこかに[BR]
+and goes off[BR]
+
+さっていった。[CLS]
+somewhere.[CLS]
+
+スキュラの[BR]
+She left something[BR]
+
+いたところに[CLS]
+behind.[CLS]
+
+ピチのつえが[BR]
+It's Pich's[BR]
+
+おちている。[CLS]
+Wand.[CLS]
+
+($CD)($C0)ラッキー！！[CLS]
+($CD)($C0)That's cool![CLS]
+
+[ED]
+[ED]
+
+
+($C1)てがみが[BR]
+($C1)There is a[BR]
+
+おちている。[CLS]
+letter on the ground.[CLS]
+
+($CD)($CE)４($CF)７($C0)またぁ？[CLS]
+($CD)($CE)４($CF)７($C0)Again?[CLS]
+
+どうせ[BR]
+It's probably[BR]
+
+ルルーの[BR]
+another letter[BR]
+
+てがみと[CLS]
+from Rulue.[CLS]
+
+おもうけど、[BR]
+Oh well.[BR]
+
+とにかく[BR]
+Let's read[BR]
+
+よんでみよう。[CLS]
+it, I guess.[CLS]
+
+($C1)「なかなか[BR]
+($C1)"You're not[BR]
+
+がんばっている[BR]
+half bad.[BR]
+
+じゃないの。[CLS]
+But I'll[CLS]
+
+でも、[BR]
+always be[BR]
+
+わたしのほうが[BR]
+a few steps[BR]
+
+はやいから[CLS]
+ahead of you.[CLS]
+
+ムダよ。[BR]
+Just give up.[BR]
+
+おほほほほ！[BR]
+Ohohohohoh!"[BR]
+
+　ルルーより[CLS]
+~ Rulue[CLS]
+
+そうそう、[BR]
+P.S.[BR]
+
+この　てがみは[BR]
+This letter will[BR]
+
+じどうてきに[CLS]
+self-destruct.[CLS]
+
+しょうめつ[BR]
+I suggest you[BR]
+
+するから[BR]
+watch out for[BR]
+
+きをつけて」[CLS]
+the explosion![CLS]
+
+($CD)($CE)７($CF)６($C0)げげげっ！！($C9)け[ED]
+($CD)($CE)７($CF)６($C0)Wait wha--($C9)け[ED]
+
+
+ゴホッ・・・[BR]
+*cough*[BR]
+
+なによ、[BR]
+Seriously?![BR]
+
+これっ！[CLS]
+Who does that?![CLS]
+
+[ED]
+[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「らっきょと[BR]
+($C1)"The average[BR]
+
+　カギの[CLS]
+veggie has the[CLS]
+
+おもさは[BR]
+same weight[BR]
+
+おなじ」[CLS]
+as a key."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ボロボロの[BR]
+($C1)Schezo, worse[BR]
+
+シェゾが[BR]
+for wear, catches[BR]
+
+あらわれた。[CLS]
+up to you.[CLS]
+
+「きさまッ！！[CLS]
+"YOU!![CLS]
+
+こんどという[BR]
+You won't get[BR]
+
+こんどは[BR]
+away from me[BR]
+
+ゆるさんぞ！」[CLS]
+THIS time!!"[CLS]
+
+($CD)($CE)４($CF)６($C0)「また[BR]
+($CD)($CE)４($CF)６($C0)*sigh*[BR]
+
+あんたか・・・[BR]
+"You again?[BR]
+
+しつこいなぁ」[CLS]
+You sure are stubborn."[CLS]
+
+($C1)「なんど[BR]
+($C1)"No matter[BR]
+
+たおされようと[CLS]
+how many[CLS]
+
+おまえの[BR]
+times I fail,[BR]
+
+ちからを[BR]
+I will never[BR]
+
+てにいれるまで[CLS]
+give up[CLS]
+
+おれは[BR]
+until I have[BR]
+
+あきらめん！」[CLS]
+your power!"[CLS]
+
+($CD)($CE)２($CF)６($C0)「ごかってに[BR]
+($CD)($CE)２($CF)６($C0)"Whatever.[BR]
+
+　どうぞっ！」[CLS]
+It's your funeral."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)てがみが[BR]
+($C1)There is a letter[BR]
+
+おちている。[CLS]
+on the ground.[CLS]
+
+($CD)($CE)４($CF)６($C0)ハァァ・・・[BR]
+($CD)($CE)４($CF)６($C0)*siiigh*[BR]
+
+・・・・・・・[CLS]
+......[CLS]
+
+ルルーも[BR]
+Between[BR]
+
+シェゾと[BR]
+Rulue and[BR]
+
+おんなじで[CLS]
+Schezo,[CLS]
+
+ほんと、[BR]
+I'm not sure who's giving[BR]
+
+しつこいなぁ。[CLS]
+me the worst headache...[CLS]
+
+($CE)２($CF)７($C0)・・・・・・・[BR]
+($CE)２($CF)７($C0)......[BR]
+
+とはいうものの[CLS]
+Oh well.[CLS]
+
+よんでしまう[BR]
+Might as[BR]
+
+じぶんが[BR]
+well read[BR]
+
+かなしぃ。[CLS]
+it...[CLS]
+
+($CE)０($CF)０($C1)「ここまで[BR]
+($CE)０($CF)０($C1)"I'm impressed[BR]
+
+くるなんて[BR]
+you've made it[BR]
+
+すごいわね。[CLS]
+this far.[CLS]
+
+でも、[BR]
+But everything[BR]
+
+ちか７かいで[BR]
+will be over[BR]
+
+あなたは[CLS]
+once you reach[CLS]
+
+おしまいよ。[BR]
+floor 7.[BR]
+
+おほほほほ！[BR]
+Ohohohohoh!"[BR]
+
+　ルルーより」[CLS]
+~ Rulue[CLS]
+
+($CD)($C0)ちか７かい[BR]
+($CD)($C0)Floor 7,[BR]
+
+・・・か。[CLS]
+huh...?[CLS]
+
+[ED]
+[ED]
+
+
+やっぱり・・・[CLS]
+I knew it...[CLS]
+
+[ED]
+[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「みぎと[BR]
+($C1)"Right or[BR]
+
+　ひだり、[CLS]
+left.[CLS]
+
+どちらかの[BR]
+Make[BR]
+
+とびらを[BR]
+your[BR]
+
+えらべ」[CLS]
+choice."[CLS]
+
+[ED]
+[ED]
+
+
+($C0)まっくらで[BR]
+($C0)It's too dark.[BR]
+
+なにも[BR]
+I can't see[BR]
+
+みえないなぁ。[CLS]
+anything![CLS]
+
+[ED]
+[ED]
+
+
+したから[BR]
+You hear[BR]
+
+じょせいの[BR]
+the voice[BR]
+
+こえが[CLS]
+of a woman[CLS]
+
+きこえる。[CLS]
+from below.[CLS]
+
+($C1)「おほほほほ！[BR]
+($C1)"Ohohohohoh![BR]
+
+　これで[BR]
+This is[BR]
+
+　かんぺきね。[CLS]
+perfect.[CLS]
+
+こんなところに[BR]
+Nobody would[BR]
+
+じらいが[BR]
+ever[BR]
+
+あるなんて、[CLS]
+realize[CLS]
+
+ぜったい[BR]
+that there[BR]
+
+だれも[BR]
+are mines[BR]
+
+きづかないわ。[CLS]
+in here.[CLS]
+
+さてと、[BR]
+All right,[BR]
+
+すすみま・・・[BR]
+I should get[BR]
+
+・・・・・[CLS]
+out of... of...[CLS]
+
+し、[BR]
+D-DAMN[BR]
+
+しまったあああ[BR]
+IT[BR]
+
+あああああ！！[CLS]
+AAAAALL!![CLS]
+
+しかけるのに[BR]
+I was so[BR]
+
+むちゅうで、[BR]
+focused on[BR]
+
+じらいをおいた[CLS]
+setting them[CLS]
+
+ばしょを[BR]
+that I didn't[BR]
+
+わすれて[BR]
+memorize WHERE[BR]
+
+しまったわ！[CLS]
+I set them![CLS]
+
+・・・・・[BR]
+......[BR]
+
+しかたないわ。[CLS]
+Oh well.[CLS]
+
+みなみに[BR]
+Let's try[BR]
+
+すすんで[BR]
+walking[BR]
+
+みましょう」[CLS]
+south."[CLS]
+
+カツカツ・・・[CLS]
+*footsteps*[CLS]
+
+($CD)($CC)わ($CE)０($C0)あ、[BR]
+($CD)($CC)わ($CE)０($C0)Ah.[BR]
+
+ばくはつした。[CLS]
+There was an explosion.[CLS]
+
+($C1)「あいたたた[BR]
+($C1)"Oww...[BR]
+
+　・・・・・[CLS]
+...[CLS]
+
+こっちは[BR]
+Not that[BR]
+
+ダメみたいね」[CLS]
+way, I guess."[CLS]
+
+($CD)($CE)７($CF)５($C0)げっ・・・、[BR]
+($CD)($CE)７($CF)５($C0)Whoa...[BR]
+
+じらいを[BR]
+She just[BR]
+
+ふんで[CLS]
+brushed off[CLS]
+
+あいたたたで[BR]
+stepping on[BR]
+
+すむか[BR]
+a mine with[BR]
+
+ふつぅ・・・[CLS]
+an "Ow"...[CLS]
+
+($CE)０($CF)０($C1)「そうそう、[BR]
+($CE)０($CF)０($C1)"Oh, right![BR]
+
+　きたよ！[BR]
+North![BR]
+
+　きただわ！」[CLS]
+That was the right way!"[CLS]
+
+カツカツ[BR]
+*footsteps*[BR]
+
+カツカツ・・・[CLS]
+*footsteps*[CLS]
+
+($CD)($CC)わ($CE)０($C0)あ、まただ。[CLS]
+($CD)($CC)わ($CE)０($C0)Ah. Again.[CLS]
+
+($C1)「んもぅ、[BR]
+($C1)"Grr.[BR]
+
+　いたいわねぇ[BR]
+That stung a[BR]
+
+　・・・・・」[CLS]
+little..."[CLS]
+
+($CD)($CE)７($CF)５($C0)し、[BR]
+($CD)($CE)７($CF)５($C0)S-She sure[BR]
+
+しぶとい・・・[CLS]
+is tough...[CLS]
+
+($CE)０($CF)０($C1)「にしなら[BR]
+($CE)０($CF)０($C1)"It has[BR]
+
+だいじょうぶな[BR]
+to be west,[BR]
+
+はずよ！」[CLS]
+right?"[CLS]
+
+カツカツ・・・[CLS]
+*footsteps*[CLS]
+
+($CC)わ($C1)「もう！[BR]
+($CC)わ($C1)"Oh come ON![BR]
+
+　おきにいりの[BR]
+I liked this[BR]
+
+　ふくが[CLS]
+dress![CLS]
+
+だいなしじゃ[BR]
+And it's all[BR]
+
+ないの！」[CLS]
+ruined now!"[CLS]
+
+($CD)($CE)０($CF)７($C0)ふ、ふじみか[BR]
+($CD)($CE)０($CF)７($C0)I-Is she[BR]
+
+こいつは・・・[CLS]
+immortal...?[CLS]
+
+($CE)０($CF)０($C1)「きがえを[BR]
+($CE)０($CF)０($C1)"Luckily[BR]
+
+　もってきて[BR]
+I brought[BR]
+
+　よかったわ。[CLS]
+a spare.[CLS]
+
+じらいは[BR]
+Anyway, I set[BR]
+
+８つだから、[CLS]
+8 mines,[CLS]
+
+ここから[BR]
+so there shouldn't[BR]
+
+きたには[BR]
+be any north[BR]
+
+ないはずね」[CLS]
+from here."[CLS]
+
+カツカツ・・・[CLS]
+*footsteps*[CLS]
+
+($CD)($CE)０($C0)あ、[BR]
+($CD)($CE)０($C0)Oh,[BR]
+
+ばくはつ[BR]
+no explosions[BR]
+
+しない。[CLS]
+this time.[CLS]
+
+($C1)「おほほほほ！[BR]
+($C1)"Ohohohohoh![BR]
+
+　こんなワナに[CLS]
+Did you think[CLS]
+
+この　あたしが[BR]
+I would fall[BR]
+
+ひっかかると[BR]
+for this[BR]
+
+おもって？」[CLS]
+trap?"[CLS]
+
+($CD)($CE)４($CF)７($C0)ハァ・・・[CLS]
+($CD)($CE)４($CF)７($C0)*sigh*[CLS]
+
+($C1)「っていってる[BR]
+($C1)"...This is[BR]
+
+ばあいじゃない[BR]
+not the time[BR]
+
+わね。[CLS]
+for boasting.[CLS]
+
+さっさと[BR]
+I have to[BR]
+
+きがえて[CLS]
+get changed[CLS]
+
+サタンさまに[BR]
+and meet my[BR]
+
+あいましょ」[CLS]
+beloved Satan."[CLS]
+
+($CD)($C0)あ、[BR]
+($CD)($C0)I can't[BR]
+
+おとが[BR]
+hear anything[BR]
+
+しなくなった。[CLS]
+else.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+つるっ。[BR]
+*slip*[BR]
+
+すべるぅぅ！！[ED]
+It's slippery![ED]
+
+
+($CE)７($CF)６($C1)つるっ。[CLS]
+($CE)７($CF)６($C1)*slip*[CLS]
+
+($CD)($C0)うわあああ！[BR]
+($CD)($C0)Ahhh![BR]
+
+す、[BR]
+It's so[BR]
+
+すべるぅぅ！！[ED]
+slippery!![ED]
+
+
+きりで[BR]
+It's fog.[BR]
+
+ぜんぜん[BR]
+I can't see[BR]
+
+みえないよぉ。[CLS]
+through it![CLS]
+
+[ED]
+[ED]
+
+
+($C1)ふるぼけた[BR]
+($C1)There is an old,[BR]
+
+まどうしょが[BR]
+worn-out magic[BR]
+
+はいっている。[CLS]
+book inside.[CLS]
+
+($C0)よんでみる？[ED]
+($C0)Read it?[ED]
+
+
+($C1)ほこりを[BR]
+($C1)You dust it[BR]
+
+とりのぞいて[BR]
+off and start[BR]
+
+よんでみた。[CLS]
+reading.[CLS]
+
+「じゅもんを[BR]
+"This spell[BR]
+
+かけられた[CLS]
+distorts space[CLS]
+
+ぶったいの[BR]
+around a[BR]
+
+くうかんを[BR]
+body,[BR]
+
+ひずませ、[CLS]
+accelerating[CLS]
+
+じかんを[BR]
+time to[BR]
+
+こうそくに[BR]
+incredible[BR]
+
+すすませる。[CLS]
+speeds.[CLS]
+
+そのなも[BR]
+Its name is...[BR]
+
+ばよばよ」[CLS]
+Bayobayo."[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+ばよばよの[BR]
+You have learned[BR]
+
+まほうを[BR]
+the spell[BR]
+
+おぼえた！[CLS]
+"Bayobayo"![CLS]
+
+[ED]
+[ED]
+
+
+($C1)ずたずたに[BR]
+($C1)There is[BR]
+
+さかれた[CLS]
+a dress ripped[CLS]
+
+ドレスの[BR]
+to shreds[BR]
+
+きれはしが[BR]
+left on[BR]
+
+おちている。[CLS]
+the ground.[CLS]
+
+($CD)($C0)これ、[BR]
+($CD)($C0)This is[BR]
+
+ルルーの[BR]
+probably[BR]
+
+ふくかなぁ。[CLS]
+Rulue's dress.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ゆかに[BR]
+($C1)There is[BR]
+
+おおきな[CLS]
+a big hole[CLS]
+
+あなぼこが[BR]
+on the[BR]
+
+あいている。[CLS]
+floor.[CLS]
+
+($CD)($C0)これ、じらいの[BR]
+($CD)($C0)This must have been[BR]
+
+あとかなぁ。[CLS]
+left by a mine.[CLS]
+
+すさまじい[BR]
+They must be very[BR]
+
+いりょくだ。[CLS]
+powerful.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ゆかに[BR]
+($C1)There is a[BR]
+
+スコップが[BR]
+shovel buried[BR]
+
+うまっている。[CLS]
+in the floor.[CLS]
+
+($CD)($C0)なんで[BR]
+($CD)($C0)What's a[BR]
+
+こんなところに[BR]
+shovel doing[BR]
+
+スコップが？[CLS]
+in here?[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ゆかに[BR]
+($C1)There is a[BR]
+
+スコップが[BR]
+shovel buried[BR]
+
+うまっている。[CLS]
+in the floor.[CLS]
+
+($CD)($C0)ルルーが[BR]
+($CD)($C0)Rulue must[BR]
+
+じらいを[BR]
+have used[BR]
+
+うめるために[CLS]
+this to[CLS]
+
+つかった[BR]
+bury the[BR]
+
+みたいだ。[CLS]
+mines.[CLS]
+
+[ED]
+[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「きりに[BR]
+($C1)"Beware[BR]
+
+ちゅうい」[CLS]
+the fog"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ゆかに[BR]
+($C1)Schezo is[BR]
+
+シェゾが[BR]
+lying on[BR]
+
+おちている。[CLS]
+the floor.[CLS]
+
+($CD)($CE)　($C0)あれ？[BR]
+($CD)($CE)　($C0)Huh?[BR]
+
+これは・・・？[CLS]
+What happened here?[CLS]
+
+($C1)シェゾの[BR]
+($C1)You notice that[BR]
+
+みぎてに[CLS]
+Schezo is holding[CLS]
+
+イヤリングを[BR]
+an earring in[BR]
+
+みつけた。[CLS]
+his right hand.[CLS]
+
+($C0)とる？[ED]
+($C0)Take it?[ED]
+
+
+とっても[BR]
+Wow.[BR]
+
+たかそうな[BR]
+This looks[BR]
+
+イヤリングだ。[CLS]
+expensive.[CLS]
+
+[ED]
+[ED]
+
+
+こわいから[BR]
+I'm keeping my distance,[BR]
+
+やーめた。[CLS]
+thank you very much.[CLS]
+
+[ED]
+[ED]
+
+
+かべの[BR]
+You hear voices coming[BR]
+
+むこうから[BR]
+from the other side[BR]
+
+こえがする。[CLS]
+of the wall.[CLS]
+
+($C1)「おまえの[BR]
+($C1)"I want[BR]
+
+　ちからが[BR]
+your[BR]
+
+　ほしい！」[CLS]
+power!"[CLS]
+
+「おほほほほ！[BR]
+"Ohohohoh![BR]
+
+　あなたも[BR]
+You must[BR]
+
+　あたしの[CLS]
+have fallen[CLS]
+
+びぼうに[BR]
+for my[BR]
+
+ほれたのね」[CLS]
+beauty!"[CLS]
+
+「だれも[BR]
+"What the--[BR]
+
+そんなこと[BR]
+That's not[BR]
+
+いっとらん！」[CLS]
+what I meant!"[CLS]
+
+「でも、[BR]
+"I'm sorry[BR]
+
+　あたしには[CLS]
+to tell you,[CLS]
+
+すばらしい[BR]
+I already[BR]
+
+フィアンセが[BR]
+have a[BR]
+
+いるの。[CLS]
+boyfriend.[CLS]
+
+だから[BR]
+You should[BR]
+
+あきらめて」[CLS]
+give up on me."[CLS]
+
+「なにをわけの[BR]
+"Are you[BR]
+
+わからんことを[BR]
+even[BR]
+
+いっている！[CLS]
+listening?![CLS]
+
+おれは[BR]
+I said[BR]
+
+ちからが[BR]
+I want[BR]
+
+ほしいのだ！」[CLS]
+your POWER!"[CLS]
+
+「ちょっと！[BR]
+"Hey![BR]
+
+てを[BR]
+Don't you dare[BR]
+
+さわらないで！[CLS]
+touch my hand![CLS]
+
+いやだったら！[BR]
+Hands off![BR]
+
+もー、[BR]
+Don't make me[BR]
+
+しつこいわね！[CLS]
+ask again![CLS]
+
+いいかげんに[BR]
+Okay buddy,[BR]
+
+してよっ！！」[CLS]
+you asked for it!"[CLS]
+
+「なにっ！？」[CLS]
+"W-What?!"[CLS]
+
+「とりゃー！！[BR]
+"Have a taste[BR]
+
+ひっさつ、[BR]
+of my Judo[BR]
+
+せおいなげ！」($CC)は[CLS]
+throw!"($CC)は[CLS]
+
+($C1)「ぐぐぐ、[BR]
+($C1)"URGH![BR]
+
+　むねんっ！」($C9)ん($CC)ぃ[CLS]
+How disgraceful..."($C9)ん($CC)ぃ[CLS]
+
+「おほほほほ！[BR]
+"Ohohohohoh![BR]
+
+よわいおとこは[BR]
+Wimps like you just[BR]
+
+きらいなの。[CLS]
+aren't my type.[CLS]
+
+バイバイ」[BR]
+Bye-bye."[BR]
+
+カツカツカツ[BR]
+*footsteps*[BR]
+
+・・・・・[CLS]
+......[CLS]
+
+[ED]
+[ED]
+
+
+($CC)ぅ($C1)カチッ！[CLS]
+($CC)ぅ($C1)*click*[CLS]
+
+($CD)($CE)７($CF)７($C0)え？[CLS]
+($CD)($CE)７($CF)７($C0)Huh?[CLS]
+
+($CC)わ($C1)ドッカーーーー[BR]
+($CC)わ($C1)*KA-[BR]
+
+ーーーーーーー[BR]
+BOOOOOO[BR]
+
+ーーーーン！！[ED]
+OOOOOM*[ED]
+
+
+ひえええええ！[CLS]
+EEEEEK![CLS]
+
+[ED]
+[ED]
+
+
+($C1)じらいが[BR]
+($C1)The mine[BR]
+
+ばくはつして、[BR]
+explodes,[BR]
+
+ゆかに[CLS]
+leaving a[CLS]
+
+おおきな[BR]
+big hole[BR]
+
+あなぼこが[BR]
+in the[BR]
+
+あいた。[CLS]
+floor.[CLS]
+
+[ED]
+[ED]
+
+
+($CE)７($CF)６($C0)わわわっ！[BR]
+($CE)７($CF)６($C0)Whoaa![BR]
+
+めが[BR]
+My eyes are[BR]
+
+まわるぅ！[CLS]
+spinniiing![CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)かべに[BR]
+($C1)There is a[BR]
+
+へんな　えが[BR]
+weird painting[BR]
+
+かいてある。[CLS]
+on the wall.[CLS]
+
+($CD)($C0)なんだろ、[BR]
+($CD)($C0)Huh. I wonder[BR]
+
+これ？[CLS]
+what this is?[CLS]
+
+[ED]
+[ED]
+
+
+($C1)フラフラの[BR]
+($C1)Schezo wobbles[BR]
+
+シェゾが[BR]
+to your[BR]
+
+あらわれた。[CLS]
+position.[CLS]
+
+($CB)あ($C1)「や、やっと[BR]
+($CB)あ($C1)"I...[BR]
+
+みつけた・・・[BR]
+finally...[BR]
+
+ぞ・・・・・」[CLS]
+found you..."[CLS]
+
+($CD)($CE)４($CF)７($C0)「はぁ・・・、[BR]
+($CD)($CE)４($CF)７($C0)*sigh*[BR]
+
+あんたも[BR]
+"You never[BR]
+
+よくやるねぇ。[CLS]
+give up, huh?[CLS]
+
+あしもとが[BR]
+Look at you,[BR]
+
+ふらついてるよ[BR]
+you can barely[BR]
+
+・・・・・」[CLS]
+stand."[CLS]
+
+($C1)「こんどという[BR]
+($C1)"This time...[BR]
+
+こんどこそ、[BR]
+THIS time,[BR]
+
+かならず！」[CLS]
+I will definitely...!"[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($CC)ぃ($CE)０($CF)７($C0)あ、[BR]
+($CC)ぃ($CE)０($CF)７($C0)Ah.[BR]
+
+たおれた。[CLS]
+He fainted.[CLS]
+
+つんつん・・・[CLS]
+*poke* *poke*[CLS]
+
+($C1)シェゾは[BR]
+($C1)Schezo shows[BR]
+
+うごかない。[CLS]
+no reactions.[CLS]
+
+($CD)($CE)４($CF)６($C0)だめだ、[BR]
+($CD)($CE)４($CF)６($C0)Nope.[BR]
+
+こりゃあ。[CLS]
+What a hopeless moron.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)あかいろの[BR]
+($C1)A red[BR]
+
+ほうせきが[CLS]
+gem is[CLS]
+
+ちゅうで[BR]
+spinning[BR]
+
+クルクルと[BR]
+in mid[BR]
+
+まわっている。[CLS]
+air.[CLS]
+
+($C0)とる？[ED]
+($C0)Take it?[ED]
+
+
+($C1)「わたしゃ[BR]
+($C1)"Name's[BR]
+
+　ピグラ。[BR]
+Pigra.[BR]
+
+　かねくれ」[CLS]
+Give me money."[CLS]
+
+($CD)($CE)６($CF)４($C0)「ちょっと、[BR]
+($CD)($CE)６($CF)４($C0)"Hey, you can't[BR]
+
+　いきなり[BR]
+just ask for[BR]
+
+　なによ」[CLS]
+money like that!"[CLS]
+
+($C1)「わたしゃ、[BR]
+($C1)"I'm creating an[BR]
+
+すごい　つえを[BR]
+awesome magic[BR]
+
+つくれる」[CLS]
+item."[CLS]
+
+($CD)($CE)６($C0)「ほんとに？」[CLS]
+($CD)($CE)６($C0)"Yeah?"[CLS]
+
+($C1)「ほんと。[CLS]
+($C1)"Yes.[CLS]
+
+そのなも[BR]
+I call it the[BR]
+
+グレート[BR]
+Great[BR]
+
+スタッフ。[CLS]
+Staff.[CLS]
+
+すごいすごい。[CLS]
+It'll be super duper cool.[CLS]
+
+まえ金で[BR]
+But I need 10000G[BR]
+
+１００００。[CLS]
+to complete it.[CLS]
+
+かんせいしたら[BR]
+If you want me[BR]
+
+金１００００[BR]
+to complete it,[BR]
+
+くれ」[CLS]
+give me 10000G."[CLS]
+
+($C0)はらう？[ED]
+($C0)Pay him?[ED]
+
+
+($C9)ッ($C1)「１０じかん[BR]
+($C9)ッ($C1)"I'll be done[BR]
+
+ぐらいで[BR]
+in about[BR]
+
+かんせいする。[CLS]
+10 hours.[CLS]
+
+そのとき[BR]
+Come back[BR]
+
+きてくれ」[CLS]
+then."[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)「びんぼうにん[BR]
+($C1)"You don't have[BR]
+
+　きらい」($C9)ッ[CLS]
+the money? Pah."($C9)ッ[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)「そうか。[BR]
+($C1)"I see.[BR]
+
+　そりゃ[BR]
+That's too[BR]
+
+　ざんねん」[CLS]
+bad."[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($CE)７($CF)６($C0)あっ！[BR]
+($CE)７($CF)６($C0)Ah.[BR]
+
+ピグラが[BR]
+Pigra is nowhere[BR]
+
+いない！？[CLS]
+to be seen...[CLS]
+
+($CE)７あああああっ！[BR]
+($CE)７D-Don't tell me...![BR]
+
+サギだあああ！[CLS]
+It was a SCAM!![CLS]
+
+($CE)６($CF)６($C0)お金だけとって[BR]
+($CE)６($CF)６($C0)He took[BR]
+
+どっかに[BR]
+my money[BR]
+
+にげたっ！！[CLS]
+and left!![CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)ゆかに[BR]
+($C1)There's a[BR]
+
+おなが[BR]
+hole in[BR]
+
+あいている。[CLS]
+the floor.[CLS]
+
+($C0)おりる？[ED]
+($C0)Go down?[ED]
+
+
+えいっ！[CLS]
+Hop![CLS]
+
+[ED]
+[ED]
+
+
+($CF)５($C0)いたたたた・・[CLS]
+($CF)５($C0)Owwww...[CLS]
+
+おしりから[BR]
+I fell on[BR]
+
+おちちゃった。[CLS]
+my butt...[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($CE)　($C0)ん？[BR]
+($CE)　($C0)Hm?[BR]
+
+ここの　ゆか、[BR]
+The ground feels[BR]
+
+ぐらぐらする。[CLS]
+unstable here.[CLS]
+
+[ED]
+[ED]
+
+
+かべに[BR]
+There's a[BR]
+
+スイッチが[BR]
+switch on[BR]
+
+うまっている。[CLS]
+the wall.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)スイッチは[BR]
+($C1)The switch[BR]
+
+オフに[BR]
+is in the[BR]
+
+なっている。[CLS]
+"off" position.[CLS]
+
+($C0)オンにする？[ED]
+($C0)Change to "on"?[ED]
+
+
+スイッチを[BR]
+You press[BR]
+
+おした。[CLS]
+the switch.[CLS]
+
+[ED]
+[ED]
+
+
+($CE)２($CF)４($C0)ワナかも[BR]
+($CE)２($CF)４($C0)No way.[BR]
+
+しれないから[BR]
+It might be[BR]
+
+やーめた。[CLS]
+a trap.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)スイッチは[BR]
+($C1)You turn[BR]
+
+オンに[BR]
+the switch to[BR]
+
+なっている。[CLS]
+"on".[CLS]
+
+[ED]
+[ED]
+
+
+($C1)にしの　かべに[BR]
+($C1)On the wall[BR]
+
+ひとが[CLS]
+to the west[CLS]
+
+めりこんだ[BR]
+there is a hole[BR]
+
+あとが[BR]
+in the shape[BR]
+
+ついている。[CLS]
+of a person.[CLS]
+
+($CD)($C0)かべが[BR]
+($CD)($C0)What could[BR]
+
+へこんでる。[CLS]
+have left[CLS]
+
+なんの[BR]
+this kind of[BR]
+
+あとなんだろ、[BR]
+mark on[BR]
+
+これ？[CLS]
+the wall?[CLS]
+
+[ED]
+[ED]
+
+
+($C1)かべに[BR]
+($C1)There is an[BR]
+
+せんぷうきが[BR]
+electric fan[BR]
+
+うまっている。[CLS]
+on the wall.[CLS]
+
+[ED]
+[ED]
+
+
+($CE)　($C0)なんで[BR]
+($CE)　($C0)What's a fan[BR]
+
+せんぷうきが？[CLS]
+doing in here?[CLS]
+
+($D1)、($CC)ぇ($C1)いきなり[BR]
+($D1)、($CC)ぇ($C1)All of a sudden,[BR]
+
+せんぷうきが[BR]
+the electric fan[BR]
+
+まわりだした。[CLS]
+activates.[CLS]
+
+($CD)($CE)７($CF)５($C0)げげげっ！！($C9)け[ED]
+($CD)($CE)７($CF)５($C0)Uh-oh.($C9)け[ED]
+
+
+($CF)５($C0)あいたたた・・[BR]
+($CF)５($C0)Owww...[BR]
+
+・・・[CLS]
+......[CLS]
+
+ここの[BR]
+That solves[BR]
+
+へこみは[BR]
+the mystery[BR]
+
+こういうこと[CLS]
+of the human[CLS]
+
+だったのか・・[BR]
+mark on the[BR]
+
+・・・[CLS]
+wall...[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+なんだろ、[BR]
+Huh?[BR]
+
+これ。[CLS]
+What's that?[CLS]
+
+($D1)、($CC)ぇ($C1)いきなり[BR]
+($D1)、($CC)ぇ($C1)All of a sudden,[BR]
+
+せんぷうきが[BR]
+the electric fan[BR]
+
+まわりだした。[CLS]
+activates.[CLS]
+
+($CD)($CE)７($CF)５($C0)げげげっ！！($C9)け[ED]
+($CD)($CE)７($CF)５($C0)What the--($C9)け[ED]
+
+
+($CF)５せなかが[BR]
+($CF)Owww...[BR]
+
+いたいよぉ・・[BR]
+My poor[BR]
+
+・・・[CLS]
+back...[CLS]
+
+あれは[BR]
+That was[BR]
+
+ワナみたい[BR]
+a trap,[BR]
+
+だから、[CLS]
+huh...?[CLS]
+
+もう[BR]
+I'd better[BR]
+
+いかないほうが[BR]
+stay away[BR]
+
+いいみたいだ。[CLS]
+from it.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「み・・・[BR]
+($C1)"Left...[BR]
+
+　み・・・」[CLS]
+ear..."[CLS]
+
+[ED]
+[ED]
+
+
+($CE)７($CF)６($C1)ゴロゴロ[BR]
+($CE)７($CF)６($C1)*grumble*[BR]
+
+ドッカーン！！[CLS]
+*CRASH!!*[CLS]
+
+[ED]
+[ED]
+
+
+($CE)５($CF)６($C1)ビリビリビリ！[CLS]
+($CE)５($CF)６($C1)*bzzzzt*[CLS]
+
+($CD)($C0)ししし[BR]
+($CD)($C0)The c-c-current[BR]
+
+しびれるぅ。[CLS]
+is too s-s-strong![CLS]
+
+こここ[BR]
+こここ[BR]
+I c-c-can't
+
+このままじゃ[BR]
+go through[BR]
+
+とおれないぃ。[CLS]
+like t-t-this![CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($CD)($CE)２($CF)１($C0)ふふふん！[BR]
+($CD)($CE)２($CF)１($C0)Heheheh![BR]
+
+ぜんぜん[BR]
+Not even a[BR]
+
+しびれないよ。[CLS]
+tingle![CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)ヨロヨロの[BR]
+($C1)Schezo[BR]
+
+シェゾが[BR]
+staggers[BR]
+
+あらわれた。[CLS]
+your way.[CLS]
+
+($CD)($CE)　($C0)「あれ？[BR]
+($CD)($CE)　($C0)"Oh?[BR]
+
+　さっき[BR]
+Back so[BR]
+
+　みたのは？」[CLS]
+soon?"[CLS]
+
+($C1)「あ、[BR]
+($C1)"Ah, that...[BR]
+
+　あれは・・・[CLS]
+that was...[CLS]
+
+ぶ、ぶんしんの[BR]
+T-That was a[BR]
+
+まほうだ！[CLS]
+magic clone![CLS]
+
+おまえを[BR]
+Merely a[BR]
+
+ゆだんさせる[BR]
+ruse, to[BR]
+
+ためにな！」[CLS]
+deceive you!"[CLS]
+
+($CD)($CE)４($CF)４($C0)「ほんとかなぁ[BR]
+($CD)($CE)４($CF)４($C0)"Is that[BR]
+
+　・・・・・」[CLS]
+so..."[CLS]
+
+($C1)「そんなことは[BR]
+($C1)"Forget[BR]
+
+どうでもいい！[CLS]
+about that![CLS]
+
+こんどこそ[BR]
+This time[BR]
+
+ちからを[BR]
+I will obtain[BR]
+
+もらうぞ！」[CLS]
+your power!"[CLS]
+
+($CD)($CE)２($CF)６($C0)「はいはい、[BR]
+($CD)($CE)２($CF)６($C0)"Uh-huh,[BR]
+
+どうぞどうぞ。[CLS]
+sure.[CLS]
+
+($CE)゛($CF)１($C0)なんどやっても[BR]
+($CE)゛($CF)１($C0)Just like you[BR]
+
+おなじと[BR]
+did the other[BR]
+
+おもうけどね」[CLS]
+times, right?"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ゆかに[BR]
+($C1)There is[BR]
+
+ちいさい[BR]
+a small hole[BR]
+
+あながある。[CLS]
+in the floor.[CLS]
+
+[ED]
+[ED]
+
+
+きれいに[BR]
+It shines[BR]
+
+ひかってる。[CLS]
+beautifully.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)３つの　いしが[BR]
+($C1)The three gems[BR]
+
+かがやきだし、[CLS]
+start shining,[CLS]
+
+ひかりは[BR]
+and their lights[BR]
+
+いってんに[BR]
+gather to[BR]
+
+あつまった。[CLS]
+a single point.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ゴゴゴゴゴゴゴ[BR]
+($C1)*rrruuu[BR]
+
+ゴゴゴゴゴゴゴ[BR]
+mmmbbb[BR]
+
+ゴゴゴゴゴ！！[CLS]
+llleee*[CLS]
+
+まほうじんが[BR]
+A magic circle[BR]
+
+あらわれた。[CLS]
+has appeared.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)あかいろの[BR]
+($C1)There is a[BR]
+
+ほうせきが[BR]
+red gem[BR]
+
+おちている。[CLS]
+on the ground.[CLS]
+
+($C0)とる？[ED]
+($C0)Pick it up?[ED]
+
+
+($C1)あおいろの[BR]
+($C1)There is a[BR]
+
+ほうせきが[BR]
+blue gem[BR]
+
+おちている。[CLS]
+on the ground.[CLS]
+
+($C0)とる？[ED]
+($C0)Pick it up?[ED]
+
+
+($C1)きいろの[BR]
+($C1)There is a[BR]
+
+ほうせきが[BR]
+yellow gem[BR]
+
+おちている。[CLS]
+on the ground.[CLS]
+
+($C0)とる？[ED]
+($C0)Pick it up?[ED]
+
+
+わわわっ！[BR]
+Ahhh![BR]
+
+からだが[BR]
+I'm being[BR]
+
+ひずむぅー！！[CLS]
+pulled away![CLS]
+
+[ED]
+[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「み・・・[BR]
+($C1)"Right...[BR]
+
+　・・・・・[BR]
+......[BR]
+
+　て・・・」[CLS]
+hand..."[CLS]
+
+[ED]
+[ED]
+
+
+とびらに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the door.[CLS]
+
+($C1)「ほうびとして[BR]
+($C1)"You[BR]
+
+　よいものを[BR]
+deserve[BR]
+
+　やろう。[CLS]
+a reward.[CLS]
+
+はいってみるが[BR]
+You may[BR]
+
+よい」[CLS]
+enter."[CLS]
+
+[ED]
+[ED]
+
+
+とびらに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the door.[CLS]
+
+($C1)「さきへ[BR]
+($C1)"You should[BR]
+
+いそぐがよい」[CLS]
+hurry forward."[CLS]
+
+[ED]
+[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「ひ・・・[BR]
+($C1)"Left...[BR]
+
+　・・り・・・[BR]
+......[BR]
+
+　て・・・」[CLS]
+hand..."[CLS]
+
+[ED]
+[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「み・・・・・[BR]
+($C1)"Right...[BR]
+
+　・・・あ・・[BR]
+......[BR]
+
+　・し・・・」[CLS]
+foot..."[CLS]
+
+[ED]
+[ED]
+
+
+かべに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the wall.[CLS]
+
+($C1)「・・だ・・・[BR]
+($C1)"Left...[BR]
+
+り・・・あ・・[BR]
+......[BR]
+
+　・し・・・」[CLS]
+foot..."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)かべに[BR]
+($C1)There is[BR]
+
+ボタンが[BR]
+a button[BR]
+
+うまっている。[CLS]
+on the wall.[CLS]
+
+($C0)おしてみる？[ED]
+($C0)Press it?[ED]
+
+
+($C1)「いまから[BR]
+($C1)"Now heading[BR]
+
+ちか[BR]
+to underground[BR]
+
+１００かいまで[CLS]
+floor 100[CLS]
+
+ちょう[BR]
+at super[BR]
+
+こうそくで[BR]
+high[BR]
+
+まいりまーす。[CLS]
+velocity.[CLS]
+
+すこし[BR]
+You may[BR]
+
+ゆれますので、[CLS]
+feel unsteady,[CLS]
+
+おきをつけて[BR]
+so please[BR]
+
+くださぁーい」[CLS]
+brace yourselves."[CLS]
+
+($CB)ヘ($C1)ヒューーーーー[BR]
+($CB)ヘ($C1)*WHOOO[BR]
+
+ーーーーーーー[BR]
+OOOOOO[BR]
+
+ーーーーーーー[ED]
+OOOSH*[ED]
+
+
+($CE)７($CF)６($C0)あわわわわ！[BR]
+($CE)７($CF)６($C0)Ahhh![BR]
+
+な、なに[BR]
+W-What's[BR]
+
+これーっ！！[ED]
+going ooon?![ED]
+
+
+($CE)　($CC)っ($C1)チーン！[CLS]
+($CE)　($CC)っ($C1)*ding*[CLS]
+
+($C1)「ちか[BR]
+($C1)"We have reached[BR]
+
+　１００かい[BR]
+underground[BR]
+
+　でぇーす。[CLS]
+floor 100.[CLS]
+
+またの[BR]
+Thank you for[BR]
+
+ごりよう[CLS]
+using our service.[CLS]
+
+おねがい[BR]
+We hope to[BR]
+
+しまぁーす」[CLS]
+see you again."[CLS]
+
+[ED]
+[ED]
+
+
+カギが[BR]
+It's locked.[BR]
+
+かかってて[BR]
+I can't[BR]
+
+あかないや。[CLS]
+open it.[CLS]
+
+べつのカギが[BR]
+Maybe I need a[BR]
+
+いるのかなぁ。[CLS]
+different key...[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「いまから[BR]
+($C1)"Now heading[BR]
+
+ちか[BR]
+to underground[BR]
+
+１００かいまで[CLS]
+floor 100[CLS]
+
+ちょう[BR]
+at super[BR]
+
+こうそくで[BR]
+high[BR]
+
+まいりまーす。[CLS]
+velocity.[CLS]
+
+すこし[BR]
+You may[BR]
+
+ゆれますので、[CLS]
+feel unsteady,[CLS]
+
+おきをつけて[BR]
+so please[BR]
+
+くださぁーい」[CLS]
+brace yourselves."[CLS]
+
+($CB)チ($C1)ヒューーーーー[BR]
+($CB)チ($C1)*WHOOO[BR]
+
+ーーーーーーー[BR]
+OOOOOO[BR]
+
+ーーーーーーー[ED]
+OOOSH*[ED]
+
+
+($C1)かべに[BR]
+($C1)There is a[BR]
+
+ちいさな[BR]
+small cavity[BR]
+
+くぼみがある。[CLS]
+in the wall.[CLS]
+
+そのなかには[BR]
+You notice a[BR]
+
+くろいカギが[BR]
+black key[BR]
+
+おいてある。[CLS]
+inside of it.[CLS]
+
+($C0)カギをとる？[ED]
+($C0)Take the key?[ED]
+
+
+くろいカギを[BR]
+You obtain the[BR]
+
+てにいれた[CLS]
+black key.[CLS]
+
+[ED]
+[ED]
+
+
+($CC)ア($C0)ひだりから[BR]
+($CC)ア($C0)You hear[BR]
+
+へんなおとが[BR]
+a weird noise[BR]
+
+きこえた。[CLS]
+to your left.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)くぼみのなかに[BR]
+($C1)There is[BR]
+
+らっきょが[BR]
+a veggie in[BR]
+
+おいてある。[CLS]
+the cavity.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)かべに[BR]
+($C1)There is a[BR]
+
+ちいさな[BR]
+small cavity[BR]
+
+くぼみがある。[CLS]
+in the wall.[CLS]
+
+($CD)($C0)カギをかえす？[ED]
+($CD)($C0)Return the key?[ED]
+
+
+くろいカギを[BR]
+You place the[BR]
+
+くぼみに[BR]
+black key in[BR]
+
+おいた。[CLS]
+the cavity.[CLS]
+
+[ED]
+[ED]
+
+
+($CE)２($CF)４($C0)やだ。[BR]
+($CE)２($CF)４($C0)No way.[BR]
+
+かえさない。[CLS]
+It's mine now.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+らっきょを[BR]
+You put a[BR]
+
+くぼみに[BR]
+veggie in[BR]
+
+おいた。[CLS]
+the cavity.[CLS]
+
+[ED]
+[ED]
+
+
+むこうに[BR]
+You see a[BR]
+
+ボタンが[BR]
+button on the[BR]
+
+みえる。[CLS]
+other side.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「かぜを[BR]
+($C1)*brrrr*[BR]
+
+　ひいたから[BR]
+"I caught[BR]
+
+　さむいぃ」[CLS]
+a cold..."[CLS]
+
+ラミアが[BR]
+The Lamia[BR]
+
+こごえている。[CLS]
+is shivering.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「クシュン！[BR]
+($C1)*atchoo!*[BR]
+
+　さむいじゃ[BR]
+"That's even[BR]
+
+　ないの！！」[CLS]
+colder!"[CLS]
+
+ラミアが[BR]
+The Lamia[BR]
+
+おこって[BR]
+gets angry[BR]
+
+おそってきた！[CLS]
+and attacks you![CLS]
+
+[ED]
+[ED]
+
+
+($C1)「なかなか[BR]
+($C1)"You're[BR]
+
+やさしい[BR]
+a nice[BR]
+
+むすめだねぇ」[CLS]
+girl."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「なかなか[BR]
+($C1)"You're[BR]
+
+やさしい[BR]
+a nice[BR]
+
+むすめだねぇ。[CLS]
+girl.[CLS]
+
+おれいに[BR]
+Here, you[BR]
+
+この　つえを[BR]
+can have[BR]
+
+あげるわ」[CLS]
+this wand."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ありがとね」[CLS]
+($C1)"Thank you."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ゆかに[BR]
+($C1)There is[BR]
+
+アイテムが[BR]
+an item on[BR]
+
+おちている。[CLS]
+the ground.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($C1)おとしあなが[BR]
+($C1)There is a[BR]
+
+おおきなくちを[BR]
+large hole[BR]
+
+あけている。[CLS]
+on the floor.[CLS]
+
+($CD)($C0)さっき、[BR]
+($CD)($C0)Someone just[BR]
+
+だれか　ここに[BR]
+fell through[BR]
+
+おちたみたい。[CLS]
+here.[CLS]
+
+ふかさは[BR]
+I wonder how[BR]
+
+どれくらい[BR]
+deep it[BR]
+
+あるのかなぁ。[CLS]
+is...[CLS]
+
+この[BR]
+Let's try[BR]
+
+こいしでも[BR]
+dropping[BR]
+
+おとしてみよ。[CLS]
+a pebble.[CLS]
+
+ポイッ。[CLS]
+In you go.[CLS]
+
+($CC)イ($C1)ヒューーーーー[BR]
+($CC)イ($C1)*whiii[BR]
+
+ーーーーーーー[BR]
+iiiiii[BR]
+
+ーーーーーーー[ED]
+iiistle*[ED]
+
+
+($CC)ウ($C1)コン！[CLS]
+($CC)ウ($C1)*thud*[CLS]
+
+($CD)($CE)０($CF)６($C0)うっひゃー。[CLS]
+($CD)($CE)０($CF)６($C0)Wow.[CLS]
+
+こんな[BR]
+Falling[BR]
+
+ふかいところに[BR]
+down[BR]
+
+おちたら[CLS]
+here[CLS]
+
+かすりきず[BR]
+is no[BR]
+
+どころじゃ[BR]
+joke,[BR]
+
+すまないよ。[CLS]
+for sure.[CLS]
+
+($CE)４($CF)７($C0)おちたひと、[BR]
+($CE)４($CF)７($C0)That lady[BR]
+
+かわいそうに[BR]
+is probably[BR]
+
+・・・[CLS]
+dead...[CLS]
+
+($CE)２($CF)７($C0)なんまいだぶ、[BR]
+($CE)２($CF)７($C0)May you[BR]
+
+なんまいだぶ[BR]
+rest in[BR]
+
+・・・・・[CLS]
+peace, you poor...[CLS]
+
+($C1)「だれよっ！[BR]
+($C1)"Hey![BR]
+
+いしを[BR]
+Who the heck[BR]
+
+なげたのは！！[CLS]
+dropped that rock?![CLS]
+
+ケガするじゃ[BR]
+You could[BR]
+
+ないのっ！！」[CLS]
+have hit me!"[CLS]
+
+($CD)($CE)７($CF)６($C0)げげげっ！[BR]
+($CD)($CE)７($CF)６($C0)Whoa![BR]
+
+にんげんか[BR]
+How is she[BR]
+
+このひとは！？($C9)け[CLS]
+still alive?!($C9)け[CLS]
+
+($C1)「こんな[BR]
+($C1)"Trying to[BR]
+
+　ろうやに[BR]
+bury me[BR]
+
+　あたしを[CLS]
+in here,[CLS]
+
+とじこめた[BR]
+are[BR]
+
+つもり？[BR]
+you?[BR]
+
+あまいわね。[CLS]
+Hmph. You fool.[CLS]
+
+うおりゃあ！！[CLS]
+ORYAH!!"[CLS]
+
+($CC)わ($C1)ドゴォオオオオ[BR]
+($CC)わ($C1)*KABOOO[BR]
+
+オオオオオン！[BR]
+OOOM*[BR]
+
+パラパラ・・・[CLS]
+*crumble*[CLS]
+
+ざっと[BR]
+No way out?[BR]
+
+こんなものね。[CLS]
+Just make one.[CLS]
+
+さ、はやく[BR]
+"No time to waste,[BR]
+
+サタンさまに[BR]
+I must go meet[BR]
+
+あわなくちゃ！[CLS]
+my beloved Satan!"[CLS]
+
+カツカツカツ[BR]
+*footsteps[BR]
+
+・・・・・[CLS]
+fading away*[CLS]
+
+($CD)($CE)７($C0)す、[BR]
+($CD)($CE)７($C0)S-She[BR]
+
+すごすぎる・・[BR]
+sure is[BR]
+
+・・・[CLS]
+something else...[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+もう[BR]
+I can't tell[BR]
+
+したには[BR]
+how deep[BR]
+
+いないみたい。[CLS]
+this goes...[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ぼろぼろ・・・[CLS]
+($C1)*crumble*[CLS]
+
+かべが[BR]
+The wall[BR]
+
+くずれて[CLS]
+collapses,[CLS]
+
+へんな[BR]
+and a weird[BR]
+
+いきものが[BR]
+creature[BR]
+
+でてきた。[CLS]
+comes out.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「これはっ！？[BR]
+($C1)"What the--[BR]
+
+ししし、[BR]
+OOOH[BR]
+
+しまったぁ！！[CLS]
+NOOO![CLS]
+
+($CC)イ($C1)きゃーーーーー[BR]
+($CC)イ($C1)EEEEEE[BR]
+
+ーーーーーーー[BR]
+EEEEEE[BR]
+
+ーーーーっ！！[CLS]
+EEEEEK!![CLS]
+
+ここまで[BR]
+I can't come[BR]
+
+きたのに[CLS]
+this far[CLS]
+
+こんな[BR]
+just to[BR]
+
+おとしあなに[CLS]
+fall[CLS]
+
+ひっかかる[BR]
+for a[BR]
+
+なんてぇーーー[BR]
+stupid[BR]
+
+ーーーっ！！」[CLS]
+traaap!!"[CLS]
+
+($CC)オ($C1)じょせいの[BR]
+($CC)オ($C1)You hear[BR]
+
+ひめいが[CLS]
+a woman screaming[CLS]
+
+きたのほうから[BR]
+from the[BR]
+
+きこえた。[CLS]
+north.[CLS]
+
+($CD)($CE)　[ED]
+($CD)($CE)　[ED]
+
+
+($C0)いまの　こえ、[CLS]
+($C0)That voice...[CLS]
+
+どっかで[BR]
+I feel like[BR]
+
+きいたことが[BR]
+I've heard it[BR]
+
+あるなぁ・・・[CLS]
+before...[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「いまから[BR]
+($C1)"Now heading[BR]
+
+ちか[BR]
+to underground[BR]
+
+１０かいまで[CLS]
+floor 10[CLS]
+
+ちょう[BR]
+at super[BR]
+
+こうそくで[BR]
+high[BR]
+
+まいりまーす。[CLS]
+velocity.[CLS]
+
+すこし[BR]
+You may[BR]
+
+ゆれますので、[CLS]
+feel unsteady,[CLS]
+
+おきをつけて[BR]
+so please[BR]
+
+くださぁーい」[CLS]
+brace yourselves."[CLS]
+
+($CB)チ($C1)ヒューーーーー[BR]
+($CB)チ($C1)*WHOOO[BR]
+
+ーーーーーーー[BR]
+OOOOOO[BR]
+
+ーーーーーーー[ED]
+OOOSH*[ED]
+
+
+($CC)っ($C1)チーン！[CLS]
+($CC)っ($C1)*ding*[CLS]
+
+($C1)「ちか[BR]
+($C1)"We have reached[BR]
+
+　１０かい[BR]
+underground[BR]
+
+　でぇーす。[CLS]
+floor 10.[CLS]
+
+またの[BR]
+Thank you for[BR]
+
+ごりよう[CLS]
+using our service.[CLS]
+
+おねがい[BR]
+We hope to[BR]
+
+しまぁーす」[CLS]
+see you again."[CLS]
+
+[ED]
+[ED]
+
+
+($CE)２($CF)４($C0)おすの[BR]
+($CE)２($CF)４($C0)I'm not pressing[BR]
+
+やーめた。[CLS]
+that again...[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)おとこは[BR]
+($C1)The man[BR]
+
+コーヒーを[BR]
+finishes his[BR]
+
+のみほして、[CLS]
+coffee,[CLS]
+
+ゆっくりと[BR]
+and draws[BR]
+
+アルルに[BR]
+close to[BR]
+
+ちかづいた。[CLS]
+Arle.[CLS]
+
+($CD)($D1)９($D1)２($D1)゜($D1)た($D1)つ($CE)　($C0)「あ、[BR]P*
+($CD)($D1)９($D1)２($D1)゜($D1)た($D1)つ($CE)　($C0)"Uhmm...[BR]P*
+
+　あの・・・」[CLS]
+H-Hello..."[CLS]
+
+($D1)せ($D1)て($C1)「ほぅ。[CLS]
+($D1)せ($D1)て($C1)"A-ha.[CLS]
+
+わたしの[BR]
+You have managed[BR]
+
+しかけた[BR]
+to elude[BR]
+
+わなをぬけて、[CLS]
+all of my traps,[CLS]
+
+ここまで[BR]
+and came right[BR]
+
+これるとはな。[CLS]
+to me.[CLS]
+
+きさきとなるに[BR]
+Yes. You are worthy[BR]
+
+ふさわしい」[CLS]
+of becoming my bride."[CLS]
+
+($CD)($CE)７($CF)６($C0)「な！？」[CLS]
+($CD)($CE)７($CF)６($C0)"E-Excuse me?"[CLS]
+
+($C1)「はずかしがる[BR]
+($C1)"No need to[BR]
+
+　ことはない。[CLS]
+be shy.[CLS]
+
+そのうち[BR]
+Before long,[BR]
+
+わたしの[BR]
+you will fall[BR]
+
+みりょくに[CLS]
+for my charm,[CLS]
+
+きがついて、[BR]
+and you will[BR]
+
+はなれられない[BR]
+never want to[BR]
+
+ようになる」[CLS]
+leave my side."[CLS]
+
+($CD)($C0)「よ、[BR]
+($CD)($C0)"S-Stay[BR]
+
+よるなぁーーー[BR]
+away from[BR]
+
+ーーーっ！！」[CLS]
+meee!!"[CLS]
+
+($D1)そ($D1)つ($C1)「さあ、[BR]
+($D1)そ($D1)つ($C1)"Now then,[BR]
+
+　あつき[BR]
+let us[BR]
+
+　くちづけを[CLS]
+exchange[CLS]
+
+かわそうでは[BR]
+a tender[BR]
+
+ないか」[CLS]
+kiss..."[CLS]
+
+($CD)($D1)０($CC)ツ($C0)「ちょっと[BR]
+($CD)($D1)０($CC)ツ($C0)"HOLD[BR]
+
+まったああああ[BR]
+IT RIGHT[BR]
+
+あああ！！！」[CLS]
+THEEERE!!!"[CLS]
+
+($D1)せ($D1)な($C1)「だれだ！？」[CLS]
+($D1)せ($D1)な($C1)"What?! Who are you?!"[CLS]
+
+($CD)($D1)４($C0)「そいつから[BR]
+($CD)($D1)４($C0)"Stay away from[BR]
+
+　はなれろ！」[CLS]
+that girl!"[CLS]
+
+($D1)１($CE)７($CF)０($C0)シェゾっ！？[BR]
+($D1)１($CE)７($CF)０($C0)Schezo?![BR]
+
+たすけにきて[BR]
+Is he here[BR]
+
+くれたんだ！[CLS]
+to save me?[CLS]
+
+($D1)４($D1)き($D1)こ($C0)「その[BR]
+($D1)４($D1)き($D1)こ($C0)"I saw[BR]
+
+　むすめは[CLS]
+her first![CLS]
+
+おれが[BR]
+She's[BR]
+
+さきに[BR]
+rightfully[BR]
+
+みつけたのだ。[CLS]
+mine![CLS]
+
+($D1)く($D1)ま($D1)き($C0)きさまの[BR]
+($D1)く($D1)ま($D1)き($C0)Nobody[BR]
+
+すきには[BR]
+touches[BR]
+
+させん！」[CLS]
+my things!"[CLS]
+
+($D1)１($CE)４($CF)６($C0)・・・・・[BR]
+($D1)１($CE)４($CF)６($C0)......[BR]
+
+きたいした[BR]
+Yeah, that's[BR]
+
+ぼくが[CLS]
+on me.[CLS]
+
+バカだった。[BR]
+Shouldn't have gotten[BR]
+
+とほほ・・・[CLS]
+my hopes up... *sigh*[CLS]
+
+($D1)た($D1)て($C1)「なにを[BR]
+($D1)た($D1)て($C1)"This is[BR]
+
+たわけたことを[BR]
+utter[BR]
+
+いっている。[CLS]
+nonsense.[CLS]
+
+この　むすめは[BR]
+That girl[BR]
+
+みずからの[BR]
+came to me[BR]
+
+いしで[CLS]
+by herself.[CLS]
+
+わたしに[BR]
+She clearly[BR]
+
+あいに[BR]
+wants to be[BR]
+
+きたのだ。[CLS]
+with me.[CLS]
+
+おぬしの[BR]
+You're just[BR]
+
+でるまくでは[BR]
+the third[BR]
+
+ない」[CLS]
+wheel."[CLS]
+
+($CD)($D1)せ($D1)つ($D1)４($D1)き($D1)け($C0)「そこまで[BR]
+($CD)($D1)せ($D1)つ($D1)４($D1)き($D1)け($C0)"Is that[BR]
+
+　いうのなら、[CLS]
+so?[CLS]
+
+ほんにんに[BR]
+Then why[BR]
+
+きめてもらおう[BR]
+don't we[BR]
+
+ではないか！」[CLS]
+ask HER?"[CLS]
+
+($D1)た($D1)つ($C1)「フム、[BR]
+($D1)た($D1)つ($C1)"Hmph.[BR]
+
+　よかろう」[CLS]
+So be it."[CLS]
+
+($D1)１($C1)「むすめよ、[BR]
+($D1)１($C1)"Girl![BR]
+
+どちらにするか[BR]
+Who do you prefer?[BR]
+
+きめるがよい」[CLS]
+Make your choice."[CLS]
+
+($D1)３($D1)。($D1)お($C1)「おれの[BR]
+($D1)３($D1)。($D1)お($C1)"No need to[BR]
+
+　ところへ[BR]
+doubt yourself.[BR]
+
+　こい！」[CLS]
+Join me!"[CLS]
+
+($D1)２($D1)せ($D1)て($C1)「さぁ、[BR]
+($D1)２($D1)せ($D1)て($C1)"What are[BR]
+
+わたしのもとへ[BR]
+you waiting for?[BR]
+
+くるのだ」[CLS]
+Come here!"[CLS]
+
+($CD)($CE)４($CF)６($C0)とほほ・・・・[BR]
+($CD)($CE)４($CF)６($C0)*siiigh*[BR]
+
+・・・・・・・[BR]
+......[BR]
+
+・・・・・・・[CLS]
+......[CLS]
+
+($CE)５($CF)６($C0)うぇぇ、[BR]
+($CE)５($CF)６($C0)Waaah,[BR]
+
+どっちも[BR]
+they're both[BR]
+
+イヤだぁ！！[CLS]
+bad choices!![CLS]
+
+($D1)３($D1)。($D1)い($C1)「おそいっ！！[CLS]
+($D1)３($D1)。($D1)い($C1)"Too slow![CLS]
+
+はやく[BR]
+If you won't[BR]
+
+きめねば、[CLS]
+hurry,[CLS]
+
+はんぶんずつに[BR]
+I'll just cut[BR]
+
+きりさくぞ！」[CLS]
+you in half!"[CLS]
+
+($CD)($CE)４($CF)６($C0)そ、そんなぁ。[BR]
+($CD)($CE)４($CF)６($C0)Oh my gosh...[BR]
+
+とほほ・・・[CLS]
+*sigh*[CLS]
+
+きゅうきょくの[BR]
+This could be the[BR]
+
+せんたくだよ[BR]
+biggest decision[BR]
+
+これは・・・[CLS]
+of my life...[CLS]
+
+[ED]
+[ED]
+
+
+($D1)１($D1)３($C0)シェゾにする？[ED]
+($D1)１($D1)３($C0)Choose Schezo?[ED]
+
+
+($D1)２($D1)せ($D1)な($C1)「！！！！！[CLS]
+($D1)２($D1)せ($D1)な($C1)"!!!!!![CLS]
+
+わたしより、[BR]
+You'd choose[BR]
+
+こやつのほうが[BR]
+this... THING[BR]
+
+いいのか！？」[CLS]
+over ME?!"[CLS]
+
+($CD)($D1)４($D1)き($D1)し($C0)「ハハハハハ、[BR]
+($CD)($D1)４($D1)き($D1)し($C0)"Hahahahah![BR]
+
+　だろうな。[CLS]
+But of course.[CLS]
+
+($D1)き($D1)く($C0)あんな[BR]
+($D1)き($D1)く($C0)Nobody would[BR]
+
+オッサンなら[CLS]
+ever choose[CLS]
+
+だれだって[BR]
+a middle-aged man over[BR]
+
+いやだろうよ」[CLS]
+a virile, young one."[CLS]
+
+($D1)た($D1)に($D1)ぬ($C1)ぴくっ[CLS]
+($D1)た($D1)に($D1)ぬ($C1)*twitch*[CLS]
+
+($CD)($C0)「まぁ、[BR]
+($CD)($C0)"It was never[BR]
+
+オッサンなんか[CLS]
+a contest, really.[CLS]
+
+はなっから[BR]
+I almost feel[BR]
+
+あいてじゃ[BR]
+bad for picking[BR]
+
+ないし」[CLS]
+on the elderly."[CLS]
+
+($C1)ぴくぴくっ[CLS]
+($C1)*twitch* *twitch*[CLS]
+
+($CD)($D1)き($C0)「わかく[BR]
+($CD)($D1)き($C0)"You should start[BR]
+
+みせてるだけで[CLS]
+acting your age,[CLS]
+
+じつは[BR]
+stop trying to[BR]
+
+ジジイじゃ[BR]
+impress girls way[BR]
+
+ないのか？」[CLS]
+younger than you."[CLS]
+
+($C1)ぴくぴくぴくっ[CLS]
+($C1)*twitch* *twitch* *twitch*[CLS]
+
+($CD)($D1)く($C0)「さぁ、[BR]
+($CD)($D1)く($C0)"Alright,[BR]
+
+じじいは[BR]
+let's leave[BR]
+
+ほおっておいて[CLS]
+grandpa here,[CLS]
+
+おれと[BR]
+and go[BR]
+
+いっしょに[BR]
+somewhere else,[BR]
+
+こい」[CLS]
+shall we?"[CLS]
+
+($D1)ち($D1)な($C1)「まぁああああ[BR]
+($D1)ち($D1)な($C1)"THAT'S[BR]
+
+てぇえええ！！[CLS]
+ENOOOUUUGH!![CLS]
+
+そこまで[BR]
+I won't stay[BR]
+
+こけにされて[BR]
+idle while[BR]
+
+だまっていては[CLS]
+the good name[CLS]
+
+サタンの　なが[BR]
+of Satan is[BR]
+
+すたる！[CLS]
+besmirched![CLS]
+
+しねえっ！[BR]
+Die![BR]
+
+サタン[BR]
+Satan[BR]
+
+ブレード！！」[CLS]
+Blade!!"[CLS]
+
+($CD)($D1)き($D1)け($C0)「なにおっ！！[BR]
+($CD)($D1)き($D1)け($C0)"Don't make me laugh![BR]
+
+アレイアード[BR]
+Areiado[BR]
+
+スペシャル！」($C9)り($C9)る[CLS]
+Special!"($C9)り($C9)る[CLS]
+
+($CC)ク($C1)どどどどどどど[BR]
+($CC)ク($C1)*grumble*[BR]
+
+がっしゃあああ[BR]
+*rumble*[BR]
+
+ああああん！！[CLS]
+*CRASH*[CLS]
+
+($CD)($CC)ク($C0)どどどどどどど[BR]
+($CD)($CC)ク($C0)*rumble*[BR]
+
+がっしゃあああ[BR]
+*grumble*[BR]
+
+ああああん！！[CLS]
+*CRASH*[CLS]
+
+($D1)１($CE)７($CF)６($C0)ふたりが[BR]
+($D1)１($CE)７($CF)６($C0)They're both[BR]
+
+たたかってる。[CLS]
+fighting each other.[CLS]
+
+ひえええええ、[BR]
+Eeeek![BR]
+
+すさまじいぃ。[CLS]
+They're so strong![CLS]
+
+($D1)４($D1)き($D1)こ($C0)「く、[BR]
+($D1)４($D1)き($D1)こ($C0)"Urgh,[BR]
+
+　くそぉッ！」[CLS]
+damn you!"[CLS]
+
+($D1)た($D1)て($C1)「すこしは[BR]
+($D1)た($D1)て($C1)"Not too[BR]
+
+やるようだが、[CLS]
+shabby,[CLS]
+
+そんなちからで[BR]
+but you'll[BR]
+
+わたしに[BR]
+need way[BR]
+
+はむかおうなど[CLS]
+more than that[CLS]
+
+ひゃくおくねん[BR]
+to even stand[BR]
+
+はやいわッ。[CLS]
+a chance.[CLS]
+
+($D1)せ($D1)な($C1)サタンブレード[BR]
+($D1)せ($D1)な($C1)Behold![BR]
+
+だいだげきぃい[BR]
+Satan Blade,[BR]
+
+いいい！！！」[CLS]
+critical strike!"[CLS]
+
+($CD)($CC)ケ($C0)どっかああああ[BR]
+($CD)($CC)ケ($C0)*KA-[BR]
+
+ああああああん[BR]
+BOOO[BR]
+
+！！！！！！！[CLS]
+OOOM*[CLS]
+
+($D1)く($D1)け($C0)「む、[BR]
+($D1)く($D1)け($C0)"H-How[BR]
+
+　むねんっ！」($C9)ん[CLS]
+disgraceful..."($C9)ん[CLS]
+
+($D1)１($D1)た($D1)つ($C1)「フ・・・、[CLS]
+($D1)１($D1)た($D1)つ($C1)"Hmph...[CLS]
+
+これで[BR]
+That pest[BR]
+
+じゃまものは[BR]
+won't bother[BR]
+
+いなくなった」[CLS]
+us now."[CLS]
+
+[ED]
+[ED]
+
+
+($D1)２($D1)せ($D1)て($C0)サタンにする？[ED]
+($D1)２($D1)せ($D1)て($C0)Choose Satan?[ED]
+
+
+($D1)２($D1)た($D1)つ($C1)「フ・・・、[BR]
+($D1)２($D1)た($D1)つ($C1)"Heh...[BR]
+
+　やはりな」[CLS]
+A logical choice."[CLS]
+
+($CD)($D1)４($D1)き($D1)こ($C0)「そ、[BR]
+($CD)($D1)４($D1)き($D1)こ($C0)"What?![BR]
+
+そんなバカな！[CLS]
+Preposterous![CLS]
+
+おのれぇ！[BR]
+Curse you![BR]
+
+おまえら[BR]
+If that's how[BR]
+
+ふたりとも[CLS]
+it is,[CLS]
+
+ここで[BR]
+I'll just have to[BR]
+
+しねっ！！」[CLS]
+kill you both!"[CLS]
+
+($D1)た($D1)て($C1)「フ・・・、[BR]
+($D1)た($D1)て($C1)"Hmph...[BR]
+
+　おろかな。[CLS]
+You fool.[CLS]
+
+($D1)せ($D1)な($C1)サタン[BR]
+($D1)せ($D1)な($C1)Satan[BR]
+
+ブレード！」[CLS]
+Blade!"[CLS]
+
+($CD)($CC)ケ($C0)どっかああああ[BR]
+($CD)($CC)ケ($C0)*KA-[BR]
+
+ああああああん[BR]
+BOOO[BR]
+
+！！！！！！！[CLS]
+OOOM*[CLS]
+
+($D1)く($D1)け($C9)ん($D1)０($C0)シェゾは[BR]
+($D1)く($D1)け($C9)ん($D1)０($C0)Schezo is[BR]
+
+いちげきで[BR]
+defeated in a[BR]
+
+ばたんきゅー。[CLS]
+single strike.[CLS]
+
+($D1)１($D1)た($D1)つ($C1)「それでは[BR]
+($D1)１($D1)た($D1)つ($C1)"Now, where were we?[BR]
+
+　ちぎりの[BR]
+Ah, yes... A tender kiss[BR]
+
+くちづけを」[CLS]
+to seal our vows..."[CLS]
+
+($CD)($CE)６($CF)４($C0)「やだよっ！」[CLS]
+($CD)($CE)６($CF)４($C0)"No way!"[CLS]
+
+($D1)せ($D1)て($C1)「はずかしがる[BR]
+($D1)せ($D1)て($C1)"No need to[BR]
+
+　ことはない」[CLS]
+be shy..."[CLS]
+
+[ED]
+[ED]
+
+
+($D1)４($C0)どっちもイヤ？[ED]
+($D1)４($C0)Refuse both?[ED]
+
+
+「なにぃー！」[CLS]
+"WHAT?!"[CLS]
+
+($D1)せ($D1)な($C1)「そんなことは[BR]
+($D1)せ($D1)な($C1)"That won't[BR]
+
+　ゆるさぬ」[CLS]
+do at all."[CLS]
+
+($CD)($D1)き($D1)け($C0)「おれは[CLS]
+($CD)($D1)き($D1)け($C0)"Look,[CLS]
+
+あいつの[BR]
+I only[BR]
+
+ちからが[BR]
+want her[BR]
+
+ほしいだけだ」[CLS]
+power."[CLS]
+
+($D1)た($D1)と($C1)「わたしは[CLS]
+($D1)た($D1)と($C1)"As for me,[CLS]
+
+むすめの[BR]
+I wish[BR]
+
+たましいが[BR]
+to have[BR]
+
+あればよい」[CLS]
+her soul."[CLS]
+
+($CD)($D1)こ($C0)「なんだよ。[CLS]
+($CD)($D1)こ($C0)"What do you know?[CLS]
+
+ほしいものは[BR]
+We want two[BR]
+
+べつべつじゃ[BR]
+completely[BR]
+
+ないか」[CLS]
+different things."[CLS]
+
+($D1)せ($D1)つ($C1)「ふむ。[CLS]
+($D1)せ($D1)つ($C1)"Indeed.[CLS]
+
+それなら[BR]
+In that case,[BR]
+
+きょうりょく[BR]
+how about we[BR]
+
+しても[CLS]
+cooperate?[CLS]
+
+そんには[BR]
+It would only prove[BR]
+
+ならぬな」[CLS]
+advantageous."[CLS]
+
+($CD)($D1)ぬ($C0)「そういう[BR]
+($CD)($D1)ぬ($C0)"Agreed.[BR]
+
+　ことだ。[CLS]
+Let's do this, then.[CLS]
+
+せぇのー！[CLS]
+Here we go![CLS]
+
+($D1)け($C0)アレイアード[BR]
+($D1)け($C0)Areiado[BR]
+
+スペシャル！」($C9)り($C9)る[CLS]
+Special!"($C9)り($C9)る[CLS]
+
+($D1)せ($D1)な($C1)「サタン[BR]
+($D1)せ($D1)な($C1)"Satan[BR]
+
+ブレード！！」[CLS]
+Blade!"[CLS]
+
+($CD)($CC)ケ($C0)どどどどっかあ[BR]
+($CD)($CC)ケ($C0)*KA-[BR]
+
+あああああああ[BR]
+BOOO[BR]
+
+ああああん！！[CLS]
+OOOM*[CLS]
+
+($C0)さすがの[BR]
+($C0)Unfortunately,[BR]
+
+アルルも、[BR]
+Arle would prove[BR]
+
+ふたりの[CLS]
+no match for[CLS]
+
+がったい[BR]
+the combined[BR]
+
+こうげきには[BR]
+might of[BR]
+
+かなわない。[CLS]
+Schezo and Satan.[CLS]
+
+[ED]
+[ED]
+
+
+($D1)０($D1)１($D1)９($D1)２($C0)「はぁはぁ[BR]
+($D1)０($D1)１($D1)９($D1)２($C0)*huff*[BR]
+
+　はぁ・・・」[CLS]
+*puff*[CLS]
+
+($D1)せ($D1)て($C1)「フム、[BR]
+($D1)せ($D1)て($C1)"You're strong,[BR]
+
+よそう[BR]
+more than I[BR]
+
+いじょうだな。[CLS]
+anticipated.[CLS]
+
+ますます[BR]
+I like you[BR]
+
+きにいったぞ。[CLS]
+more and more.[CLS]
+
+($D1)そ($D1)つ($C1)さぁ、[BR]
+($D1)そ($D1)つ($C1)Come now,[BR]
+
+わたしと[BR]
+let us[BR]
+
+ちかいの[CLS]
+exchange[CLS]
+
+くちづけを[BR]
+our vows with[BR]
+
+かわそう」[CLS]
+a kiss!"[CLS]
+
+($CD)($D1)た($CE)５($CF)６($C0)「ち、[BR]
+($CD)($D1)た($CE)５($CF)６($C0)"D-Don't[BR]
+
+　ちかよるなぁ[BR]
+come any[BR]
+
+　ーーー！！」[CLS]
+closer!"[CLS]
+
+($D1)た($D1)つ($C1)「フ、[BR]
+($D1)た($D1)つ($C1)"Heh, no need[BR]
+
+てれるでない」[CLS]
+to be embarrassed."[CLS]
+
+($CD)($CE)７($CF)６($C0)「ちょ、[BR]
+($CD)($CE)７($CF)６($C0)"J-Just[BR]
+
+　ちょっと[BR]
+hold on[BR]
+
+　まって！！[CLS]
+a minute![CLS]
+
+そのまえに、[BR]
+Setting this matter aside,[BR]
+
+ルベルクラク[BR]
+do you know anything[BR]
+
+しらない？」[CLS]
+about the Rubelcrack?"[CLS]
+
+($D1)せ($D1)て($C1)「もちろん[BR]
+($D1)せ($D1)て($C1)"I certainly[BR]
+
+しっておるが、[CLS]
+do.[CLS]
+
+それが[BR]
+But why would[BR]
+
+どうしたと[BR]
+you ask me[BR]
+
+いうのだ」[CLS]
+about it?"[CLS]
+
+($CD)($CE)３($CF)７($C0)「じつは、[BR]
+($CD)($CE)３($CF)７($C0)"Truth is,[BR]
+
+それを　とりに[BR]
+I came here[BR]
+
+きたんだけど」[CLS]
+to get it."[CLS]
+
+($D1)ち($D1)な($C1)「な、なにぃ！[BR]
+($D1)ち($D1)な($C1)"What did you just say?![BR]
+
+そんなことを[BR]
+If the Rubelcrack[BR]
+
+したら[CLS]
+is removed,[CLS]
+
+カーバンクル[BR]
+the poor[BR]
+
+ちゃんの[BR]
+Carbuncle[BR]
+
+いのちが！」[CLS]
+will die!!"[CLS]
+
+($CD)($CE)７($CF)７($C0)へ？[BR]
+($CD)($CE)７($CF)７($C0)Huh?[BR]
+
+カーバンクル？[BR]
+Carbuncle?[BR]
+
+なんのこと？[CLS]
+Who's that?[CLS]
+
+($C1)「ゆ、[BR]
+($C1)"I won't let[BR]
+
+ゆるさぬっ！」[CLS]
+that happen!!"[CLS]
+
+($CD)($CE)７($CF)６($C0)「ちょ、[BR]
+($CD)($CE)７($CF)６($C0)"W-What[BR]
+
+ちょっと！？」[CLS]
+are you--"[CLS]
+
+($D1)す($D1)ひ($D1)な($C1)「たとえ[BR]
+($D1)す($D1)ひ($D1)な($C1)"Nobody threatens[BR]
+
+わたしの[CLS]
+Carbuncle,[CLS]
+
+きさきで[BR]
+not even[BR]
+
+あろうと、[BR]
+my future[BR]
+
+それだけは[CLS]
+bride!![CLS]
+
+ぜったいに[BR]
+I WON'T[BR]
+
+ゆるさなあああ[BR]
+LET YOU[BR]
+
+あああい！！」[CLS]
+HURT HIM!!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「あなた[BR]
+($C1)"Who are[BR]
+
+　だれ？[CLS]
+you?[CLS]
+
+はやく[BR]
+Leave[BR]
+
+ここから[BR]
+at[BR]
+
+きえないと[CLS]
+once,[CLS]
+
+ゆるさない[BR]
+or face[BR]
+
+わよ！」[CLS]
+the consequences!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「もう[BR]
+($C1)"You were[BR]
+
+ゆるさない！」[CLS]
+warned!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)へやの[BR]
+($C1)Inside the[BR]
+
+おくに[CLS]
+room[CLS]
+
+りりしい[BR]
+is a[BR]
+
+かおつきの[BR]
+handsome[BR]
+
+おとこが[CLS]
+man,[CLS]
+
+ごうかなイスに[BR]
+sitting in a[BR]
+
+すわって[CLS]
+gorgeous chair,[CLS]
+
+ゆうがに[BR]
+drinking a[BR]
+
+コーヒーを[BR]
+cup of coffee[BR]
+
+のんでいる。[CLS]
+with grace.[CLS]
+
+($CD)($C0)だれだろ[BR]
+($CD)($C0)Who is that[BR]
+
+このひと。[CLS]
+man?[CLS]
+
+でも、この[BR]
+...And what is[BR]
+
+まがまがしい[BR]
+this ominous[BR]
+
+きは　なに？[CLS]
+feeling?[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「あーーー。[BR]
+($C1)"Look![BR]
+
+　へんなひとが[BR]
+It's someone[BR]
+
+　いるー」[CLS]
+suspicious!"[CLS]
+
+「だれだ[BR]
+"Who are[BR]
+
+　てめぇ」[CLS]
+you?[CLS]
+
+「ここは[BR]
+This is[BR]
+
+　サタンさまに[BR]
+a sacred[BR]
+
+　ゆるされた[CLS]
+place.[CLS]
+
+かただけが[BR]
+Only those[BR]
+
+はいることの[BR]
+invited by[BR]
+
+できる、[CLS]
+Satan[CLS]
+
+せいなる[BR]
+may[BR]
+
+ばしょですよ。[CLS]
+come in.[CLS]
+
+そうそうに[BR]
+If you won't[BR]
+
+たちさらないと[BR]
+leave at once,[BR]
+
+おしおきです」[CLS]
+you will be punished."[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「あーーー。[BR]
+($C1)"Ahhh,[BR]
+
+　まだ[BR]
+she's here[BR]
+
+　いるよー」[CLS]
+again!"[CLS]
+
+「いたいめに[BR]
+"Let's[BR]
+
+　あわせて[BR]
+teach her[BR]
+
+　やるぜ！」[CLS]
+a lesson!"[CLS]
+
+「いうことの[BR]
+"You should have[BR]
+
+きけないひとは[BR]
+listened to us.[BR]
+
+おしおきよ！」[CLS]
+Time for your punishment!"[CLS]
+
+[ED]
+[ED]
+
+
+とびらに[BR]
+Something is[BR]
+
+もじが[BR]
+written on[BR]
+
+かいてる。[CLS]
+the door.[CLS]
+
+($C1)「おとこは[BR]
+($C1)"No[BR]
+
+　たちいり[BR]
+men[BR]
+
+　きんし」[CLS]
+allowed"[CLS]
+
+($CD)($C0)へんなのー。[CLS]
+($CD)($C0)Huh.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「サタンさまの[BR]
+($C1)"You're disturbing[BR]
+
+ハーレムを[BR]
+Lord Satan's[BR]
+
+みだすやつは[CLS]
+harem![CLS]
+
+ゆるさないわ！[BR]
+For that,[BR]
+
+ここで[BR]
+you must[BR]
+
+しになさい！」[CLS]
+die!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ぶーぶー」[CLS]
+($C1)*oink* *oink*[CLS]
+
+($CD)($C0)「その　こえは[BR]
+($CD)($C0)"Is that you,[BR]
+
+　ピグラ！？」[CLS]
+Pigra?"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「グレート[BR]
+($C1)"The Great[BR]
+
+　スタッフ[BR]
+Staff is[BR]
+
+　できた。[CLS]
+complete.[CLS]
+
+わたす。[BR]
+I'll give it[BR]
+
+金１００００[BR]
+to you for[BR]
+
+くれ」[CLS]
+10000G."[CLS]
+
+($CD)($C0)「金は[BR]
+($CD)($C0)"You can have[BR]
+
+　ぜんぶ[BR]
+ALL of my money[BR]
+
+　あげるから[CLS]
+for all I care![CLS]
+
+それを[BR]
+Just give me[BR]
+
+わたして！」[CLS]
+that thing!"[CLS]
+
+($C1)「まいどあり。[BR]
+($C1)"Thank you.[BR]
+
+　また[BR]
+Let's do business[BR]
+
+　よろしく」[CLS]
+again."[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($C0)グレート[BR]
+($C0)You grasp[BR]
+
+スタッフを[BR]
+the Great[BR]
+
+うけとった。[CLS]
+Staff.[CLS]
+
+グレート[BR]
+Pure magic[BR]
+
+スタッフから[CLS]
+is released[CLS]
+
+けむりのように[BR]
+from it,[BR]
+
+まりょくが[BR]
+like[BR]
+
+ふきだす。[CLS]
+smoke.[CLS]
+
+たいりょくも[BR]
+Your endurance[BR]
+
+まどうりょくも[CLS]
+and magic[CLS]
+
+($CE)　($CF)０($C0)すべて[BR]
+($CE)　($CF)０($C0)have been[BR]
+
+かいふく[BR]
+fully[BR]
+
+していく！[CLS]
+restored![CLS]
+
+[ED]
+[ED]
+
+
+($C1)「グレート[BR]
+($C1)"The Great[BR]
+
+　スタッフ[BR]
+Staff is[BR]
+
+　できた。[CLS]
+complete.[CLS]
+
+わたす。[BR]
+I'll give it[BR]
+
+金１００００[BR]
+to you for[BR]
+
+くれ」[CLS]
+10000G."[CLS]
+
+($CD)($C0)「いま[BR]
+($CD)($C0)"This is[BR]
+
+それどころじゃ[BR]
+NOT the time[BR]
+
+ないの！[CLS]
+for bartering![CLS]
+
+とにかく[BR]
+Just give[BR]
+
+それを[BR]
+me that[BR]
+
+わたして！」[CLS]
+thing!"[CLS]
+
+($C1)「ぶーぶー、[BR]
+($C1)*oink* *oink*[BR]
+
+　金くれ」[CLS]
+"Give me the money."[CLS]
+
+($CD)($C0)「いま[BR]
+($CD)($C0)"I don't have[BR]
+
+　金ないの！[CLS]
+that much with me![CLS]
+
+あとで[BR]
+I'll pay you[BR]
+
+はらうから！」[CLS]
+later!"[CLS]
+
+($C1)「ぶーぶー。[BR]
+($C1)*oink* *oink*[BR]
+
+　それじゃ、[BR]
+"No money,[BR]
+
+　わたせない。[CLS]
+no deal.[CLS]
+
+では、また」[CLS]
+See you."[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+($C0)「ばかぁーーー[BR]
+($C0)"YOU[BR]
+
+ーーーーーーー[BR]
+BIG[BR]
+
+ーーーッ！！」[CLS]
+DUMMYYY!!"[CLS]
+
+[ED]
+[ED]
+
+
+($C1)「ぶーぶー」[ED]
+($C1)*oink* *oink*[ED]
+
+
+($CC)れ($C1)にしの　ほうで[BR]
+($CC)れ($C1)You hear something[BR]
+
+おとがした。[CLS]
+from the west.[CLS]
+
+($CE)　[ED]
+($CE)　[ED]
+
+
+($C1)てんじょうから[BR]
+($C1)An elephant[BR]
+
+ゾウが[BR]
+falls from[BR]
+
+おちてきた。[CLS]
+the ceiling.[CLS]
+
+まもののうえに[BR]
+It lands on[BR]
+
+おちる。[BR]
+your opponent.[BR]
+
+ムギュゥゥゥ。[ED]
+*squish*[ED]
+
+
+($C1)ゾウは[BR]
+($C1)The elephant[BR]
+
+あしばやに[BR]
+scampers[BR]
+
+にげてった。[CLS]
+away.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)とどとどーん！[BR]
+($C1)*rummble*[BR]
+
+トドのぐんだん[BR]
+An army of sea lions[BR]
+
+はしってくる。[CLS]
+is approaching.[CLS]
+
+($CD)($C0)わわわっ！[CLS]
+($CD)($C0)Waaaah![CLS]
+
+($C1)とどとどとどと[BR]
+($C1)*rumble*[BR]
+
+どとどとどとど[BR]
+*rumble*[BR]
+
+とどとどとどど[CLS]
+*rumble*[CLS]
+
+[ED]
+[ED]
+
+
+($C1)とどとどーん！[BR]
+($C1)*rumble*[BR]
+
+トドのぐんだん[BR]
+The army of sea lions[BR]
+
+にげてった。[CLS]
+leaves the area.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)しにがみが[BR]
+($C1)The Grim Reaper[BR]
+
+やってきた。[CLS]
+is here.[CLS]
+
+まものは[BR]
+He harvests[BR]
+
+たましいを[BR]
+your opponent's[BR]
+
+ぬかれた。[CLS]
+soul.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)フガーーー！！[BR]
+($C1)NGAAAAH!![BR]
+
+フランケンが[BR]
+It's Frankenstein's[BR]
+
+あらわれた。[CLS]
+monster.[CLS]
+
+フランケンは[BR]
+He throws a[BR]
+
+まものを[BR]
+mean punch at[BR]
+
+ぶんなぐった。[CLS]
+your opponent.[CLS]
+
+[ED]
+[ED]
+
+
+($CD)($C0)やったあ。[BR]
+($CD)($C0)Yeah![BR]
+
+その　ちょうし[BR]
+Punch 'em good![BR]
+
+その・・・[CLS]
+Right in the--[CLS]
+
+($C1)フランケンは[BR]
+($C1)Frankenstein's[BR]
+
+いきおい[BR]
+monster miscalculates[BR]
+
+あまって[CLS]
+its strength,[CLS]
+
+アルルに[BR]
+and also hits Arle[BR]
+
+ぶつかった。[CLS]
+in the process.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)フランケンは[BR]
+($C1)Frankenstein's monster[BR]
+
+きえた。[CLS]
+vanishes.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)ハローハロー！[BR]
+($C1)Hoh-hoh-hoh![BR]
+
+サンタさんが[BR]
+Hey, it's[BR]
+
+あらわれた。[CLS]
+Santa![CLS]
+
+よいこに[BR]
+He's here to[BR]
+
+プレゼントを[BR]
+bring presents[BR]
+
+あげよう。[CLS]
+to the nice kids![CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+りゅうのツノを[BR]
+You receive a[BR]
+
+もらった。[CLS]
+Dragon Horn.[CLS]
+
+[ED]
+[ED]
+
+
+おうごんリンゴ[BR]
+You receive a[BR]
+
+もらった。[CLS]
+Golden Apple.[CLS]
+
+[ED]
+[ED]
+
+
+($C1)グッバイバイ。[BR]
+($C1)Hoh-hoh-hoh![BR]
+
+サンタさんは[BR]
+Santa[BR]
+
+さっていった。[CLS]
+leaves.[CLS]
+
+[ED]
+[ED]
+
+
+ふしぎな[BR]
+A mysterious[BR]
+
+あおじろい[BR]
+blue[BR]
+
+きりが[CLS]
+mist[CLS]
+
+アルルを[BR]
+engulfs[BR]
+
+つつむ。[CLS]
+Arle.[CLS]
+
+アルルの[BR]
+Arle's[BR]
+
+まどうりょくが[BR]
+magic[BR]
+
+よみがえった。[CLS]
+is restored.[CLS]
+
+[ED]
+[ED]
+
+
+ふしぎな[BR]
+A mysterious[BR]
+
+きいろい[BR]
+yellow[BR]
+
+ひかりが[CLS]
+light[CLS]
+
+アルルを[BR]
+engulfs[BR]
+
+つつむ。[CLS]
+Arle.[CLS]
+
+バリア[BR]
+It's some kind[BR]
+
+みたいだ。[CLS]
+of barrier.[CLS]
+
+[ED]
+[ED]
+
+
+($CD)($C0)うわぁ[BR]
+($CD)($C0)Awww,[BR]
+
+かわいぃー。[CLS]
+how cute![CLS]
+
+え？[CLS]
+Huh?[CLS]
+
+[ED]
+[ED]
+
+
+($C1)リュンクスは[BR]
+($C1)The Lynx[BR]
+
+さいふを[BR]
+steals your[BR]
+
+ぬすんだ。[CLS]
+wallet.[CLS]
+
+($CD)($C0)し、しまった！[CLS]
+($CD)($C0)Oh no![CLS]
+
+[ED]
+[ED]
+
+
+($C1)きんいろの[BR]
+($C1)You find a[BR]
+
+まどうしょを[BR]
+yellow magic[BR]
+
+てにいれた。[CLS]
+book.[CLS]
+
+まどうしょには[CLS]
+When you open it,[CLS]
+
+ひかりが[BR]
+light comes[BR]
+
+からだを[BR]
+out, and[BR]
+
+つつみこむ[CLS]
+covers you.[CLS]
+
+ふしぎな[BR]
+You have learned[BR]
+
+じゅもんが[BR]
+a mysterious[BR]
+
+かかれていた。[CLS]
+spell.[CLS]
+
+($CD)[ED]
+($CD)[ED]
+
+
+ばよひひひーの[BR]
+You can now[BR]
+
+まほうを[BR]
+use the spell[BR]
+
+おぼえた！
+Bayohihihi!

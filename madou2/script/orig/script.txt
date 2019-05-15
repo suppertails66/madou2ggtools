@@ -1,0 +1,17702 @@
+//===========================================================
+// Region 0
+//===========================================================
+
+#STARTREGION(0)
+
+#STARTMSG(0xC202, 14, 2)
+
+// もう、[br]
+// しんぢゃうー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC210, 20, 2)
+
+// だめー。[br]
+// いしきが[br]
+// たもてなぁい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC224, 12, 2)
+
+// もぅ[br]
+// だめあよん。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC230, 18, 2)
+
+// あああぁぁぁぁ[br]
+// だめだぁー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC242, 16, 2)
+
+// もぅだめ、[br]
+// ぐるひぃー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC252, 16, 2)
+
+// くるしぃの、[br]
+// へらららぁー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC262, 16, 2)
+
+// ぐひょい、[br]
+// くるぴぃー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC272, 13, 2)
+
+// ちょっと[br]
+// くるしいよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC27F, 14, 2)
+
+// ためいき、[br]
+// ふぅぅぅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC28D, 13, 2)
+
+// うん、[br]
+// がんばる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC29A, 12, 2)
+
+// がんばるぞぃ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC2A6, 11, 2)
+
+// まだまだぁっ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC2B1, 5, 2)
+
+// げんき。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC2B6, 14, 2)
+
+// ヨロレイヒー！[br]
+// げんきぃ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC2C4, 13, 2)
+
+// いやっほぅ！[br]
+// げんきっ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC2D1, 19, 2)
+
+// ゴォーゴォー！[br]
+// げんきだいっ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC2E4, 19, 2)
+
+// ほとんど[br]
+// かいふくなし。[br]
+// あよーん。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC2F7, 23, 2)
+
+// きぶんわるいの[br]
+// すこしだけ[br]
+// なおった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC30E, 16, 2)
+
+// さっきよりは[br]
+// ちょうし[br]
+// いいけどぉ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC31E, 16, 2)
+
+// ちょっとだけ[br]
+// たいりょく[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC32E, 16, 2)
+
+// たいりょく、[br]
+// まずまず[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC33E, 9, 2)
+
+// たいりょく、[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC347, 14, 2)
+
+// げんきが[br]
+// もどったよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC355, 19, 2)
+
+// たいりょく、[br]
+// さいだいまで[br]
+// かいふくっ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC368, 11, 2)
+
+// まどうりょく、[br]
+// なぁーい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC373, 14, 2)
+
+// ほとんど[br]
+// まどうりょく[br]
+// なぁい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC381, 19, 2)
+
+// まどうりょくが[br]
+// すくなぁい。[br]
+// ぐひゅん。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC394, 13, 2)
+
+// まどうりょく、[br]
+// へってきたよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC3A1, 18, 2)
+
+// まどうりょく、[br]
+// そろそろ[br]
+// せつやくしよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC3B3, 16, 2)
+
+// まだ[br]
+// まどうりょく、[br]
+// のこってる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC3C3, 14, 2)
+
+// まどうりょく、[br]
+// じゅうぶん。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC3D1, 23, 2)
+
+// まどうりょく、[br]
+// からだじゅうに[br]
+// みたされてる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC3E8, 19, 2)
+
+// まどうりょく、[br]
+// かのなみだほど[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC3FB, 16, 2)
+
+// まどうりょく、[br]
+// ちょっぴり[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC40B, 17, 2)
+
+// まどうりょく、[br]
+// ちょっとだけ[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC41C, 14, 2)
+
+// まどうりょく、[br]
+// すこーし[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC42A, 16, 2)
+
+// まどうりょく、[br]
+// まずまず[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC43A, 15, 2)
+
+// うんうん。[br]
+// まどうりょく、[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC449, 17, 2)
+
+// よぉし、[br]
+// まどうりょく[br]
+// もどったぁ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC45A, 18, 2)
+
+// まどうりょく、[br]
+// さいだいまで[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC46C, 15, 2)
+
+// あんまり[br]
+// ちょうし[br]
+// よくない。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC47B, 15, 2)
+
+// さっきより[br]
+// ちょうしいい、[br]
+// かなぁ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC48A, 11, 2)
+
+// さっきよりは[br]
+// ちょうしいい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC495, 14, 2)
+
+// ちょうしが[br]
+// でてきたよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC4A3, 19, 2)
+
+// よしよし、[br]
+// ちょうしが[br]
+// いいぞぉ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC4B6, 15, 2)
+
+// たいりょくと[br]
+// まどうりょく、[br]
+// かいふくだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC4C5, 20, 2)
+
+// ふふふん、[br]
+// とっても[br]
+// きぶんいい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC4D9, 22, 2)
+
+// さいこーに[br]
+// しあわせだなぁ[br]
+// ぼかぁ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC4EF, 16, 2)
+
+// ちっとも[br]
+// いたくないや。[c9]<$0C>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC4FF, 7, 2)
+
+// うっ！[c9]<$0C>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC506, 12, 2)
+
+// ちょっと[br]
+// いたい。[c9]<$0B>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC512, 8, 2)
+
+// ダメージっ！[c9]<$0C>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC51A, 9, 2)
+
+// いたいよぉ。[c9]<$0B>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC523, 13, 2)
+
+// いたいっ！[br]
+// あよん。[c9]<$0B>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC530, 15, 2)
+
+// いたいっ！！[br]
+// あよーん。[c9]<$0C>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC53F, 16, 2)
+
+// いたさの[br]
+// ホームランっ！[c9]<$0B>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC54F, 10, 2)
+
+// だいダメージ！[c9]<$0D>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC559, 13, 2)
+
+// おおきな[br]
+// ダメージっ！[c9]<$0D>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC566, 24, 2)
+
+// きょだいな[br]
+// しょうげきを[br]
+// くらった。[c9]<$0D>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC57E, 16, 2)
+
+// ばくれつ[br]
+// だいダメージ！[c9]<$0D>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC58E, 22, 2)
+
+// げ！[br]
+// ないぞうを[br]
+// はいちゃうよ。[c9]<$0E>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC5A4, 25, 2)
+
+// げげ！[br]
+// げきつう[br]
+// じごくだっ！[c9]<$0E>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC5BD, 20, 2)
+
+// もうれつ[br]
+// きょだい[br]
+// ダメージっ！！[c9]<$0E>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC5D1, 22, 2)
+
+// ばくれつ[br]
+// スペシャル[br]
+// ダメージっ！！[c9]<$0E>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC5E7, 20, 2)
+
+// イタッ！[br]
+// しかいが[br]
+// あかくそまる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC5FB, 50, 2)
+
+// めから[br]
+// ながれる[br]
+// ちが、[wait]
+
+[wait]
+
+// くちのなかに[br]
+// はいってくる。[wait]
+
+[wait]
+
+// げきつうで[br]
+// きが[br]
+// くるいそう。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC62D, 22, 2)
+
+// みぎうでに[br]
+// げきつうが[br]
+// はしる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC643, 24, 2)
+
+// うでから[br]
+// ちと　きりょくが[br]
+// ぬけていく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC65B, 28, 2)
+
+// うでが[br]
+// うごかない。[wait]
+
+[wait]
+
+// いしきが[br]
+// うすれてる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC677, 12, 2)
+
+// ヒョイっと[br]
+// よけた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC683, 16, 2)
+
+// ずべッ！[br]
+// ずっこけた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC693, 10, 2)
+
+// れんぞく[br]
+// こうげき！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC69D, 16, 2)
+
+[rightbox]
+// [c8][br]
+// だいだげきッ！[c9]<$0A>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC6AD, 17, 2)
+
+[rightbox]
+// [c8][br]
+// [br]
+// だいだげきッ！[c9]<$0A>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC6BE, 21, 2)
+
+// だ、だめだぁ。[br]
+// ぼく、[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC6D3, 23, 2)
+
+// ダッシュで[br]
+// にげるっ！[wait]
+
+[wait]
+
+// せいこうだ。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC6EA, 32, 2)
+
+// ダッシュで[br]
+// にげるっ！[wait]
+
+[wait]
+
+// [cc]<$43>
+
+[rightbox]
+// どべしっ！[br]
+// こけた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC70A, 10, 2)
+
+[rightbox]
+// [c8][br]
+// みつけた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC714, 8, 2)
+
+[rightbox]
+// [c8][br]
+// てにいれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC71C, 28, 2)
+
+// でも、もう[br]
+// もちきれない。[wait]
+
+[wait]
+
+// ほかの　ものを[br]
+// すてる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC738, 16, 2)
+
+[rightbox]
+// [c8]いーらない。[br]
+// [br]
+// すてた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC748, 12, 2)
+
+// これは[br]
+// すてれない。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC754, 11, 2)
+
+[rightbox]
+// [c8][br]
+// あきらめた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC75F, 19, 2)
+
+// みつけた[br]
+// アイテムは[br]
+// すてれない。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC772, 13, 2)
+
+// にっきを[br]
+// つけるよ。[c9]<$15>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC77F, 18, 2)
+
+// にっき　に[br]
+// かきこんで[br]
+// いいの？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC791, 15, 2)
+
+// にっき　に[br]
+// かきこんだよ。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC7A0, 15, 2)
+
+// ガツンッ！！[br]
+// いたいよぉ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC7AF, 18, 2)
+
+// うひょーい、[br]
+// レベルアップ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC7C1, 14, 2)
+
+// ちかろう[br]
+// 　　かいだよ。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC7CF, 12, 2)
+
+// ちか[br]
+// 　　かいだよ。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC7DB, 6, 2)
+
+// ファイヤー[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC7E1, 8, 2)
+
+// アイスストーム[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC7E9, 9, 2)
+
+// ダイアキュート[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC7F2, 7, 2)
+
+// ばよえーん[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC7F9, 7, 2)
+
+// ばよばよ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC800, 7, 2)
+
+// ヒーリング[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC807, 4, 2)
+
+// ライト[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC80B, 5, 2)
+
+// ワープ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC810, 8, 2)
+
+// ばよひひひー[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC818, 15, 2)
+
+// あつくなって[br]
+// きちゃった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC827, 13, 2)
+
+// さむくなって[br]
+// きたよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC834, 55, 2)
+
+[leftbox]
+// おぉ、[br]
+// その　ことばの[br]
+// ひびき。[wait]
+
+[wait]
+
+// こころが[br]
+// あらわれる、[br]
+// おお！[wait]
+
+[wait]
+
+// まものは[br]
+// かんどう[br]
+// している。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC86B, 23, 2)
+
+[leftbox]
+// まものは[br]
+// まだ　かんどう[br]
+// している。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC882, 65, 2)
+
+[leftbox]
+// まものは[br]
+// ものすごく[br]
+// としをとった。[wait]
+
+[wait]
+
+// こし[br]
+// まげまげの、[wait]
+
+[wait]
+
+// はが[br]
+// ぬけぬけの、[wait]
+
+[wait]
+
+// からだ[br]
+// よぼよぼに[br]
+// なっている。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC8C3, 37, 2)
+
+// てのひらから[br]
+// うまれた[br]
+// まばゆい[wait]
+
+[wait]
+
+// ひかりが、[br]
+// あたりを[br]
+// てらした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC8E8, 32, 2)
+
+// てのひらから[br]
+// ひかりが[br]
+// うまれたが、[wait]
+
+[wait]
+
+// すぐに[br]
+// きえた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC908, 12, 2)
+
+// ワープ[br]
+// せいこう！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC914, 8, 2)
+
+// ガンッッッ！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC91C, 22, 2)
+
+// いったーい！[br]
+// ワープ[br]
+// できないよぉ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC932, 31, 2)
+
+// アルルの[br]
+// からだを[wait]
+
+[wait]
+
+// ふしぎな[br]
+// ちからが[br]
+// つつんだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC951, 21, 2)
+
+// ばよひひひーの[br]
+// こうかが[br]
+// きれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC966, 7, 2)
+
+// やったぁー！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC96D, 14, 2)
+
+[rightbox]
+// だいだげきッ！[c9]<$0A>[end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xC97B, 12, 2)
+
+[leftbox]
+// ばたんきゅー[br]
+// すんぜん。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC987, 12, 2)
+
+[leftbox]
+// そろそろ、[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC993, 13, 2)
+
+[leftbox]
+// もうじき、[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC9A0, 12, 2)
+
+[leftbox]
+// ぼろぼろだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC9AC, 10, 2)
+
+[leftbox]
+// へろへろだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC9B6, 10, 2)
+
+[leftbox]
+// ふらふらだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC9C0, 14, 2)
+
+[leftbox]
+// すこし[br]
+// よろけている。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC9CE, 13, 2)
+
+[leftbox]
+// くそぉ、って[br]
+// ひょうじょう。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC9DB, 16, 2)
+
+[leftbox]
+// まだまだ、って[br]
+// ひょうじょう。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC9EB, 14, 2)
+
+[leftbox]
+// やるなぁ、って[br]
+// ひょうじょう。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC9F9, 6, 2)
+
+[leftbox]
+// げんき！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xC9FF, 10, 2)
+
+[leftbox]
+// げんき、[br]
+// げんき！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCA09, 14, 2)
+
+[leftbox]
+// げんき、[br]
+// げんき、[br]
+// げんき！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCA17, 12, 2)
+
+[leftbox]
+// はないき[br]
+// あらい！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCA23, 15, 2)
+
+[leftbox]
+// きはく[br]
+// じゅうぶん！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCA32, 18, 2)
+
+[leftbox]
+// とうしまんまん[br]
+// げんきすぎる！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xCA44, 11, 2)
+
+[leftbox]
+// ほんのり[br]
+// いたい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCA4F, 11, 2)
+
+[leftbox]
+// ちょっと[br]
+// いたい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCA5A, 6, 2)
+
+[leftbox]
+// いたい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCA60, 7, 2)
+
+[leftbox]
+// いたいっ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCA67, 12, 2)
+
+[leftbox]
+// とっても[br]
+// いたいっ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCA73, 15, 2)
+
+[leftbox]
+// すっごく[br]
+// だいダメージ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCA82, 20, 2)
+
+[leftbox]
+// めちゃくちゃ[br]
+// きょだい[br]
+// ダメージ！！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCA96, 23, 2)
+
+[leftbox]
+// ちょうウルトラ[br]
+// スペシャル[br]
+// ダメージ！！！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCAAD, 16, 2)
+
+// [cd]
+
+[rightbox]
+// すばやさそうな[br]
+// やつ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCABD, 22, 2)
+
+// [cd]
+
+[rightbox]
+// ひぇぇぇ、[br]
+// パワーが[br]
+// ありそう。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCAD3, 16, 2)
+
+// [cd]
+
+[rightbox]
+// とっても[br]
+// タフそーだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCAE3, 11, 2)
+
+// [cd]
+
+[rightbox]
+// つよそうだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCAEE, 14, 2)
+
+[leftbox]
+// かるがると[br]
+// よけた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCAFC, 16, 2)
+
+[leftbox]
+// ズコッ。[br]
+// ずっこけた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCB0C, 11, 2)
+
+[leftbox]
+// れんぞく[br]
+// こうげき！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCB17, 14, 2)
+
+[leftbox]
+// [c8][br]
+// だいだげき！！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCB25, 15, 2)
+
+[leftbox]
+// [c8][br]
+// [br]
+// だいだげき！！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCB34, 26, 2)
+
+// るいぱんこ！と[br]
+// こころのなかで[br]
+// さけんだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCB4E, 17, 2)
+
+// でも、[br]
+// なにも[br]
+// おこらない。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xCB5F, 16, 2)
+
+// とびらに[br]
+// 　　　　もじ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCB6F, 36, 2)
+
+// カギが[br]
+// かかってる。[wait]
+
+[wait]
+
+// いま　もってる[br]
+// カギじゃ[br]
+// あかないや。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xCB93, 26, 2)
+
+// うえに　いく[br]
+// かいだんが[br]
+// あるよ。[wait]
+
+[wait]
+
+// のぼる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCBAD, 25, 2)
+
+// したに　いく[br]
+// かいだんが[br]
+// あるよ。[wait]
+
+[wait]
+
+// おりる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCBC6, 21, 2)
+
+[leftbox]
+// はこが[br]
+// おいてある。[wait]
+
+[wait]
+
+[rightbox]
+// あけてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCBDB, 19, 2)
+
+// ワナかも[br]
+// しれないから[br]
+// やーめた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCBEE, 4, 2)
+
+// とる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCBF2, 9, 2)
+
+// かべに　もじ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCBFB, 30, 2)
+
+[leftbox]
+// ぼろぼろ・・・[wait]
+
+[wait]
+
+// かべが[br]
+// くずれて[br]
+// 金がでてきた。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCC19, 34, 2)
+
+[leftbox]
+// ぼろぼろ・・・[wait]
+
+[wait]
+
+// かべが[br]
+// くずれて[wait]
+
+[wait]
+
+// アイテムが[br]
+// でてきた。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCC3B, 26, 2)
+
+[leftbox]
+// ぼろぼろ・・・[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// なにも[br]
+// でてこないや。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCC55, 16, 2)
+
+// ごつんっっっ！[br]
+// いったーい。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCC65, 19, 2)
+
+// おもいっきし[br]
+// あたま[br]
+// うったよぉ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCC78, 24, 2)
+
+[leftbox]
+// かべに[br]
+// スイッチ。[wait]
+
+[wait]
+
+[rightbox]
+// スイッチを[br]
+// いれてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCC90, 25, 2)
+
+[leftbox]
+// かべに[br]
+// スイッチ。[wait]
+
+[wait]
+
+[rightbox]
+// スイッチは[br]
+// いれてるよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCCA9, 24, 2)
+
+// なにがおこるか[br]
+// わかんないから[br]
+// やーめた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCCC1, 19, 2)
+
+// わわわ。[br]
+// ぐるぐる[br]
+// まわるぅー。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCCD4, 5, 2)
+
+// わぁ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCCD9, 11, 2)
+
+// いったーーい！[c9]<$0B>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCCE4, 29, 2)
+
+// ゆかに[br]
+// あなが[br]
+// あいていて、[wait]
+
+[wait]
+
+// おっこちて[br]
+// しまった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCD01, 14, 2)
+
+// マップが[br]
+// みれるよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCD0F, 12, 2)
+
+// まほうを[br]
+// つかうよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCD1B, 13, 2)
+
+// アイテムを[br]
+// つかうよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCD28, 22, 2)
+
+// いまの[br]
+// じょうたいを[br]
+// セーブするよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCD3E, 12, 2)
+
+// まほうを[br]
+// つかうよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCD4A, 13, 2)
+
+// アイテムを[br]
+// つかうよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCD57, 22, 2)
+
+// ぜんりょく[br]
+// しっそうで[br]
+// にげるよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCD6D, 33, 2)
+
+// 『るいぱんこ』[br]
+// なにが[br]
+// おこるか[wait]
+
+[wait]
+
+// ぼくにも[br]
+// わかんない。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCD8E, 25, 2)
+
+// 『ワープ』[br]
+// ひとつ　うえに[br]
+// ワープするよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCDA7, 19, 2)
+
+// 『ライト』[br]
+// くらやみを[br]
+// てらすよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCDBA, 21, 2)
+
+// 『ヒーリング』[br]
+// たいりょくが[br]
+// かいふくするよ[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCDCF, 32, 2)
+
+// 『ばよ[br]
+// 　　ひひひー』[wait]
+
+[wait]
+
+// ひかりが[br]
+// からだを[br]
+// つつむよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCDEF, 22, 2)
+
+// 『ファイヤー』[br]
+// ほのおの[br]
+// まほうだよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCE05, 27, 2)
+
+// 『アイス[br]
+// 　　ストーム』[wait]
+
+[wait]
+
+// こおりの[br]
+// まほうだよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCE20, 22, 2)
+
+// 『ファイヤー』[br]
+// ほのおの[br]
+// まほうだよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCE36, 27, 2)
+
+// 『アイス[br]
+// 　　ストーム』[wait]
+
+[wait]
+
+// こおりの[br]
+// まほうだよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCE51, 43, 2)
+
+// 『ダイア[br]
+// 　　キュート』[br]
+// つぎにとなえる[wait]
+
+[wait]
+
+// まりょくを[br]
+// ばいぞう[br]
+// させるよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCE7C, 26, 2)
+
+// 『ばよえーん』[wait]
+
+[wait]
+
+// てきを[br]
+// かんどう[br]
+// させるよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCE96, 21, 2)
+
+// 『ヒーリング』[br]
+// たいりょくが[br]
+// かいふくするよ[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCEAB, 41, 2)
+
+// 『ばよばよ』[br]
+// てきの[br]
+// まわりだけ[wait]
+
+[wait]
+
+// じかんを[br]
+// こうそくに[br]
+// すすませるよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCED4, 24, 2)
+
+// 『らっきょ』[wait]
+
+[wait]
+
+// たいりょくが[br]
+// ちょっぴり[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCEEC, 26, 2)
+
+// 『ふくじん[br]
+// 　　　　づけ』[wait]
+
+[wait]
+
+// たいりょくが[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCF06, 28, 2)
+
+// 『カレー[br]
+// 　　　ライス』[wait]
+
+[wait]
+
+// たいりょくが[br]
+// すべて[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCF22, 32, 2)
+
+// 『せんにん[br]
+// 　　　　ザケ』[wait]
+
+[wait]
+
+// まどうりょくが[br]
+// ちょっぴり[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCF42, 20, 2)
+
+// 『まどうザケ』[br]
+// まどうりょくが[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCF56, 24, 2)
+
+// 『もももザケ』[wait]
+
+[wait]
+
+// まどうりょくが[br]
+// すべて[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCF6E, 33, 2)
+
+// 『りゅうの[br]
+// 　　　　ツメ』[br]
+// たいりょくと[wait]
+
+[wait]
+
+// まどうりょくが[br]
+// ちょっぴり[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCF8F, 27, 2)
+
+// 『りゅうの[br]
+// 　　　しっぽ』[wait]
+
+[wait]
+
+// たいりょくと[br]
+// まどうりょくが[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCFAA, 31, 2)
+
+// 『りゅうの[br]
+// 　　　　ツノ』[br]
+// たいりょくと[wait]
+
+[wait]
+
+// まどうりょくが[br]
+// すべて[br]
+// かいふく。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCFC9, 39, 2)
+
+// 『のうてん[br]
+// 　　　　ぐさ』[wait]
+
+[wait]
+
+// だいだげきが[br]
+// でるように[br]
+// なるよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xCFF0, 31, 2)
+
+// 『いだてん[br]
+// 　　　　ぐさ』[wait]
+
+[wait]
+
+// すばやさが[br]
+// ふえるよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD00F, 33, 2)
+
+// 『めんたま[br]
+// 　　　　ぐさ』[wait]
+
+[wait]
+
+// こうげきの[br]
+// しっぱいが[br]
+// へるよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD030, 32, 2)
+
+// 『どくけし[br]
+// 　　　　そう』[wait]
+
+[wait]
+
+// からだの[br]
+// どくを[br]
+// けすよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD050, 36, 2)
+
+// 『どんぱ[br]
+// 　　　うんぱ』[wait]
+
+[wait]
+
+// どんぱが[br]
+// ゆかに[br]
+// くっつくよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD074, 22, 2)
+
+// 『うんぱ』[br]
+// どんぱと[br]
+// くっつくよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD08A, 35, 2)
+
+// 『マンド[br]
+// 　　　レイク』[wait]
+
+[wait]
+
+// にんぎょう[br]
+// みたいな[br]
+// しょくぶつ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD0AD, 23, 2)
+
+// 『はい』[br]
+// バンパイアの[br]
+// ざんがい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD0C4, 38, 2)
+
+// 『しろ[br]
+// 　　てぶくろ』[wait]
+
+[wait]
+
+// すこしだけ[br]
+// つよくなれる[br]
+// てぶくろだよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD0EA, 32, 2)
+
+// 『セイレーンの[br]
+// 　　　　　や』[wait]
+
+[wait]
+
+// あたまが[br]
+// ぷーになるよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD10A, 42, 2)
+
+// 『おうごん[br]
+// 　　　リンゴ』[wait]
+
+[wait]
+
+// ひかりかがやく[br]
+// めずらしい[br]
+// リンゴだよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD134, 25, 2)
+
+// 『ミホのつえ』[wait]
+
+[wait]
+
+// まどうりょくの[br]
+// しょうひが[br]
+// へるよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD14D, 30, 2)
+
+// 『ピチのつえ』[wait]
+
+[wait]
+
+// たまに[br]
+// だいだげきを[br]
+// だすよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD16B, 30, 2)
+
+// 『ロフのつえ』[br]
+// たまに[wait]
+
+[wait]
+
+// れんぞく[br]
+// こうげきが[br]
+// でるよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD189, 26, 2)
+
+// 『パポのつえ』[wait]
+
+[wait]
+
+// たまに[br]
+// こうげきを[br]
+// ふせぐよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD1A3, 24, 2)
+
+// 『あかのいし』[wait]
+
+[wait]
+
+// あかく[br]
+// ひかる[br]
+// いしだよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD1BB, 24, 2)
+
+// 『あおのいし』[wait]
+
+[wait]
+
+// あおく[br]
+// ひかる[br]
+// いしだよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD1D3, 31, 2)
+
+// 『きいろの[br]
+// 　　　　いし』[wait]
+
+[wait]
+
+// きいろく[br]
+// ひかる[br]
+// いしだよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD1F2, 20, 2)
+
+// 『イヤリング』[br]
+// とっても[br]
+// きれい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD206, 31, 2)
+
+// 『アイテム[br]
+// 　　　ぶくろ』[wait]
+
+[wait]
+
+// アイテムを[br]
+// いれる[br]
+// ふくろ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD225, 34, 2)
+
+// 『ふくぶくろ』[br]
+// なかみが[br]
+// わからない[wait]
+
+[wait]
+
+// おたのしみ[br]
+// ぶくろ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xD247, 94, 2)
+
+// ・・・・・・・[br]
+// ・・・・・・・[br]
+// ・・・・・・・[wait]
+
+[wait]
+
+// あたまのなかで[br]
+// じゅもんが[br]
+// ひびいてる。[wait]
+
+[wait]
+
+// ・・・ヒー・・[br]
+// ・・・・・リ・[br]
+// ・・・ング・・[wait]
+
+[wait]
+
+// ヒーリ・・・・[br]
+// ・・・ング・・[br]
+// ・・・・・・・[wait]
+
+[wait]
+
+// わかった！[br]
+// ヒーリングだ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD2A5, 23, 2)
+
+// ヒーリングの[br]
+// まほうを[br]
+// おもいだした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD2BC, 97, 2)
+
+// ・・・・・・・[br]
+// ・・・・・・・[br]
+// ・・・・・・・[wait]
+
+[wait]
+
+// あたまが[br]
+// ガンガンする・[br]
+// ・・・・・・・[wait]
+
+[wait]
+
+// ダ・・・・ダイ[br]
+// ・・・ア・・・[br]
+// キ・・・ュ・・[wait]
+
+[wait]
+
+// ダイアキ・・・[br]
+// ・・・ュ・・・[br]
+// ー・・・・・ト[wait]
+
+[wait]
+
+// わかった！[br]
+// ダイア[br]
+// キュートだ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD31D, 26, 2)
+
+// ダイア[br]
+// キュートの[br]
+// まほうを[wait]
+
+[wait]
+
+// おもいだした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD337, 91, 2)
+
+// ・・・・・・・[br]
+// ・・・・・・・[br]
+// ・・・・・・・[wait]
+
+[wait]
+
+// あ、あたまが[br]
+// いたいよぉ・・[br]
+// ・・・・・・・[wait]
+
+[wait]
+
+// ん・・・・・ー[br]
+// ・・・え・・・[br]
+// よ・・・・・ば[wait]
+
+[wait]
+
+// ちがう・・・・[br]
+// ・・・ば・・・[br]
+// よえーん・・・[wait]
+
+[wait]
+
+// わかった！[br]
+// ばよえーんだ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD392, 23, 2)
+
+// ばよえーんの[br]
+// まほうを[br]
+// おもいだした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD3A9, 86, 2)
+
+// ・・・・・・・[br]
+// ・・・・・・・[br]
+// ・・・・・・・[wait]
+
+[wait]
+
+// あ、あたまが[br]
+// ふにゃふにゃ[br]
+// するぅ・・・・[wait]
+
+[wait]
+
+// ・・・プ・・・[br]
+// ワ・・・・・・[br]
+// ・・・・・・ー[wait]
+
+[wait]
+
+// ワ・・・・・・[br]
+// ・・・・・・プ[br]
+// ・・・ー・・・[wait]
+
+[wait]
+
+// わかった！[br]
+// ワープだ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD3FF, 21, 2)
+
+// ワープの[br]
+// まほうを[br]
+// おもいだした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xD414, 14, 2)
+
+// ちか[br]
+// １００かい[br]
+// だよ。[end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#ENDREGION(0)
+
+//===========================================================
+// Region 1
+//===========================================================
+
+#STARTREGION(1)
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xD682, 22, 2)
+
+[leftbox]
+// やみから[br]
+// ウィルウィスプ[br]
+// あらわる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD698, 15, 2)
+
+[leftbox]
+// ほのおの[br]
+// たいあたり！[c9]<$2B>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD6A7, 11, 2)
+
+[leftbox]
+// ぼぼぉぅ！[c9]<$2B>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD6B2, 22, 2)
+
+// 『まぶしい！[br]
+// 　めが[br]
+// 　くらむよぉ』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD6C8, 25, 2)
+
+// めが　くらんで[br]
+// まほうが[br]
+// あたらないぃ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD6E1, 16, 2)
+
+// まぶしいのが[br]
+// なおった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD6F1, 36, 2)
+
+[leftbox]
+// ぼぼぼぼぼ[br]
+// ぼぼぼぼぼ[br]
+// ぼぼぼぼぼ[c9]<$2C>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD715, 20, 2)
+
+[leftbox]
+// いのちの[br]
+// ほのおが[br]
+// もえつきた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD729, 11, 2)
+
+[leftbox]
+// ぷしゅー。[c9]<$2D>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD734, 85, 2)
+
+[leftbox]
+// ほのおのたまが[br]
+// ちょくげき。[wait]
+
+[wait]
+
+[rightbox]
+// 『ありゃぁ？』[c9]<$16>[wait]
+
+[wait]
+
+[leftbox]
+// ほのおのたまを[br]
+// きれいに[br]
+// たべる。[wait]
+
+[wait]
+
+// 『むしゃむしゃ[br]
+// むしゃむしゃ』[wait]
+
+[wait]
+
+// 『げぷっ』[wait]
+
+[wait]
+
+// まんぞくな[br]
+// ひょうじょう。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD789, 18, 2)
+
+[leftbox]
+// ウィルウィスプ[br]
+// きえさった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD79B, 17, 2)
+
+[leftbox]
+// リュンクスが[br]
+// はねてきた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD7AC, 12, 2)
+
+[leftbox]
+// ねこパーンチ！[c9]<$2F>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD7B8, 11, 2)
+
+[leftbox]
+// ねこキーック！[c9]<$2F>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD7C3, 33, 2)
+
+[leftbox]
+// しっぽを[br]
+// ぐるぐるまいて[br]
+// まるくなった。[wait]
+
+[wait]
+
+[rightbox]
+// ？？？？？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD7E4, 28, 2)
+
+[leftbox]
+// ボヨヨーン。[cc]<$4C>[wait]
+
+[wait]
+
+// アルルの[br]
+// こうげきを[br]
+// はねのける。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD800, 20, 2)
+
+[leftbox]
+// リュンクスは[br]
+// しっぽを[br]
+// といた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD814, 25, 2)
+
+[leftbox]
+// らっきょを[br]
+// とりだして[br]
+// たべはじめた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD82D, 10, 2)
+
+[leftbox]
+// 『ふにぃ』[c9]<$30>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD837, 35, 2)
+
+[leftbox]
+// ブルブル・・・[br]
+// さむいニャー。[wait]
+
+[wait]
+
+// うごきが[br]
+// にぶくなった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD85A, 13, 2)
+
+[leftbox]
+// リュンクスは[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD867, 27, 2)
+
+[leftbox]
+// いきおいよく[br]
+// ダークドラゴン[br]
+// おちてきた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD882, 23, 2)
+
+[leftbox]
+// ゴォオオオ！[br]
+// ほのおを[br]
+// はきだす。[c9]<$33>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD899, 44, 2)
+
+// [c9]<$34>
+
+[leftbox]
+// ほのおの[br]
+// いきおいが[br]
+// つよすぎて、[wait]
+
+[wait]
+
+// じぶんの[br]
+// からだが[br]
+// こげた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD8C5, 21, 2)
+
+[leftbox]
+// じぶんの[br]
+// ツノを[br]
+// のみこんだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD8DA, 75, 2)
+
+[leftbox]
+// きょだいな[br]
+// しっぽを[br]
+// ふりまわす。[wait]
+
+[wait]
+
+[leftbox]
+// ゴキュッ！！[c9]<$34>[wait]
+
+[wait]
+
+[leftbox]
+// つうろが[br]
+// せますぎて[wait]
+
+[wait]
+
+// せぼねを[br]
+// ねじって[br]
+// しまった。[wait]
+
+[wait]
+
+// 『い、[br]
+// いたい・・・』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD925, 17, 2)
+
+[leftbox]
+// くろいガスを[br]
+// はきだす。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD936, 36, 2)
+
+[leftbox]
+// つうろが[br]
+// やみに[br]
+// とざされた。[wait]
+
+[wait]
+
+[rightbox]
+// 『な、[br]
+// 　なによ[br]
+// 　これ！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD95A, 18, 2)
+
+[leftbox]
+// くろいガスが[br]
+// きえうせた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD96C, 9, 2)
+
+[leftbox]
+// あつい。[c9]<$35>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD975, 15, 2)
+
+[leftbox]
+// 『んー、[br]
+// きもちよかー』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD984, 22, 2)
+
+[leftbox]
+// ダークドラゴン[br]
+// まっくろこげ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD99A, 33, 2)
+
+// 『やだよっ！』[c9]<$17>[wait]
+
+[wait]
+
+[leftbox]
+// 『ききわけの[br]
+// 　ない[br]
+// 　むすめだな』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD9BB, 40, 2)
+
+[leftbox]
+// 『アレイ[br]
+// 　　アード！』[c9]<$37>
+
+[rightbox]
+// げっ、[br]
+// こだいまほう？[wait]
+
+[wait]
+
+// どぉぉぉん！！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xD9E3, 62, 2)
+
+// わぁぁぁ！！[br]
+// なんちゅー[br]
+// はかいりょく！[wait]
+
+[wait]
+
+// 『さっきは[br]
+// ゆだんしたけど[wait]
+
+[wait]
+
+// こんどは[br]
+// そうは[br]
+// いかないわ！』[wait]
+
+[wait]
+
+[leftbox]
+// 『ふっ』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDA21, 44, 2)
+
+[leftbox]
+// 『アレイアード[br]
+// スペシャル！』[c9]<$37>[c9]<$38>
+
+[rightbox]
+// げげげっ！[c9]<$18>
+
+[rightbox]
+// どどぉーん！！[end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xDA4D, 9, 2)
+
+// どぉーん！！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDA56, 47, 2)
+
+[leftbox]
+// 『やみの[br]
+// 　　　けんよ！[c9]<$39>
+
+[rightbox]
+// 『わぁ、[br]
+// ちょっと[br]
+// それなしっ！』[wait]
+
+[wait]
+
+[leftbox]
+// きりさけっ！』[c9]<$3A>[cc]<$50>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDA85, 12, 2)
+
+[leftbox]
+// 『うぅぅぅッ』[c9]<$3B>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDA91, 11, 2)
+
+[leftbox]
+// 『むねんっ！』[c9]<$3C>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDA9C, 12, 2)
+
+[leftbox]
+// シェゾは[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xDAA8, 19, 2)
+
+[leftbox]
+// みぎてが[br]
+// もとに[br]
+// もどる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDABB, 23, 2)
+
+[leftbox]
+// けむりから[br]
+// ジャァーン[br]
+// しゅつげん。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDAD2, 19, 2)
+
+[leftbox]
+// うでを[br]
+// まわして[br]
+// パンチ。[c9]<$3E>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDAE5, 17, 2)
+
+[leftbox]
+// みぎてが[br]
+// きょだいか。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDAF6, 22, 2)
+
+[leftbox]
+// きょだいな[br]
+// みぎてで[br]
+// パンチッ！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDB0C, 36, 2)
+
+[leftbox]
+// りょうてから[br]
+// けむりが[br]
+// でてきた。[wait]
+
+[wait]
+
+[rightbox]
+// 『へんなもの[br]
+// ださないでよ』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDB30, 13, 2)
+
+[leftbox]
+// けむりが[br]
+// きえた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDB3D, 40, 2)
+
+[leftbox]
+// ジャァーンの[br]
+// ふところから[wait]
+
+[wait]
+
+// りゅうのツメが[br]
+// ころがり[br]
+// おちた。[wait]
+
+[wait]
+
+[rightbox]
+// ひろう？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDB65, 11, 2)
+
+// りゅうのツメを[br]
+// てにいれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDB70, 25, 2)
+
+// いま[br]
+// そんなことを[br]
+// している[wait]
+
+[wait]
+
+// ひまは[br]
+// ないよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDB89, 80, 2)
+
+[leftbox]
+// 『では、しんで[br]
+// もらいましょう[br]
+// ！！！！！[wait]
+
+[wait]
+
+// メガ・バクレツ[br]
+// ジュゲェエエぇ[wait]
+
+[wait]
+
+// がっあがあが』[br]
+// アゴが[br]
+// はずれた。[wait]
+
+[wait]
+
+[rightbox]
+// まぬけだなぁ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDBD9, 10, 2)
+
+[leftbox]
+// 『じゅ』[c9]<$3F>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDBE3, 10, 2)
+
+[leftbox]
+// 『じょ』[c9]<$40>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDBED, 14, 2)
+
+[leftbox]
+// ジャァーンは[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDBFB, 17, 2)
+
+[leftbox]
+// セイレーンが[br]
+// やってきた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDC0C, 35, 2)
+
+[leftbox]
+// セイレーンは[br]
+// うたった。[c9]<$43>[cd]
+
+[rightbox]
+// のうてんに[br]
+// こえが[br]
+// つきささる。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDC2F, 21, 2)
+
+[leftbox]
+// おどる[br]
+// じゅんびを[br]
+// している。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDC44, 56, 2)
+
+[leftbox]
+// セイレーンは[br]
+// ゆうがに[br]
+// おどりだした。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// あぁ、なんて[br]
+// すばらしい[br]
+// おどりなの。[wait]
+
+[wait]
+
+// ぼーーー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xDC7C, 30, 2)
+
+// ぼーーー。[wait]
+
+[wait]
+
+// はっ！[wait]
+
+[wait]
+
+// セイレーンに[br]
+// みとれて[br]
+// しまった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDC9A, 22, 2)
+
+[leftbox]
+// マイクで[br]
+// おもいっきり[br]
+// なぐる。[c9]<$44>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDCB0, 14, 2)
+
+[leftbox]
+// マイクが[br]
+// こわれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDCBE, 54, 2)
+
+[leftbox]
+// セイレーンは[br]
+// うたった。[wait]
+
+[wait]
+
+// 『・・・・・』[wait]
+
+[wait]
+
+// しかし[br]
+// マイクは[br]
+// こわれてる。[wait]
+
+[wait]
+
+// マイクの[br]
+// しゅうりを[br]
+// はじめた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDCF4, 60, 2)
+
+[leftbox]
+// 『あ、あ、[br]
+// ほんじつは[br]
+// せいてんなり。[wait]
+
+[wait]
+
+// ふぅ、[br]
+// なおった[br]
+// みたいですわ。[wait]
+
+[wait]
+
+// ぢゃぁ、[br]
+// いきますわよっ[br]
+// ！！！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDD30, 10, 2)
+
+[leftbox]
+// 『イヤイヤ』[c9]<$45>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDD3A, 13, 2)
+
+[leftbox]
+// セイレーンは[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xDD47, 6, 2)
+
+[leftbox]
+// 『・・・・・』[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDD4D, 21, 2)
+
+[leftbox]
+// レイスが[br]
+// しずかに[br]
+// あらわれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDD62, 29, 2)
+
+[leftbox]
+// 『・・・・・』[br]
+// ぼーっと[br]
+// してる。[wait]
+
+[wait]
+
+[rightbox]
+// ？？？[br]
+// なんなの？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDD7F, 31, 2)
+
+[leftbox]
+// 『いかないで[br]
+// 　・・・・・』[wait]
+
+[wait]
+
+[rightbox]
+// ひぃーん、[br]
+// にげれないぃ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDD9E, 16, 2)
+
+[leftbox]
+// レイスは[br]
+// にげていった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDDAE, 23, 2)
+
+[leftbox]
+// 『いっしょに[br]
+// しにましょぉ[br]
+// ぉぉぉぉぉ！』[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDDC5, 15, 2)
+
+[leftbox]
+// レイスは[br]
+// じめつした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDDD4, 42, 2)
+
+[leftbox]
+// 『どうして？』[c9]<$48>[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// 『いや、[br]
+// 　その・・・』[wait]
+
+[wait]
+
+[leftbox]
+// レイスは[br]
+// かなしそうだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xDDFE, 75, 2)
+
+[leftbox]
+// 『あ、いいもの[br]
+// もってるんだ。[br]
+// 　　いいなぁ』[wait]
+
+[wait]
+
+// もももザケを[br]
+// ジーッと[br]
+// みつめている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// もももザケが[br]
+// ほしいのかな。[br]
+// あげてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDE49, 35, 2)
+
+[leftbox]
+// 『くれるの？[br]
+// ほんとうに[br]
+// くれるの？』[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ほんとうに[br]
+// あげる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDE6C, 18, 2)
+
+[leftbox]
+// 『わぁーい。[br]
+// 　ありがとぅ』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDE7E, 24, 2)
+
+[leftbox]
+// 『やっぱり、[br]
+// 　そうだよね[br]
+// 　・・・・・』[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDE96, 11, 2)
+
+[leftbox]
+// レイスは[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDEA1, 17, 2)
+
+[leftbox]
+// ドラコが[br]
+// とんできた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDEB2, 23, 2)
+
+[leftbox]
+// ちからいっぱい[br]
+// アルルを[br]
+// ひっかく。[c9]<$4A>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDEC9, 26, 2)
+
+[leftbox]
+// 『すぅー』[br]
+// いきを[br]
+// すっている。[c9]<$4B>
+
+[rightbox]
+// くる！？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDEE3, 35, 2)
+
+[leftbox]
+// 『もう[br]
+// ゆるさなーい！[br]
+// 　すぅーーー』[c9]<$4B>
+
+[rightbox]
+// げげげっ！[c9]<$18>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDF06, 26, 2)
+
+[leftbox]
+// 『ファイヤー[br]
+// 　ブレスだ！[br]
+// 　がおぉ！！』[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDF20, 26, 2)
+
+[leftbox]
+// 『グレート[br]
+// ファイヤーだ！[br]
+// がおーーっ！』[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDF3A, 27, 2)
+
+[leftbox]
+// カレーライスを[br]
+// とりだして[br]
+// たべはじめた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDF55, 33, 2)
+
+[leftbox]
+// 『ゆるしてぇ』[br]
+// カレーライスを[br]
+// さしだした。[wait]
+
+[wait]
+
+[rightbox]
+// みのがす？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDF76, 11, 2)
+
+[leftbox]
+// 『ひどぉい！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDF81, 13, 2)
+
+// カレーライスを[br]
+// てにいれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDF8E, 18, 2)
+
+[leftbox]
+// ドラコは[br]
+// とんでにげた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDFA0, 12, 2)
+
+[leftbox]
+// 『いったいな』[c9]<$4C>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDFAC, 12, 2)
+
+[leftbox]
+// ドラコは[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDFB8, 19, 2)
+
+[leftbox]
+// メデューサが[br]
+// とびでた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDFCB, 18, 2)
+
+[leftbox]
+// するどい[br]
+// つめで[br]
+// つく！[c9]<$4F>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDFDD, 26, 2)
+
+[leftbox]
+// あたまにはえた[br]
+// へびたちの[br]
+// めがひかった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xDFF7, 23, 2)
+
+// くっ、[br]
+// かなしばり！？[br]
+// うごけないよ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE00E, 22, 2)
+
+// ふぅ。[br]
+// かなしばりが[br]
+// とけたみたい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE024, 20, 2)
+
+[leftbox]
+// シャッ！！[br]
+// へびが[br]
+// かみつく！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE038, 9, 2)
+
+// よけられない！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE041, 17, 2)
+
+// へびの[br]
+// どくが[br]
+// まわる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE052, 16, 2)
+
+// へびを[br]
+// たたき[br]
+// おとした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE062, 19, 2)
+
+[leftbox]
+// メデューサの[br]
+// めが[br]
+// ひかる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE075, 21, 2)
+
+[leftbox]
+// きいろい[br]
+// こうせんが[br]
+// はなたれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE08A, 22, 2)
+
+// 『あぶない！』[br]
+// すばやく[br]
+// よけるっ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE0A0, 18, 2)
+
+// 『きゃーーーー[br]
+// ーーーっ！！』[c9]<$50>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE0B2, 28, 2)
+
+// こうせんを[br]
+// あびた[br]
+// アルルは[wait]
+
+[wait]
+
+// いしに[br]
+// へんかした！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE0CE, 19, 2)
+
+// ばたんきゅー。[br]
+// ゲーム[br]
+// 　オーバー！！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE0E1, 12, 2)
+
+[leftbox]
+// 『やるわね！』[c9]<$51>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE0ED, 68, 2)
+
+[leftbox]
+// あたまの[br]
+// へびたちが[br]
+// ねむりだした。[wait]
+
+[wait]
+
+// 『これっ！[br]
+// なにしてるの、[br]
+// おきなさい！』[wait]
+
+[wait]
+
+// メデューサは[br]
+// あたまを[br]
+// たたきだした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE131, 14, 2)
+
+[leftbox]
+// メデューサは[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE13F, 17, 2)
+
+[leftbox]
+// スキュラが[br]
+// しゅつげん。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE150, 20, 2)
+
+[leftbox]
+// まえあしで[br]
+// アルルを[br]
+// たたく。[c9]<$54>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE164, 9, 2)
+
+[leftbox]
+// もらってくよぉ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE17D, 21, 2)
+
+[leftbox]
+// スキュラは[br]
+// すたこらさと[br]
+// にげた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE192, 11, 2)
+
+[leftbox]
+// 『かむわよぉ』[c9]<$56>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE19D, 11, 2)
+
+// どくを[br]
+// うけた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE1A8, 25, 2)
+
+[leftbox]
+// 『ごっくん』[br]
+// りゅうのしっぽ[br]
+// のみこんだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE1C1, 11, 2)
+
+[leftbox]
+// 『きゃいん』[c9]<$57>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE1CC, 12, 2)
+
+[leftbox]
+// スキュラは[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE1D8, 19, 2)
+
+[leftbox]
+// ゾンビッコが[br]
+// ふってきた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE1EB, 17, 2)
+
+[leftbox]
+// ゾンビッコ[br]
+// パンチ！[c9]<$5A>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE1FC, 25, 2)
+
+[leftbox]
+// つづけざまに[br]
+// ゾンビッコ[br]
+// キック！[c9]<$5A>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE215, 22, 2)
+
+[leftbox]
+// さらに[br]
+// ゾンビッコ[br]
+// チョップ！[c9]<$5A>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE22B, 10, 2)
+
+[leftbox]
+// 『ううっ』[c9]<$5B>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE235, 19, 2)
+
+[leftbox]
+// 『ふふふん』[br]
+// よゆーの[br]
+// わらい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE248, 16, 2)
+
+[leftbox]
+// ゾンビッコは[br]
+// とけた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE258, 26, 2)
+
+[leftbox]
+// バンシーズが[br]
+// ぞろぞろ[br]
+// やってきた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE272, 38, 2)
+
+[leftbox]
+// 『きぃ』[br]
+// 『ぷぃ』[br]
+// 『ぐぃ』[c9]<$5D>
+
+[rightbox]
+// ひめいが[br]
+// あたまに[br]
+// つきささる。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE298, 64, 2)
+
+[leftbox]
+// 『きぃぃ！』[br]
+// 『ぷぅぅ！』[br]
+// 『ぴぃぃ！』[wait]
+
+[wait]
+
+[leftbox]
+// きょうれつな[br]
+// はどうが[br]
+// おそいかかる。[wait]
+
+[wait]
+
+[rightbox]
+// こまくが[br]
+// やぶれるぅ！[c9]<$0D>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE2D8, 47, 2)
+
+[leftbox]
+// あたまをくだく[br]
+// そうぜつな[br]
+// こえを　だす。[c9]<$5F>
+
+[rightbox]
+// うぁぁ！[br]
+// め、めまいが[br]
+// するぅ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE307, 20, 2)
+
+// くらくらぁ。[br]
+// めまいが[br]
+// するよぉ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE31B, 16, 2)
+
+[rightbox]
+// めまいが[br]
+// ひいていった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE32B, 23, 2)
+
+[leftbox]
+// 『きゃん』[br]
+// 『ぷん』[br]
+// 『ぴゃん』[c9]<$60>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE342, 16, 2)
+
+[leftbox]
+// 『い』[br]
+// 『う』[br]
+// 『おー』[c9]<$61>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE352, 15, 2)
+
+[leftbox]
+// バンシーズは[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE361, 43, 2)
+
+[leftbox]
+// 『わたしに[br]
+// 　　あたえよ』[c9]<$62>[wait]
+
+[wait]
+
+[rightbox]
+// 『な、[br]
+// 　なにを！？』[c9]<$19>[wait]
+
+[wait]
+
+[leftbox]
+// 『ちを！』[c9]<$63>[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE38C, 19, 2)
+
+[leftbox]
+// バンパイアが[br]
+// あらわれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE39F, 16, 2)
+
+[leftbox]
+// アルルに[br]
+// おそいかかる。[c9]<$64>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE3AF, 66, 2)
+
+[leftbox]
+// くびすじに[br]
+// くちびるを[br]
+// よせる。[c9]<$18>[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// 『わ！　わ！[br]
+// 　せまって[br]
+// くるなよぉ！』[wait]
+
+[wait]
+
+[leftbox]
+// やわらかい[br]
+// はだに[br]
+// かみつく。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE3F1, 19, 2)
+
+// うぅ・・・[c9]<$1A>[wait]
+
+[wait]
+
+[leftbox]
+// ちゅーちゅー。[c9]<$65>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE404, 27, 2)
+
+[leftbox]
+// 『よみに　すむ[br]
+// 　わがともよ、[br]
+// 　ちからを！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE41F, 25, 2)
+
+[leftbox]
+// やみが[br]
+// バンパイアを[br]
+// つつみこんだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE438, 22, 2)
+
+[leftbox]
+// うしなった[br]
+// ちからが[br]
+// よみがえる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE44E, 66, 2)
+
+[leftbox]
+// やみのちからで[br]
+// みぎてにムチを[br]
+// つくりだす。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// 『げげげっ！』[c9]<$18>[wait]
+
+[wait]
+
+// [cc]<$52>
+
+[leftbox]
+// ピシッ！[br]
+// ピシッ！[br]
+// ピシッッッ！！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE490, 23, 2)
+
+[leftbox]
+// 『フッ！』[br]
+// するどいキバを[br]
+// とばす。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE4A7, 47, 2)
+
+[leftbox]
+// 『わたしの[br]
+// 　キバは[br]
+// 　　どこだ？』[wait]
+
+[wait]
+
+// バンパイアは[br]
+// キバを[br]
+// さがしている。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE4D6, 9, 2)
+
+[leftbox]
+// 『くっ』[c9]<$66>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE4DF, 159, 2)
+
+[leftbox]
+// 『な、なんだ[br]
+// 　それは！？』[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// 『ただの[br]
+// らっきょだよ』[wait]
+
+[wait]
+
+[leftbox]
+// 『うぉぉ！[br]
+// 　は、はやく[br]
+// 　すてろっ！』[wait]
+
+[wait]
+
+// バンパイアは[br]
+// らっきょを[br]
+// こわがってる。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// にやぁ。[wait]
+
+[wait]
+
+// うりうり。[br]
+// 『おいしいから[br]
+// たべてごらん』[wait]
+
+[wait]
+
+// らっきょを[br]
+// バンパイアに[br]
+// おしつける。[wait]
+
+[wait]
+
+[leftbox]
+// 『ひえええええ[br]
+// えええええええ[br]
+// ええええ！！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE57E, 17, 2)
+
+[leftbox]
+// バンパイアは[br]
+// にげた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE58F, 25, 2)
+
+[leftbox]
+// バンパイアは[br]
+// くずれて[br]
+// はいになった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE5A8, 23, 2)
+
+[leftbox]
+// すきまかぜで[br]
+// はいは[br]
+// ふきとんだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE5BF, 11, 2)
+
+[leftbox]
+// マミーが[br]
+// でてきた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE5CA, 24, 2)
+
+[leftbox]
+// ほうたいを[br]
+// まきなおして[br]
+// マミーがきた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE5E2, 11, 2)
+
+[leftbox]
+// パンチだ！[c9]<$69>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE5ED, 10, 2)
+
+[leftbox]
+// キックだ！[c9]<$69>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE5F7, 26, 2)
+
+[leftbox]
+// 『はぁあああ』[c9]<$6A>[wait]
+
+[wait]
+
+[leftbox]
+// きあいを[br]
+// ためている。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE611, 25, 2)
+
+[leftbox]
+// ダイナマイト[br]
+// パンチだっ！！[c9]<$69>[c9]<$69>[c9]<$69>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE62A, 24, 2)
+
+[leftbox]
+// ダイナマイト[br]
+// キックだっ！！[c9]<$69>[c9]<$69>[c9]<$69>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE642, 79, 2)
+
+[leftbox]
+// ほうたいを[br]
+// なげつける。[c9]<$69>[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ほうたいが[br]
+// からだに[br]
+// からみつく。[wait]
+
+[wait]
+
+// 『いやーん、[br]
+// 　なにこれっ！[br]
+// うごけない！』[c9]<$09>[wait]
+
+[wait]
+
+// アルルは[br]
+// うごけない。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE691, 53, 2)
+
+[leftbox]
+// ほうたいが[br]
+// ほどけている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// 『そのままだと[br]
+// からだが[br]
+// みえちゃうよ』[wait]
+
+[wait]
+
+[leftbox]
+// 『きゃっ！！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE6C6, 13, 2)
+
+[leftbox]
+// あわてて[br]
+// にげた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE6D3, 10, 2)
+
+[leftbox]
+// 『うっく』[c9]<$6B>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE6DD, 25, 2)
+
+[leftbox]
+// 『あちちっ！』[br]
+// ほうたいが[br]
+// もえだした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE6F6, 81, 2)
+
+[leftbox]
+// あつさで[br]
+// のたうち[br]
+// まわっている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// あらららら。[wait]
+
+[wait]
+
+[leftbox]
+// 『！！！！！』[wait]
+
+[wait]
+
+[leftbox]
+// 『！！！！！！[br]
+// ！！！！！！』[wait]
+
+[wait]
+
+[leftbox]
+// 『！！！！！！[br]
+// ！！！！！！！[br]
+// ！！！！！！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE747, 27, 2)
+
+[leftbox]
+// 『ふぅ・・・』[wait]
+
+[wait]
+
+[leftbox]
+// なんとか[br]
+// ほのおを[br]
+// けしとめた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE762, 11, 2)
+
+[leftbox]
+// マミーは[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xE76D, 17, 2)
+
+[leftbox]
+// ラミアが[br]
+// すべってきた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE77E, 25, 2)
+
+[leftbox]
+// さけた　したが[br]
+// ムチのように[br]
+// のびる！[c9]<$6F>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE797, 15, 2)
+
+[leftbox]
+// アルルの[br]
+// うでを[br]
+// かむ！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE7A6, 21, 2)
+
+// どくが[br]
+// ぜんしんに[br]
+// まわるよぅ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE7BB, 27, 2)
+
+[leftbox]
+// はいごに[br]
+// くろい　かげが[br]
+// あらわれた。[c9]<$71>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE7D6, 26, 2)
+
+[leftbox]
+// ラミアは[br]
+// くろい　かげに[br]
+// のみこまれた。[c9]<$72>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE7F0, 17, 2)
+
+[leftbox]
+// ガルダが[br]
+// あらわれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE801, 46, 2)
+
+[leftbox]
+// すごいはやさで[br]
+// アルルを[br]
+// おそう！[c9]<$6F>
+
+[leftbox]
+// が、うろこが[br]
+// すべって[br]
+// ころんだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE82F, 19, 2)
+
+[leftbox]
+// 『なかなか[br]
+// やるじゃない』[c9]<$70>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE842, 11, 2)
+
+[leftbox]
+// ラミアは[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE84D, 17, 2)
+
+[leftbox]
+// ガルダが[br]
+// おりてきた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE85E, 20, 2)
+
+[leftbox]
+// するどい[br]
+// あしで[br]
+// ひっかく！[c9]<$73>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE872, 19, 2)
+
+// ガルダの[br]
+// どくを[br]
+// くらった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE885, 45, 2)
+
+[leftbox]
+// ガルダは[br]
+// おもいっきり[br]
+// はばたいた。[c9]<$73>
+
+[rightbox]
+// 『わわわっ！[br]
+// すごい[br]
+// ふうあつ！！』[end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xE8B2, 31, 2)
+
+[leftbox]
+// ガルダが[br]
+// りゅうのツメを[br]
+// うばった。[c9]<$73>
+
+[rightbox]
+// しまった！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE8D1, 28, 2)
+
+[leftbox]
+// ガルダは[br]
+// ニコニコがおで[br]
+// とんでいった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE8ED, 9, 2)
+
+[leftbox]
+// 『クー』[c9]<$74>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE8F6, 23, 2)
+
+[leftbox]
+// はばたいて[br]
+// まほうを[br]
+// はねのけた。[c9]<$72>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE90D, 13, 2)
+
+[leftbox]
+// ガルダは[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE91A, 50, 2)
+
+[leftbox]
+// サタンが[br]
+// うかびでた。[wait]
+
+[wait]
+
+[leftbox]
+// 『いさぎよく[br]
+// わたしの[br]
+// きさきになれ』[wait]
+
+[wait]
+
+[rightbox]
+// 『やだよっ』[c9]<$17>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE94C, 35, 2)
+
+[leftbox]
+// 『しょうがいの[br]
+// 　あいを[br]
+// 　　ちかえっ』[wait]
+
+[wait]
+
+[rightbox]
+// 『やだってば』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE96F, 60, 2)
+
+[leftbox]
+// 『わたしは[br]
+// せかいが[br]
+// ほろびようとも[wait]
+
+[wait]
+
+// おまえを[br]
+// あいしてやると[br]
+// 　　いうのに』[wait]
+
+[wait]
+
+[rightbox]
+// 『いらない[br]
+// 　よぉーだ！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE9AB, 24, 2)
+
+[leftbox]
+// 『しかたない。[br]
+// おとなしく[br]
+// してもらおう』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE9C3, 10, 2)
+
+[leftbox]
+// 『おろかな』[c9]<$76>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE9CD, 62, 2)
+
+[leftbox]
+// 『おまえの[br]
+// 　たいりょくを[br]
+// 　　もらうぞ』[wait]
+
+[wait]
+
+// サタンが[br]
+// アルルに[br]
+// しのびよる。[wait]
+
+[wait]
+
+[rightbox]
+// 『ちょっと！[br]
+// やめてよ[br]
+// へんたい！！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEA0B, 13, 2)
+
+// たいりょくを[br]
+// すいとられた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEA18, 9, 2)
+
+[leftbox]
+// 『ほぉ』[c9]<$77>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEA21, 46, 2)
+
+[leftbox]
+// サタンは[br]
+// ニヤリと[br]
+// わらった。[wait]
+
+[wait]
+
+[rightbox]
+// 『ありゃぁ？』[c9]<$16>
+
+[leftbox]
+// マントで[br]
+// こうげきを[br]
+// はねのけた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEA4F, 18, 2)
+
+[leftbox]
+// 『なかなか[br]
+// 　　　やるな』[c9]<$78>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEA61, 39, 2)
+
+[leftbox]
+// 『ゆるさぬぞ』[c9]<$79>
+
+[rightbox]
+// わわわ。[wait]
+
+[wait]
+
+// そうとう[br]
+// おこってるよ。[br]
+// まいったなぁ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEA88, 10, 2)
+
+[leftbox]
+// 『しねっ！』[c9]<$7A>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEA92, 53, 2)
+
+[leftbox]
+// 『おまえの[br]
+// 　ちからを[br]
+// 　ささげよっ』[wait]
+
+[wait]
+
+// サタンが[br]
+// アルルに[br]
+// せまった。[wait]
+
+[wait]
+
+[rightbox]
+// 『よ、[br]
+// よるなぁ！！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEAC7, 17, 2)
+
+// たいりょくと[br]
+// まどうりょくを[br]
+// すいとられた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEAD8, 11, 2)
+
+[leftbox]
+// 『ぐぉっ』[c9]<$7B>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEAE3, 49, 2)
+
+[leftbox]
+// 『あまいなっ』[wait]
+
+[wait]
+
+[rightbox]
+// 『げげげっ！』[c9]<$18>
+
+[leftbox]
+// マントを[br]
+// ひるがえして[wait]
+
+[wait]
+
+// こうげきを[br]
+// はねかえした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEB14, 37, 2)
+
+[leftbox]
+// ビリビリッ。[br]
+// 『しまった！』[wait]
+
+[wait]
+
+// サタンの[br]
+// マントが[br]
+// やぶれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEB39, 13, 2)
+
+[leftbox]
+// サタンさまは[br]
+// ばたんきゅー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xEB46, 24, 2)
+
+[leftbox]
+// バンパイアは[br]
+// あわてて[br]
+// にげてった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xE16D, 16, 2)
+
+[rightbox]
+// [c8]わぁ！[br]
+// [br]
+// ぬすまれた！[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#ENDREGION(1)
+
+//===========================================================
+// Region 2
+//===========================================================
+
+#STARTREGION(2)
+
+#STARTMSG(0x14202, 36, 2)
+
+// スイッチを[br]
+// いれたよ。[wait]
+
+[wait]
+
+// [cc]<$39>
+
+[leftbox]
+// ひがしのほうで[br]
+// おとがした。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14226, 34, 2)
+
+[leftbox]
+// ゆかに[br]
+// キラリと[br]
+// ひかるもの。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// みずいろの[br]
+// カギだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14248, 17, 2)
+
+// みずいろの[br]
+// カギを[br]
+// てにいれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14259, 42, 2)
+
+[leftbox]
+// はこの[br]
+// なかは[br]
+// からっぽ。[wait]
+
+[wait]
+
+// [cd][cc]<$38>[ce]<$08>[cf]<$07>
+
+[rightbox]
+// し、しまった！[br]
+// ワナだ！！[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14283, 50, 2)
+
+[leftbox]
+// おゆが[br]
+// あつまって、[wait]
+
+[wait]
+
+// くうちゅうに[br]
+// ういている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// まほうの[br]
+// おふろみたい。[wait]
+
+[wait]
+
+// はいってみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x142B5, 22, 2)
+
+// [ce]<$03>[cf]<$04>
+
+[rightbox]
+// んんんん、[br]
+// いいきぶん。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x142CB, 19, 2)
+
+// [ce]<$03>[cf]<$05>
+
+[rightbox]
+// はいるの[br]
+// やーめた。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x142DE, 55, 2)
+
+[leftbox]
+// きぜつした[br]
+// まものがいる。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ろうやから[br]
+// ぬけでるときに[wait]
+
+[wait]
+
+// ぼくが[br]
+// ひっぱたいた[br]
+// やつだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14315, 51, 2)
+
+// [cc]<$32>[ce]<$08>[cf]<$06>
+
+[leftbox]
+// なかから[br]
+// どくのやが[br]
+// とんできた！[print][c9]<$18>
+
+[rightbox]
+// あわてて[br]
+// よこに　とんで[br]
+// よける。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14348, 93, 2)
+
+// いったーい！[c9]<$0B>
+
+[leftbox]
+// どくやは[br]
+// アルルの[br]
+// めのまえを[wait]
+
+[wait]
+
+// すりぬけて[br]
+// とびらに[br]
+// ささった。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// しかしアルルは[br]
+// あわてて[br]
+// よけたため[wait]
+
+[wait]
+
+// [d1]<$02>[ce]<$04>[cf]<$08>
+
+[rightbox]
+// かべに[br]
+// げきとつした。[br]
+// 『とほほ』[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x143A5, 92, 2)
+
+// [ce]<$08>[cf]<$06>
+
+[rightbox]
+// げげげっ！[c9]<$18>
+
+[leftbox]
+// まりょくを[br]
+// すいとられた[br]
+// ミイラがいる。[wait]
+
+[wait]
+
+// [cd][ce]<$01>[cf]<$06>
+
+[rightbox]
+// ぞぞぞっ・・・[br]
+// はやく[br]
+// にげないと[wait]
+
+[wait]
+
+// ぼくも　おなじ[br]
+// うんめいに[br]
+// なってしまう。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14401, 67, 2)
+
+[leftbox]
+// じめんに[br]
+// あなが[br]
+// ほってある。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// にげだすために[br]
+// ほったのかな。[br]
+// ・・・でも、[wait]
+
+[wait]
+
+// とちゅうで[br]
+// あきらめた[br]
+// みたいだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14444, 153, 2)
+
+// [ce]<$08>[cf]<$01>
+
+[rightbox]
+// で、でぐちだ。[br]
+// やっと[br]
+// そとにで・・・[wait]
+
+[wait]
+
+// [d1]<$0C>[d1]<$04>
+
+[leftbox]
+// 『おとなしく[br]
+// ろうに　おれば[br]
+// よいものを』[wait]
+
+[wait]
+
+// [cd][ce]<$07>[cf]<$07>
+
+[rightbox]
+// 『あ、[br]
+// 　あんた！』[wait]
+
+[wait]
+
+[leftbox]
+// 『おまえの[br]
+// 　まりょくは[br]
+// 　ゆっくりと[wait]
+
+[wait]
+
+// きゅうしゅう[br]
+// するつもり[br]
+// だったが[wait]
+
+[wait]
+
+// [d1]<$10>[d1]<$15>
+
+[leftbox]
+// しかたがない。[wait]
+
+[wait]
+
+// [d1]<$0F>[d1]<$11>
+
+[leftbox]
+// ここで[br]
+// しんで[br]
+// もらおう！』[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0x144DD, 11, 2)
+
+// 金を１００[br]
+// てにいれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x144E8, 33, 2)
+
+[leftbox]
+// ゆかに[br]
+// キラリと[br]
+// ひかるもの。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// あかいろの[br]
+// カギだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14509, 16, 2)
+
+// あかいろの[br]
+// カギを[br]
+// てにいれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14519, 105, 2)
+
+// [ce]<$07>[cf]<$05>
+
+[rightbox]
+// みょうな[br]
+// けはい・・・[br]
+// ・・・・・[wait]
+
+[wait]
+
+// [ce]<$07>『な、[br]
+// なにもの！？』[wait]
+
+[wait]
+
+[leftbox]
+// 『おじょうさん[br]
+// 　・・・・・[wait]
+
+[wait]
+
+// いっしょに[br]
+// おちゃ[br]
+// しなーい？』[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$07>
+
+[rightbox]
+// ずげっ。[wait]
+
+[wait]
+
+// きんちょうかん[br]
+// ないなぁ・・・[wait]
+
+[wait]
+
+// 『あなた[br]
+// 　だれ？』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14582, 123, 2)
+
+[leftbox]
+// 『ふっ、[br]
+// 　わたしは[br]
+// 　ミイル・・・[wait]
+
+[wait]
+
+// [cd][ce]<$01>[cf]<$08>
+
+[rightbox]
+// 『ちょーど[br]
+// 　いいわ。[wait]
+
+[wait]
+
+// ぼく、おなか[br]
+// すいてたから』[wait]
+
+[wait]
+
+[leftbox]
+// 『は？』[wait]
+
+[wait]
+
+// [cd][ce]<$06>[cf]<$04>
+
+[rightbox]
+// 『おいしそう』[wait]
+
+[wait]
+
+[leftbox]
+// 『わわあっ！[br]
+// 　ちょっと[br]
+// 　まてぃ！！』[wait]
+
+[wait]
+
+// [cd][ce]<$01>[cf]<$04>
+
+[rightbox]
+// ぼくは[br]
+// しおを[br]
+// ふりかける。[wait]
+
+[wait]
+
+// [ce]<$01>[ce]<$01>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x145FD, 61, 2)
+
+[leftbox]
+// 『や、や、[br]
+// 　たべないで！[wait]
+
+[wait]
+
+// ウラノスのつえ[br]
+// あげるから、[br]
+// やめて！』[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$01>
+
+[rightbox]
+// 『ほんとぅ？[br]
+// 　ラッキー！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1463A, 182, 2)
+
+[leftbox]
+// 『じゃが、[br]
+// 　タダでは[br]
+// 　やらんぞ。[wait]
+
+[wait]
+
+// ライラの[br]
+// ちかめいきゅう[br]
+// に　かくされた[wait]
+
+[wait]
+
+// ルベルクラクと[br]
+// よばれている[wait]
+
+[wait]
+
+// ほうせきと[br]
+// こうかんじゃ』[wait]
+
+[wait]
+
+// [cd][ce]<$0B>[cf]<$01>
+
+[rightbox]
+// 『オッケー。[br]
+// 　しょうだん[br]
+// 　せいりつね』[wait]
+
+[wait]
+
+[leftbox]
+// 『それから[br]
+// もぅひとぉつ。[wait]
+
+[wait]
+
+// いっしょに[br]
+// おちゃして[br]
+// くれない？』[wait]
+
+[wait]
+
+// [cd][ce]<$07>[cf]<$05>
+
+[rightbox]
+// 『しつこい！』[wait]
+
+[wait]
+
+// [cc]<$4E>
+
+[rightbox]
+// ぼくの　けりが[br]
+// がんめんに[br]
+// めりこむ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x146F0, 38, 2)
+
+[leftbox]
+// ピューーーーー[br]
+// ーーーーーーー[br]
+// ーーーーー！！[wait]
+
+[wait]
+
+// [cc]<$65>
+
+[leftbox]
+// キランッ！[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14716, 48, 2)
+
+[leftbox]
+// みぎの[br]
+// とびらから[wait]
+
+[wait]
+
+// かわいた[br]
+// かぜが[br]
+// ふいてくる。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// でぐちは[br]
+// みぎかな？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14746, 41, 2)
+
+[leftbox]
+// 『さっきは[br]
+// ひきょうなてで[br]
+// やられたが、[wait]
+
+[wait]
+
+// こんどは[br]
+// にがさんで！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1476F, 33, 2)
+
+// [ce]<$07>[cf]<$09>
+
+[leftbox]
+// おもい[br]
+// ふんいき。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ・・・なにか[br]
+// かくれてる？[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14790, 43, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『たいじゅうの[br]
+// おもいものは[br]
+// のるべからず』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x147BB, 17, 2)
+
+// へ？[wait]
+
+[wait]
+
+[leftbox]
+// ゆかが[br]
+// ひらいた。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x147CC, 24, 2)
+
+// ひっどぉーい！[br]
+// ぼくは[br]
+// おもくないぞ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x147E4, 18, 2)
+
+[leftbox]
+// ミホのつえが[br]
+// おちている。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0x147F6, 44, 2)
+
+// [ce]<$0C>[cf]<$08>とびらから[br]
+// のぞいてみる。[wait]
+
+[wait]
+
+// [cb]<$1C>
+
+[rightbox]
+// みはりが[br]
+// たくさん[br]
+// いるみたい。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14822, 35, 2)
+
+// スイッチを[br]
+// いれたよ。[wait]
+
+[wait]
+
+// [cc]<$39>
+
+[leftbox]
+// きたの　ほうで[br]
+// おとがした。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14845, 36, 2)
+
+[leftbox]
+// ぼろぼろ・・・[wait]
+
+[wait]
+
+// かべが[br]
+// くずれて[wait]
+
+[wait]
+
+// カレーライスが[br]
+// でてきた。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14869, 36, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『ひだりに[br]
+// すすんで[br]
+// みなさい』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1488D, 56, 2)
+
+// [ce]<$08>[cf]<$07>
+
+[leftbox]
+// ゴォオオオ！！[wait]
+
+[wait]
+
+// [cd][ce]<$06>[cf]<$07>
+
+[rightbox]
+// あつい、[br]
+// あついよぉ！[wait]
+
+[wait]
+
+// このままじゃ[br]
+// あつくて[br]
+// とおれないや。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x148C5, 44, 2)
+
+// [ce]<$08>[cf]<$07>
+
+[leftbox]
+// ゴォオオオ！！[wait]
+
+[wait]
+
+// [cd][ce]<$03>[cf]<$02>
+
+[rightbox]
+// ふふふん！[br]
+// ぜんぜん[br]
+// あつくないよ。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x148F1, 149, 2)
+
+[leftbox]
+// とびらに[br]
+// あなが[br]
+// あいている。[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$07>
+
+[rightbox]
+// なにか[br]
+// みえるのかな？[wait]
+
+[wait]
+
+// げげげっ！[c9]<$18>[cb]<$1C>
+
+[leftbox]
+// きょうぼうで[br]
+// じゃあくな[br]
+// きを　はっした[wait]
+
+[wait]
+
+// きょだいな[br]
+// まものが[br]
+// なかにいる。[wait]
+
+[wait]
+
+// [cd][ce]<$07>[cf]<$08>
+
+[rightbox]
+// ゲームだったら[br]
+// さいしゅうボス[br]
+// って　やつだ。[wait]
+
+[wait]
+
+// こりゃ[br]
+// いかないほうが[br]
+// いいよ。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14986, 70, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『わたしからの[br]
+// おくりものだ。[wait]
+
+[wait]
+
+// ゆうこうに[br]
+// つかいなさい』[wait]
+
+[wait]
+
+[leftbox]
+// カレーライスが[br]
+// おいてある。[wait]
+
+[wait]
+
+[rightbox]
+// ひろう？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x149F0, 63, 2)
+
+// [ce]<$08>[cf]<$08>
+
+[rightbox]
+// ありゃ？[wait]
+
+[wait]
+
+// まものなんか[br]
+// いやしないよ。[wait]
+
+[wait]
+
+// イリュージョン[br]
+// だったのか。[wait]
+
+[wait]
+
+// [ce]<$07>[cf]<$05>
+
+[rightbox]
+// ちぇっ、[br]
+// だまされた。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14A2F, 19, 2)
+
+[leftbox]
+// ゆかに[br]
+// くさが[br]
+// おちている。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14A42, 34, 2)
+
+[leftbox]
+// かべに[br]
+// つえの　えが[br]
+// ほられている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// なんだろ、[br]
+// これ？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14A64, 19, 2)
+
+[leftbox]
+// つえの　えが[br]
+// もえだした。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14A77, 36, 2)
+
+// [d1]<$02>[ce]<$0C>[cf]<$07>あちちちちっ！[wait]
+
+[wait]
+
+[leftbox]
+// つえが[br]
+// かべから[br]
+// はげおちた。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14A9B, 20, 2)
+
+[leftbox]
+// つえの　えが[br]
+// ひかりだした。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14AAF, 40, 2)
+
+// [d1]<$02>[ce]<$06>[cf]<$07>
+
+[rightbox]
+// ま、[br]
+// まぶしいっ！[wait]
+
+[wait]
+
+[leftbox]
+// つえが[br]
+// かべから[br]
+// はげおちた。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14AD7, 68, 2)
+
+[leftbox]
+// かべから[br]
+// ながい　はりが[br]
+// とんできた！[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$07>
+
+[rightbox]
+// わわわっ！！[wait]
+
+[wait]
+
+// とっさに[br]
+// よけて[br]
+// かわす。[wait]
+
+[wait]
+
+// あぶない[br]
+// あぶない。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14B1B, 164, 2)
+
+[leftbox]
+// てがみが[br]
+// おちている。[wait]
+
+[wait]
+
+[rightbox]
+// なんで[br]
+// こんなところに[br]
+// てがみが？[wait]
+
+[wait]
+
+// とにかく[br]
+// よんでみよう。[wait]
+
+[wait]
+
+[leftbox]
+// 『あたしが[br]
+// しかけた[br]
+// ハリを[wait]
+
+[wait]
+
+// うまく[br]
+// よけたようね。[br]
+// ほめてあげる。[wait]
+
+[wait]
+
+// でも、[br]
+// つぎのワナは[br]
+// どうかしらね？[wait]
+
+[wait]
+
+// おほほほほ！[br]
+// 　ルルーより』[wait]
+
+[wait]
+
+// [cd][ce]<$07>[cf]<$08>
+
+[rightbox]
+// あのハリは[br]
+// この　ひとが[br]
+// しかけたのか！[wait]
+
+[wait]
+
+// ゆるせんっ！[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14BBF, 56, 2)
+
+[leftbox]
+// はなが[br]
+// いちりん[br]
+// さいている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// こんなところに[br]
+// はなが[br]
+// さいてるなんて[wait]
+
+[wait]
+
+// へんだなぁ。[wait]
+
+[wait]
+
+// とってみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14BF7, 123, 2)
+
+// うんしょ。[print][d1]<$0B>[wait]
+
+[wait]
+
+[rightbox]
+// うーんしょ。[print][d1]<$0B>[wait]
+
+[wait]
+
+[rightbox]
+// よーし、[br]
+// こんどこそ！[wait]
+
+[wait]
+
+// せぇーのぉ！！[wait]
+
+[wait]
+
+// [d1]<$0B>
+
+[leftbox]
+// 『きゃああああ[br]
+// 　ああああああ[br]
+// 　あああ！！』[c9]<$22>[wait]
+
+[wait]
+
+[leftbox]
+// きょうれつな[br]
+// ひめいが[br]
+// ひびきわたる！[wait]
+
+[wait]
+
+// [cd][ce]<$06>[cf]<$07>
+
+[rightbox]
+// きゃーーーっ！[br]
+// あたまが[br]
+// いたいぃ！！[c9]<$0D>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14C72, 11, 2)
+
+// 金を２００[br]
+// てにいれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14C7D, 36, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『いっぽう[br]
+// 　つうこうの[br]
+// 　へや』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14CA1, 40, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『つぎの[br]
+// かんもんは[br]
+// ワープじごく』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14CC9, 95, 2)
+
+[leftbox]
+// 『ふっ、[br]
+// 　ようやく[br]
+// 　みつけたぞ』[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$07>
+
+[rightbox]
+// 『あ、[br]
+// 　あんた！！』[wait]
+
+[wait]
+
+[leftbox]
+// 『こんどは[br]
+// まえのようには[br]
+// いかんぞ』[wait]
+
+[wait]
+
+// [cd][ce]<$0E>[cf]<$04>
+
+[rightbox]
+// 『ベェーっだ！[br]
+// かえりうちに[br]
+// してあげる！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14D28, 39, 2)
+
+[leftbox]
+// ゆかに[br]
+// キラリと[br]
+// ひかるもの。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// みどりいろの[br]
+// カギだ。[wait]
+
+[wait]
+
+// ひろう？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14D4F, 18, 2)
+
+// みどりいろの[br]
+// カギを[br]
+// てにいれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14D61, 142, 2)
+
+[leftbox]
+// てがみが[br]
+// おちている。[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$08>
+
+[rightbox]
+// また　てがみ？[wait]
+
+[wait]
+
+// とにかく[br]
+// よんでみよう。[wait]
+
+[wait]
+
+[leftbox]
+// 『サタンさまは[br]
+// 　わたしの[br]
+// 　　　ものよ！[wait]
+
+[wait]
+
+// だから[br]
+// あきらめて[br]
+// かえりなさい！[wait]
+
+[wait]
+
+// わかったわね！[br]
+// 　ルルーより』[wait]
+
+[wait]
+
+// [cd][ce]<$04>[cf]<$08>[ce]<$04>
+
+[rightbox]
+// なんの[br]
+// ことだろ？[br]
+// へんなのぉ。[wait]
+
+[wait]
+
+// アルル[br]
+// わかんなぁい。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14DEF, 138, 2)
+
+[leftbox]
+// かべに[br]
+// やが[br]
+// ささっている。[wait]
+
+[wait]
+
+// ゆかには[br]
+// スイッチの[br]
+// しかけがある。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ゆかを　ふむと[br]
+// やがとんでくる[br]
+// しかけみたい。[wait]
+
+[wait]
+
+// [ce]<$00>・・・これは？[wait]
+
+[wait]
+
+[leftbox]
+// よくみると、[wait]
+
+[wait]
+
+// やの　さきに[br]
+// ぬのきれが[br]
+// ついている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// これ、ドレスの[br]
+// きれっぱしだ。[wait]
+
+[wait]
+
+// [ce]<$00>だれのだろう[br]
+// ・・・・・[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14E79, 86, 2)
+
+[leftbox]
+// かべに[br]
+// もじが[br]
+// ほってある。[wait]
+
+[wait]
+
+// 『わたしと[br]
+// 　であうには、[wait]
+
+[wait]
+
+// うみより[br]
+// ふかい　ちえと[wait]
+
+[wait]
+
+// だいちより[br]
+// つよい[br]
+// ちからが[wait]
+
+[wait]
+
+// ひつようだ』[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$08>
+
+[rightbox]
+// なに、これ？[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14ECF, 23, 2)
+
+[leftbox]
+// 『カギを[br]
+// 　かえせーーー[br]
+// 　ーーーっ！』[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14EE6, 10, 2)
+
+// カギを[br]
+// かえす？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14EF0, 34, 2)
+
+// 『カギを[br]
+// 　かえすね』[wait]
+
+[wait]
+
+[leftbox]
+// カギを[br]
+// うけとると[br]
+// さっていった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14F12, 20, 2)
+
+// ドラコが[br]
+// おそいかかって[br]
+// きた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14F26, 130, 2)
+
+[leftbox]
+// かべに[br]
+// もじが[br]
+// ほってある。[wait]
+
+[wait]
+
+// 『ちなみに、[wait]
+
+[wait]
+
+// わたしは[br]
+// ぜっせいの[br]
+// びけいだから、[wait]
+
+[wait]
+
+// あんしん[br]
+// しなさい』[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$08>
+
+[rightbox]
+// へんなのー。[wait]
+
+[wait]
+
+// [ce]<$05>[ce]<$05>でも、[br]
+// にたような[br]
+// ないようを[wait]
+
+[wait]
+
+// どっかで[br]
+// みた　おぼえが[br]
+// あるなぁ。[wait]
+
+[wait]
+
+// [ce]<$05>どこだっけ？[wait]
+
+[wait]
+
+// [ce]<$05>[ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14FA8, 81, 2)
+
+[leftbox]
+// かべに[br]
+// もじが[br]
+// ほってある。[wait]
+
+[wait]
+
+// 『しかし、[br]
+// であうことの[br]
+// できたものには[wait]
+
+[wait]
+
+// しょうがいの[br]
+// あいを[br]
+// ちかう』[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$08>
+
+[rightbox]
+// ここにも[br]
+// へんなのが[br]
+// かいてある。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x14FF9, 27, 2)
+
+[leftbox]
+// かべに[br]
+// あなが[br]
+// あいている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// のぞいてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15014, 18, 2)
+
+// [ce]<$0E>[cf]<$08>なにも[br]
+// みえないや。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15026, 21, 2)
+
+// [ce]<$03>[cf]<$08>
+
+[rightbox]
+// こわいから[br]
+// やめとこう。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1503B, 175, 2)
+
+[leftbox]
+// なかから[br]
+// けむりが[br]
+// でてきた。[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$07>
+
+[rightbox]
+// ななな！[br]
+// なによ[br]
+// これはっ！？[wait]
+
+[wait]
+
+// この[br]
+// け、けむりは[br]
+// な・・・[wait]
+
+[wait]
+
+// [ce]<$02>[cf]<$08>
+
+[rightbox]
+// な・・・に・・[br]
+// ・・・こ・・・[br]
+// れ・・・・・・[wait]
+
+[wait]
+
+// [ce]<$03>[cf]<$08>
+
+[rightbox]
+// ぐぅ・・・・・[br]
+// ・・・・・・・[br]
+// ・・・・・・・[wait]
+
+[wait]
+
+// ぐぅ・・・・・[br]
+// ・・・・・・・[wait]
+
+[wait]
+
+// ぐぅ・・・・・[wait]
+
+[wait]
+
+// ぐぅ・・・[wait]
+
+[wait]
+
+// [ce]<$01>[cf]<$01>
+
+[rightbox]
+// んーーーーー、[br]
+// よく　ねたぁ！[br]
+// むにゃむにゃ。[wait]
+
+[wait]
+
+// この　けむり、[br]
+// さいみんガス[br]
+// だったんだ。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x150EA, 20, 2)
+
+[leftbox]
+// パポのつえが[br]
+// おちている。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x150FE, 24, 2)
+
+// まどうりょくが[br]
+// すいとられてる[br]
+// かんじがする。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15116, 62, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『なんじは[br]
+// 　まよえる[br]
+// 　こひつじか？[wait]
+
+[wait]
+
+// ならば、[br]
+// ちか２かいに[br]
+// もどるがよい』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15154, 34, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『つぎは[br]
+// 　かべじごく』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15176, 27, 2)
+
+[leftbox]
+// かべに[br]
+// あなが[br]
+// あいている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// のぞいてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15191, 28, 2)
+
+// [ce]<$0E>[cf]<$08>むこうがわに[br]
+// かいだんが[br]
+// みえる。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x151AD, 19, 2)
+
+[leftbox]
+// みずたまりが[br]
+// ちゅうに[br]
+// ういている。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x151C0, 35, 2)
+
+// ちょうどいい[br]
+// ゆかげんに[br]
+// なったみたい。[wait]
+
+[wait]
+
+// おゆたまりに[br]
+// はいってみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x151E3, 66, 2)
+
+// [d1]<$02>[ce]<$03>[cf]<$04>
+
+[rightbox]
+// んんん。[br]
+// いぃゆだなぁ。[wait]
+
+[wait]
+
+// いままでの[br]
+// つかれが[br]
+// ふっとぶよ。[wait]
+
+[wait]
+
+[leftbox]
+// おゆたまりは[br]
+// ゆげになって[br]
+// きえていった。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15225, 47, 2)
+
+// [d1]<$02>[ce]<$03>[cf]<$05>
+
+[rightbox]
+// おゆたまりに[br]
+// はいるの[br]
+// やーめた。[wait]
+
+[wait]
+
+[leftbox]
+// おゆたまりは[br]
+// じょうはつして[br]
+// きえていった。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15254, 28, 2)
+
+[leftbox]
+// みずたまりは[br]
+// カチンカチンに[br]
+// こおった。[wait]
+
+[wait]
+
+[rightbox]
+// さわってみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15270, 47, 2)
+
+// [d1]<$02>[ce]<$03>[cf]<$02>
+
+[rightbox]
+// あああ。[br]
+// ひんやりして[br]
+// きもちいい。[wait]
+
+[wait]
+
+[leftbox]
+// こおった[br]
+// みずたまりは[br]
+// とけてきえた。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1529F, 44, 2)
+
+// [d1]<$02>[ce]<$03>[cf]<$05>
+
+[rightbox]
+// みずたまりに[br]
+// さわるの[br]
+// やーめた。[wait]
+
+[wait]
+
+[leftbox]
+// こおった[br]
+// みずたまりは[br]
+// くだけちった。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x152CB, 41, 2)
+
+[leftbox]
+// まどうしょを[br]
+// てにいれた。[wait]
+
+[wait]
+
+// まどうしょを[br]
+// ひらくと、[wait]
+
+[wait]
+
+// いきなり[br]
+// まぶしく[br]
+// ひかりだした。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x152F4, 74, 2)
+
+// [ce]<$06>[cf]<$08>
+
+[rightbox]
+// あたまの[br]
+// なかで[br]
+// こえがする。[wait]
+
+[wait]
+
+// 『くらやみに[br]
+// たいこうする[br]
+// まほう。[wait]
+
+[wait]
+
+// それが[br]
+// ライト・・・』[wait]
+
+[wait]
+
+[leftbox]
+// まどうしょが[br]
+// スッと[br]
+// きえていった。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1533E, 18, 2)
+
+// ライトの[br]
+// まほうを[br]
+// おぼえた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15350, 31, 2)
+
+[rightbox]
+// イタイッ！！[wait]
+
+[wait]
+
+// おちている[br]
+// がびょうを[br]
+// ふんづけた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1536F, 224, 2)
+
+// [d1]<$02>[ce]<$07>[cf]<$07>
+
+[rightbox]
+// だれよっ！[wait]
+
+[wait]
+
+// こんなところに[br]
+// がびょうを[br]
+// すてたのはっ！[wait]
+
+[wait]
+
+// [ce]<$01>[cf]<$08>
+
+[rightbox]
+// おや？[wait]
+
+[wait]
+
+// がびょうの[br]
+// うらに[wait]
+
+[wait]
+
+// もじが[br]
+// かいてある。[wait]
+
+[wait]
+
+[leftbox]
+// ばらまかれた[br]
+// がびょうを[br]
+// そのまま[wait]
+
+[wait]
+
+// うらがえして[br]
+// もじを[br]
+// よんでみた。[wait]
+
+[wait]
+
+// [cd][ce]<$01>[ce]<$01>
+
+[rightbox]
+// なになに・・・[wait]
+
+[wait]
+
+[leftbox]
+// 『ワナに[br]
+// ひっかかった[br]
+// ようね。[wait]
+
+[wait]
+
+// そんな[br]
+// じつりょくで[wait]
+
+[wait]
+
+// サタンさまを[br]
+// うばおうなんて[br]
+// むぼうだわね。[wait]
+
+[wait]
+
+// おほほほほ！[br]
+// 　ルルーより』[wait]
+
+[wait]
+
+// [cd][ce]<$07>[cf]<$07>
+
+[rightbox]
+// ムッカー！[br]
+// ルルー、[br]
+// ゆるすまじ！[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1544F, 18, 2)
+
+// うひゃぁ、[br]
+// ここは[br]
+// あついなぁ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15461, 32, 2)
+
+// [cc]<$3A>
+
+[leftbox]
+// しゅっ！！[wait]
+
+[wait]
+
+// あなから[br]
+// やが[br]
+// とびでた。[wait]
+
+[wait]
+
+// [cd][ce]<$0D>[cf]<$06>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x149CC, 36, 2)
+
+[leftbox]
+// きいろく[br]
+// かがやく[br]
+// ほうせきが[wait]
+
+[wait]
+
+// ちゅうに[br]
+// ういている。[wait]
+
+[wait]
+
+[rightbox]
+// とる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1549A, 24, 2)
+
+[leftbox]
+// あおいろの[br]
+// いしが[br]
+// ういている。[wait]
+
+[wait]
+
+[rightbox]
+// とる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x154B2, 21, 2)
+
+// いらないから[br]
+// そのままに[br]
+// しておこう。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x154C7, 139, 2)
+
+[leftbox]
+// 『ハァハァ。[br]
+// み、[br]
+// みつけたぞ！』[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$07>
+
+[rightbox]
+// 『また[br]
+// 　たおされに[br]
+// 　きたの？』[wait]
+
+[wait]
+
+[leftbox]
+// 『こんどこそ[br]
+// 　おまえを[br]
+// 　もらう！』[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$08>
+
+[rightbox]
+// 『えっ！？』[wait]
+
+[wait]
+
+[leftbox]
+// 『いや・・・[br]
+// コホン・・・、[br]
+// 　ていせい。[wait]
+
+[wait]
+
+// おまえの[br]
+// ちからを[br]
+// もらう！』[wait]
+
+[wait]
+
+// [cd][ce]<$0E>[cf]<$02>
+
+[rightbox]
+// 『ぼくに[br]
+// かてたらね！』[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15552, 21, 2)
+
+[leftbox]
+// はこの　なかに[br]
+// はこがある。[wait]
+
+[wait]
+
+[rightbox]
+// あけてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15567, 25, 2)
+
+[leftbox]
+// はこの　なかの[br]
+// はこの　なかに[br]
+// はこがある。[wait]
+
+[wait]
+
+[rightbox]
+// あけてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15580, 29, 2)
+
+[leftbox]
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかに[wait]
+
+[wait]
+
+// はこがある。[wait]
+
+[wait]
+
+[rightbox]
+// あけてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1559D, 33, 2)
+
+[leftbox]
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかの[wait]
+
+[wait]
+
+// はこの　なかに[br]
+// はこがある。[wait]
+
+[wait]
+
+[rightbox]
+// あけてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x155BE, 37, 2)
+
+[leftbox]
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかの[wait]
+
+[wait]
+
+// はこの　なかの[br]
+// はこの　なかに[br]
+// はこがある。[wait]
+
+[wait]
+
+[rightbox]
+// あけてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x155E3, 41, 2)
+
+[leftbox]
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかの[wait]
+
+[wait]
+
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかに[wait]
+
+[wait]
+
+// はこがある。[wait]
+
+[wait]
+
+[rightbox]
+// あけてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1560C, 45, 2)
+
+[leftbox]
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかの[wait]
+
+[wait]
+
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかの[wait]
+
+[wait]
+
+// はこの　なかに[br]
+// はこがある。[wait]
+
+[wait]
+
+[rightbox]
+// あけてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15639, 49, 2)
+
+[leftbox]
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかの[wait]
+
+[wait]
+
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかの[wait]
+
+[wait]
+
+// はこの　なかの[br]
+// はこの　なかに[br]
+// はこがある。[wait]
+
+[wait]
+
+[rightbox]
+// あけてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1566A, 53, 2)
+
+[leftbox]
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかの[wait]
+
+[wait]
+
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかの[wait]
+
+[wait]
+
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかに[wait]
+
+[wait]
+
+// はこがある。[wait]
+
+[wait]
+
+[rightbox]
+// あけてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1569F, 75, 2)
+
+[leftbox]
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかの[wait]
+
+[wait]
+
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかの[wait]
+
+[wait]
+
+// はこの　なかの[br]
+// はこの　なかの[br]
+// はこの　なかの[wait]
+
+[wait]
+
+// はこの　なかに[br]
+// 金をみつけた。[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$08>
+
+[rightbox]
+// たった[br]
+// これっぽっち？[br]
+// とほほ・・・[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x156EA, 10, 2)
+
+// 金を１０[br]
+// てにいれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x156F4, 59, 2)
+
+[leftbox]
+// 『ハッハッハッ[br]
+// 　・・・・・』[wait]
+
+[wait]
+
+// スキュラが[br]
+// ねそべって[wait]
+
+[wait]
+
+// したを[br]
+// だしている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// あつがってる[br]
+// みたいだよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1572F, 22, 2)
+
+[leftbox]
+// スキュラが[br]
+// おこって[br]
+// おそってきた！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15745, 21, 2)
+
+// 　　[c9]<$53>
+
+[leftbox]
+// スキュラは[br]
+// よろこんでる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1575A, 72, 2)
+
+[leftbox]
+// スキュラは[br]
+// あたまを[br]
+// さげたあと[wait]
+
+[wait]
+
+// どこかに[br]
+// さっていった。[wait]
+
+[wait]
+
+// スキュラの[br]
+// いたところに[wait]
+
+[wait]
+
+// ピチのつえが[br]
+// おちている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ラッキー！！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x157A2, 189, 2)
+
+[leftbox]
+// てがみが[br]
+// おちている。[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$08>
+
+[rightbox]
+// またぁ？[wait]
+
+[wait]
+
+// どうせ[br]
+// ルルーの[br]
+// てがみと[wait]
+
+[wait]
+
+// おもうけど、[br]
+// とにかく[br]
+// よんでみよう。[wait]
+
+[wait]
+
+[leftbox]
+// 『なかなか[br]
+// がんばっている[br]
+// じゃないの。[wait]
+
+[wait]
+
+// でも、[br]
+// わたしのほうが[br]
+// はやいから[wait]
+
+[wait]
+
+// ムダよ。[br]
+// おほほほほ！[br]
+// 　ルルーより[wait]
+
+[wait]
+
+// そうそう、[br]
+// この　てがみは[br]
+// じどうてきに[wait]
+
+[wait]
+
+// しょうめつ[br]
+// するから[br]
+// きをつけて』[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$07>
+
+[rightbox]
+// げげげっ！！[c9]<$18>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1585F, 18, 2)
+
+// ゴホッ・・・[br]
+// なによ、[br]
+// これっ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15871, 41, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『らっきょと[br]
+// 　カギの[wait]
+
+[wait]
+
+// おもさは[br]
+// おなじ』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1589A, 150, 2)
+
+[leftbox]
+// ボロボロの[br]
+// シェゾが[br]
+// あらわれた。[wait]
+
+[wait]
+
+// 『きさまッ！！[wait]
+
+[wait]
+
+// こんどという[br]
+// こんどは[br]
+// ゆるさんぞ！』[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$07>
+
+[rightbox]
+// 『また[br]
+// あんたか・・・[br]
+// しつこいなぁ』[wait]
+
+[wait]
+
+[leftbox]
+// 『なんど[br]
+// たおされようと[wait]
+
+[wait]
+
+// おまえの[br]
+// ちからを[br]
+// てにいれるまで[wait]
+
+[wait]
+
+// おれは[br]
+// あきらめん！』[wait]
+
+[wait]
+
+// [cd][ce]<$03>[cf]<$07>
+
+[rightbox]
+// 『ごかってに[br]
+// 　どうぞっ！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15930, 184, 2)
+
+[leftbox]
+// てがみが[br]
+// おちている。[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$07>
+
+[rightbox]
+// ハァァ・・・[br]
+// ・・・・・・・[wait]
+
+[wait]
+
+// ルルーも[br]
+// シェゾと[br]
+// おんなじで[wait]
+
+[wait]
+
+// ほんと、[br]
+// しつこいなぁ。[wait]
+
+[wait]
+
+// [ce]<$03>[cf]<$08>
+
+[rightbox]
+// ・・・・・・・[br]
+// とはいうものの[wait]
+
+[wait]
+
+// よんでしまう[br]
+// じぶんが[br]
+// かなしぃ。[wait]
+
+[wait]
+
+// [ce]<$01>[cf]<$01>
+
+[leftbox]
+// 『ここまで[br]
+// くるなんて[br]
+// すごいわね。[wait]
+
+[wait]
+
+// でも、[br]
+// ちか７かいで[br]
+// あなたは[wait]
+
+[wait]
+
+// おしまいよ。[br]
+// おほほほほ！[br]
+// 　ルルーより』[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ちか７かい[br]
+// ・・・か。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x159E8, 9, 2)
+
+// やっぱり・・・[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x159F1, 49, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『みぎと[br]
+// 　ひだり、[wait]
+
+[wait]
+
+// どちらかの[br]
+// とびらを[br]
+// えらべ』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15A22, 21, 2)
+
+[rightbox]
+// まっくらで[br]
+// なにも[br]
+// みえないなぁ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15A37, 674, 2)
+
+// したから[br]
+// じょせいの[br]
+// こえが[wait]
+
+[wait]
+
+// きこえる。[wait]
+
+[wait]
+
+[leftbox]
+// 『おほほほほ！[br]
+// 　これで[br]
+// 　かんぺきね。[wait]
+
+[wait]
+
+// こんなところに[br]
+// じらいが[br]
+// あるなんて、[wait]
+
+[wait]
+
+// ぜったい[br]
+// だれも[br]
+// きづかないわ。[wait]
+
+[wait]
+
+// さてと、[br]
+// すすみま・・・[br]
+// ・・・・・[wait]
+
+[wait]
+
+// し、[br]
+// しまったあああ[br]
+// あああああ！！[wait]
+
+[wait]
+
+// しかけるのに[br]
+// むちゅうで、[br]
+// じらいをおいた[wait]
+
+[wait]
+
+// ばしょを[br]
+// わすれて[br]
+// しまったわ！[wait]
+
+[wait]
+
+// ・・・・・[br]
+// しかたないわ。[wait]
+
+[wait]
+
+// みなみに[br]
+// すすんで[br]
+// みましょう』[wait]
+
+[wait]
+
+// カツカツ・・・[wait]
+
+[wait]
+
+// [cd][cc]<$3B>[ce]<$01>
+
+[rightbox]
+// あ、[br]
+// ばくはつした。[wait]
+
+[wait]
+
+[leftbox]
+// 『あいたたた[br]
+// 　・・・・・[wait]
+
+[wait]
+
+// こっちは[br]
+// ダメみたいね』[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$06>
+
+[rightbox]
+// げっ・・・、[br]
+// じらいを[br]
+// ふんで[wait]
+
+[wait]
+
+// あいたたたで[br]
+// すむか[br]
+// ふつぅ・・・[wait]
+
+[wait]
+
+// [ce]<$01>[cf]<$01>
+
+[leftbox]
+// 『そうそう、[br]
+// 　きたよ！[br]
+// 　きただわ！』[wait]
+
+[wait]
+
+// カツカツ[br]
+// カツカツ・・・[wait]
+
+[wait]
+
+// [cd][cc]<$3B>[ce]<$01>
+
+[rightbox]
+// あ、まただ。[wait]
+
+[wait]
+
+[leftbox]
+// 『んもぅ、[br]
+// 　いたいわねぇ[br]
+// 　・・・・・』[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$06>
+
+[rightbox]
+// し、[br]
+// しぶとい・・・[wait]
+
+[wait]
+
+// [ce]<$01>[cf]<$01>
+
+[leftbox]
+// 『にしなら[br]
+// だいじょうぶな[br]
+// はずよ！』[wait]
+
+[wait]
+
+// カツカツ・・・[wait]
+
+[wait]
+
+// [cc]<$3B>
+
+[leftbox]
+// 『もう！[br]
+// 　おきにいりの[br]
+// 　ふくが[wait]
+
+[wait]
+
+// だいなしじゃ[br]
+// ないの！』[wait]
+
+[wait]
+
+// [cd][ce]<$01>[cf]<$08>
+
+[rightbox]
+// ふ、ふじみか[br]
+// こいつは・・・[wait]
+
+[wait]
+
+// [ce]<$01>[cf]<$01>
+
+[leftbox]
+// 『きがえを[br]
+// 　もってきて[br]
+// 　よかったわ。[wait]
+
+[wait]
+
+// じらいは[br]
+// ８つだから、[wait]
+
+[wait]
+
+// ここから[br]
+// きたには[br]
+// ないはずね』[wait]
+
+[wait]
+
+// カツカツ・・・[wait]
+
+[wait]
+
+// [cd][ce]<$01>
+
+[rightbox]
+// あ、[br]
+// ばくはつ[br]
+// しない。[wait]
+
+[wait]
+
+[leftbox]
+// 『おほほほほ！[br]
+// 　こんなワナに[wait]
+
+[wait]
+
+// この　あたしが[br]
+// ひっかかると[br]
+// おもって？』[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$08>
+
+[rightbox]
+// ハァ・・・[wait]
+
+[wait]
+
+[leftbox]
+// 『っていってる[br]
+// ばあいじゃない[br]
+// わね。[wait]
+
+[wait]
+
+// さっさと[br]
+// きがえて[wait]
+
+[wait]
+
+// サタンさまに[br]
+// あいましょ』[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// あ、[br]
+// おとが[br]
+// しなくなった。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15CD9, 14, 2)
+
+// つるっ。[br]
+// すべるぅぅ！！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15CE7, 31, 2)
+
+// [ce]<$08>[cf]<$07>
+
+[leftbox]
+// つるっ。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// うわあああ！[br]
+// す、[br]
+// すべるぅぅ！！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15D06, 21, 2)
+
+// きりで[br]
+// ぜんぜん[br]
+// みえないよぉ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15D1B, 30, 2)
+
+[leftbox]
+// ふるぼけた[br]
+// まどうしょが[br]
+// はいっている。[wait]
+
+[wait]
+
+[rightbox]
+// よんでみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15D39, 87, 2)
+
+[leftbox]
+// ほこりを[br]
+// とりのぞいて[br]
+// よんでみた。[wait]
+
+[wait]
+
+// 『じゅもんを[br]
+// かけられた[wait]
+
+[wait]
+
+// ぶったいの[br]
+// くうかんを[br]
+// ひずませ、[wait]
+
+[wait]
+
+// じかんを[br]
+// こうそくに[br]
+// すすませる。[wait]
+
+[wait]
+
+// そのなも[br]
+// ばよばよ』[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15D90, 21, 2)
+
+// ばよばよの[br]
+// まほうを[br]
+// おぼえた！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15DA5, 53, 2)
+
+[leftbox]
+// ずたずたに[br]
+// さかれた[wait]
+
+[wait]
+
+// ドレスの[br]
+// きれはしが[br]
+// おちている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// これ、[br]
+// ルルーの[br]
+// ふくかなぁ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15DDA, 59, 2)
+
+[leftbox]
+// ゆかに[br]
+// おおきな[wait]
+
+[wait]
+
+// あなぼこが[br]
+// あいている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// これ、じらいの[br]
+// あとかなぁ。[wait]
+
+[wait]
+
+// すさまじい[br]
+// いりょくだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15E15, 46, 2)
+
+[leftbox]
+// ゆかに[br]
+// スコップが[br]
+// うまっている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// なんで[br]
+// こんなところに[br]
+// スコップが？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15E43, 55, 2)
+
+[leftbox]
+// ゆかに[br]
+// スコップが[br]
+// うまっている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ルルーが[br]
+// じらいを[br]
+// うめるために[wait]
+
+[wait]
+
+// つかった[br]
+// みたいだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15E7A, 28, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『きりに[br]
+// ちゅうい』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15E96, 66, 2)
+
+[leftbox]
+// ゆかに[br]
+// シェゾが[br]
+// おちている。[wait]
+
+[wait]
+
+// [cd][ce]<$00>
+
+[rightbox]
+// あれ？[br]
+// これは・・・？[wait]
+
+[wait]
+
+[leftbox]
+// シェゾの[br]
+// みぎてに[wait]
+
+[wait]
+
+// イヤリングを[br]
+// みつけた。[wait]
+
+[wait]
+
+[rightbox]
+// とる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15ED8, 22, 2)
+
+// とっても[br]
+// たかそうな[br]
+// イヤリングだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15EEE, 13, 2)
+
+// こわいから[br]
+// やーめた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15EFB, 334, 2)
+
+// かべの[br]
+// むこうから[br]
+// こえがする。[wait]
+
+[wait]
+
+[leftbox]
+// 『おまえの[br]
+// 　ちからが[br]
+// 　ほしい！』[wait]
+
+[wait]
+
+// 『おほほほほ！[br]
+// 　あなたも[br]
+// 　あたしの[wait]
+
+[wait]
+
+// びぼうに[br]
+// ほれたのね』[wait]
+
+[wait]
+
+// 『だれも[br]
+// そんなこと[br]
+// いっとらん！』[wait]
+
+[wait]
+
+// 『でも、[br]
+// 　あたしには[wait]
+
+[wait]
+
+// すばらしい[br]
+// フィアンセが[br]
+// いるの。[wait]
+
+[wait]
+
+// だから[br]
+// あきらめて』[wait]
+
+[wait]
+
+// 『なにをわけの[br]
+// わからんことを[br]
+// いっている！[wait]
+
+[wait]
+
+// おれは[br]
+// ちからが[br]
+// ほしいのだ！』[wait]
+
+[wait]
+
+// 『ちょっと！[br]
+// てを[br]
+// さわらないで！[wait]
+
+[wait]
+
+// いやだったら！[br]
+// もー、[br]
+// しつこいわね！[wait]
+
+[wait]
+
+// いいかげんに[br]
+// してよっ！！』[wait]
+
+[wait]
+
+// 『なにっ！？』[wait]
+
+[wait]
+
+// 『とりゃー！！[br]
+// ひっさつ、[br]
+// せおいなげ！』[cc]<$29>[wait]
+
+[wait]
+
+[leftbox]
+// 『ぐぐぐ、[br]
+// 　むねんっ！』[c9]<$3C>[cc]<$3F>[wait]
+
+[wait]
+
+// 『おほほほほ！[br]
+// よわいおとこは[br]
+// きらいなの。[wait]
+
+[wait]
+
+// バイバイ』[br]
+// カツカツカツ[br]
+// ・・・・・[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16049, 45, 2)
+
+// [cc]<$40>
+
+[leftbox]
+// カチッ！[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$08>
+
+[rightbox]
+// え？[wait]
+
+[wait]
+
+// [cc]<$3B>
+
+[leftbox]
+// ドッカーーーー[br]
+// ーーーーーーー[br]
+// ーーーーン！！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1607F, 40, 2)
+
+[leftbox]
+// じらいが[br]
+// ばくはつして、[br]
+// ゆかに[wait]
+
+[wait]
+
+// おおきな[br]
+// あなぼこが[br]
+// あいた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x160A7, 24, 2)
+
+// [ce]<$08>[cf]<$07>
+
+[rightbox]
+// わわわっ！[br]
+// めが[br]
+// まわるぅ！[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16076, 9, 2)
+
+// ひえええええ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x160BF, 29, 2)
+
+[leftbox]
+// かべに[br]
+// へんな　えが[br]
+// かいてある。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// なんだろ、[br]
+// これ？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x160DC, 117, 2)
+
+[leftbox]
+// フラフラの[br]
+// シェゾが[br]
+// あらわれた。[wait]
+
+[wait]
+
+// [cb]<$10>
+
+[leftbox]
+// 『や、やっと[br]
+// みつけた・・・[br]
+// ぞ・・・・・』[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$08>
+
+[rightbox]
+// 『はぁ・・・、[br]
+// あんたも[br]
+// よくやるねぇ。[wait]
+
+[wait]
+
+// あしもとが[br]
+// ふらついてるよ[br]
+// ・・・・・』[wait]
+
+[wait]
+
+[leftbox]
+// 『こんどという[br]
+// こんどこそ、[br]
+// かならず！』[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16151, 60, 2)
+
+// [cc]<$3F>[ce]<$01>[cf]<$08>
+
+[rightbox]
+// あ、[br]
+// たおれた。[wait]
+
+[wait]
+
+// つんつん・・・[wait]
+
+[wait]
+
+[leftbox]
+// シェゾは[br]
+// うごかない。[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$07>
+
+[rightbox]
+// だめだ、[br]
+// こりゃあ。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1618D, 39, 2)
+
+[leftbox]
+// あかいろの[br]
+// ほうせきが[wait]
+
+[wait]
+
+// ちゅうで[br]
+// クルクルと[br]
+// まわっている。[wait]
+
+[wait]
+
+[rightbox]
+// とる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x161B4, 154, 2)
+
+[leftbox]
+// 『わたしゃ[br]
+// 　ピグラ。[br]
+// 　かねくれ』[wait]
+
+[wait]
+
+// [cd][ce]<$07>[cf]<$05>
+
+[rightbox]
+// 『ちょっと、[br]
+// 　いきなり[br]
+// 　なによ』[wait]
+
+[wait]
+
+[leftbox]
+// 『わたしゃ、[br]
+// すごい　つえを[br]
+// つくれる』[wait]
+
+[wait]
+
+// [cd][ce]<$07>
+
+[rightbox]
+// 『ほんとに？』[wait]
+
+[wait]
+
+[leftbox]
+// 『ほんと。[wait]
+
+[wait]
+
+// そのなも[br]
+// グレート[br]
+// スタッフ。[wait]
+
+[wait]
+
+// すごいすごい。[wait]
+
+[wait]
+
+// まえ金で[br]
+// １００００。[wait]
+
+[wait]
+
+// かんせいしたら[br]
+// 金１００００[br]
+// くれ』[wait]
+
+[wait]
+
+[rightbox]
+// はらう？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1624E, 40, 2)
+
+// [c9]<$7D>
+
+[leftbox]
+// 『１０じかん[br]
+// ぐらいで[br]
+// かんせいする。[wait]
+
+[wait]
+
+// そのとき[br]
+// きてくれ』[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16276, 22, 2)
+
+[leftbox]
+// 『びんぼうにん[br]
+// 　きらい』[c9]<$7D>[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1628C, 23, 2)
+
+[leftbox]
+// 『そうか。[br]
+// 　そりゃ[br]
+// 　ざんねん』[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x162A3, 74, 2)
+
+// [ce]<$08>[cf]<$07>
+
+[rightbox]
+// あっ！[br]
+// ピグラが[br]
+// いない！？[wait]
+
+[wait]
+
+// [ce]<$08>あああああっ！[br]
+// サギだあああ！[wait]
+
+[wait]
+
+// [ce]<$07>[cf]<$07>
+
+[rightbox]
+// お金だけとって[br]
+// どっかに[br]
+// にげたっ！！[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x162ED, 23, 2)
+
+[leftbox]
+// ゆかに[br]
+// おなが[br]
+// あいている。[wait]
+
+[wait]
+
+[rightbox]
+// おりる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16304, 6, 2)
+
+// えいっ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1630A, 28, 2)
+
+// [cf]<$06>
+
+[rightbox]
+// いたたたた・・[wait]
+
+[wait]
+
+// おしりから[br]
+// おちちゃった。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16326, 25, 2)
+
+// [ce]<$00>
+
+[rightbox]
+// ん？[br]
+// ここの　ゆか、[br]
+// ぐらぐらする。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1633F, 19, 2)
+
+// かべに[br]
+// スイッチが[br]
+// うまっている。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16352, 26, 2)
+
+[leftbox]
+// スイッチは[br]
+// オフに[br]
+// なっている。[wait]
+
+[wait]
+
+[rightbox]
+// オンにする？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1636C, 12, 2)
+
+// スイッチを[br]
+// おした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16378, 26, 2)
+
+// [ce]<$03>[cf]<$05>
+
+[rightbox]
+// ワナかも[br]
+// しれないから[br]
+// やーめた。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16392, 19, 2)
+
+[leftbox]
+// スイッチは[br]
+// オンに[br]
+// なっている。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x163A5, 66, 2)
+
+[leftbox]
+// にしの　かべに[br]
+// ひとが[wait]
+
+[wait]
+
+// めりこんだ[br]
+// あとが[br]
+// ついている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// かべが[br]
+// へこんでる。[wait]
+
+[wait]
+
+// なんの[br]
+// あとなんだろ、[br]
+// これ？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x163E7, 22, 2)
+
+[leftbox]
+// かべに[br]
+// せんぷうきが[br]
+// うまっている。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x163FD, 64, 2)
+
+// [ce]<$00>
+
+[rightbox]
+// なんで[br]
+// せんぷうきが？[wait]
+
+[wait]
+
+// [d1]<$0E>[cc]<$41>
+
+[leftbox]
+// いきなり[br]
+// せんぷうきが[br]
+// まわりだした。[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$06>
+
+[rightbox]
+// げげげっ！！[c9]<$18>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x15481, 25, 2)
+
+// イタイッ！！[wait]
+
+[wait]
+
+// ほほに[br]
+// かすって[br]
+// しまった。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1643D, 45, 2)
+
+// [cf]<$06>
+
+[rightbox]
+// あいたたた・・[br]
+// ・・・[wait]
+
+[wait]
+
+// ここの[br]
+// へこみは[br]
+// こういうこと[wait]
+
+[wait]
+
+// だったのか・・[br]
+// ・・・[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1646A, 57, 2)
+
+// なんだろ、[br]
+// これ。[wait]
+
+[wait]
+
+// [d1]<$0E>[cc]<$41>
+
+[leftbox]
+// いきなり[br]
+// せんぷうきが[br]
+// まわりだした。[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$06>
+
+[rightbox]
+// げげげっ！！[c9]<$18>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x164A3, 58, 2)
+
+// [cf]<$06>せなかが[br]
+// いたいよぉ・・[br]
+// ・・・[wait]
+
+[wait]
+
+// あれは[br]
+// ワナみたい[br]
+// だから、[wait]
+
+[wait]
+
+// もう[br]
+// いかないほうが[br]
+// いいみたいだ。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x164DD, 28, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『み・・・[br]
+// 　み・・・』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x164F9, 22, 2)
+
+// [ce]<$08>[cf]<$07>
+
+[leftbox]
+// ゴロゴロ[br]
+// ドッカーン！！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1650F, 53, 2)
+
+// [ce]<$06>[cf]<$07>
+
+[leftbox]
+// ビリビリビリ！[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ししし[br]
+// しびれるぅ。[wait]
+
+[wait]
+
+// こここ[br]
+// このままじゃ[br]
+// とおれないぃ。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16544, 31, 2)
+
+// [cd][ce]<$03>[cf]<$02>
+
+[rightbox]
+// ふふふん！[br]
+// ぜんぜん[br]
+// しびれないよ。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16563, 205, 2)
+
+[leftbox]
+// ヨロヨロの[br]
+// シェゾが[br]
+// あらわれた。[wait]
+
+[wait]
+
+// [cd][ce]<$00>
+
+[rightbox]
+// 『あれ？[br]
+// 　さっき[br]
+// 　みたのは？』[wait]
+
+[wait]
+
+[leftbox]
+// 『あ、[br]
+// 　あれは・・・[wait]
+
+[wait]
+
+// ぶ、ぶんしんの[br]
+// まほうだ！[wait]
+
+[wait]
+
+// おまえを[br]
+// ゆだんさせる[br]
+// ためにな！』[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$05>
+
+[rightbox]
+// 『ほんとかなぁ[br]
+// 　・・・・・』[wait]
+
+[wait]
+
+[leftbox]
+// 『そんなことは[br]
+// どうでもいい！[wait]
+
+[wait]
+
+// こんどこそ[br]
+// ちからを[br]
+// もらうぞ！』[wait]
+
+[wait]
+
+// [cd][ce]<$03>[cf]<$07>
+
+[rightbox]
+// 『はいはい、[br]
+// どうぞどうぞ。[wait]
+
+[wait]
+
+// [ce]<$0C>[cf]<$02>
+
+[rightbox]
+// なんどやっても[br]
+// おなじと[br]
+// おもうけどね』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16630, 19, 2)
+
+[leftbox]
+// ゆかに[br]
+// ちいさい[br]
+// あながある。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16643, 13, 2)
+
+// きれいに[br]
+// ひかってる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16650, 39, 2)
+
+[leftbox]
+// ３つの　いしが[br]
+// かがやきだし、[wait]
+
+[wait]
+
+// ひかりは[br]
+// いってんに[br]
+// あつまった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16677, 61, 2)
+
+[leftbox]
+// ゴゴゴゴゴゴゴ[br]
+// ゴゴゴゴゴゴゴ[br]
+// ゴゴゴゴゴ！！[wait]
+
+[wait]
+
+// まほうじんが[br]
+// あらわれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x166B4, 26, 2)
+
+[leftbox]
+// あかいろの[br]
+// ほうせきが[br]
+// おちている。[wait]
+
+[wait]
+
+[rightbox]
+// とる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x166CE, 26, 2)
+
+[leftbox]
+// あおいろの[br]
+// ほうせきが[br]
+// おちている。[wait]
+
+[wait]
+
+[rightbox]
+// とる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x166E8, 25, 2)
+
+[leftbox]
+// きいろの[br]
+// ほうせきが[br]
+// おちている。[wait]
+
+[wait]
+
+[rightbox]
+// とる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16701, 23, 2)
+
+// わわわっ！[br]
+// からだが[br]
+// ひずむぅー！！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16718, 32, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『み・・・[br]
+// 　・・・・・[br]
+// 　て・・・』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16738, 55, 2)
+
+// とびらに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『ほうびとして[br]
+// 　よいものを[br]
+// 　やろう。[wait]
+
+[wait]
+
+// はいってみるが[br]
+// よい』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1676F, 35, 2)
+
+// とびらに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『さきへ[br]
+// いそぐがよい』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16792, 35, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『ひ・・・[br]
+// 　・・り・・・[br]
+// 　て・・・』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x167B5, 36, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『み・・・・・[br]
+// 　・・・あ・・[br]
+// 　・し・・・』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x167D9, 39, 2)
+
+// かべに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『・・だ・・・[br]
+// り・・・あ・・[br]
+// 　・し・・・』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16800, 27, 2)
+
+[leftbox]
+// かべに[br]
+// ボタンが[br]
+// うまっている。[wait]
+
+[wait]
+
+[rightbox]
+// おしてみる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1681B, 94, 2)
+
+[leftbox]
+// 『いまから[br]
+// ちか[br]
+// １００かいまで[wait]
+
+[wait]
+
+// ちょう[br]
+// こうそくで[br]
+// まいりまーす。[wait]
+
+[wait]
+
+// すこし[br]
+// ゆれますので、[wait]
+
+[wait]
+
+// おきをつけて[br]
+// くださぁーい』[wait]
+
+[wait]
+
+// [cb]<$63>
+
+[leftbox]
+// ヒューーーーー[br]
+// ーーーーーーー[br]
+// ーーーーーーー[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16879, 24, 2)
+
+// [ce]<$08>[cf]<$07>
+
+[rightbox]
+// あわわわわ！[br]
+// な、なに[br]
+// これーっ！！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16891, 54, 2)
+
+// [ce]<$00>[cc]<$46>
+
+[leftbox]
+// チーン！[wait]
+
+[wait]
+
+[leftbox]
+// 『ちか[br]
+// 　１００かい[br]
+// 　でぇーす。[wait]
+
+[wait]
+
+// またの[br]
+// ごりよう[wait]
+
+[wait]
+
+// おねがい[br]
+// しまぁーす』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x168C7, 38, 2)
+
+// カギが[br]
+// かかってて[br]
+// あかないや。[wait]
+
+[wait]
+
+// べつのカギが[br]
+// いるのかなぁ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1694B, 51, 2)
+
+[leftbox]
+// かべに[br]
+// ちいさな[br]
+// くぼみがある。[wait]
+
+[wait]
+
+// そのなかには[br]
+// くろいカギが[br]
+// おいてある。[wait]
+
+[wait]
+
+[rightbox]
+// カギをとる？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1697E, 12, 2)
+
+// くろいカギを[br]
+// てにいれた[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1698A, 25, 2)
+
+// [cc]<$47>
+
+[rightbox]
+// ひだりから[br]
+// へんなおとが[br]
+// きこえた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x169A3, 25, 2)
+
+[leftbox]
+// くぼみのなかに[br]
+// らっきょが[br]
+// おいてある。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x169BC, 30, 2)
+
+[leftbox]
+// かべに[br]
+// ちいさな[br]
+// くぼみがある。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// カギをかえす？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x169DA, 20, 2)
+
+// くろいカギを[br]
+// くぼみに[br]
+// おいた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x169EE, 20, 2)
+
+// [ce]<$03>[cf]<$05>
+
+[rightbox]
+// やだ。[br]
+// かえさない。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16A02, 18, 2)
+
+// らっきょを[br]
+// くぼみに[br]
+// おいた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16A14, 18, 2)
+
+// むこうに[br]
+// ボタンが[br]
+// みえる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16A26, 37, 2)
+
+[leftbox]
+// 『かぜを[br]
+// 　ひいたから[br]
+// 　さむいぃ』[wait]
+
+[wait]
+
+// ラミアが[br]
+// こごえている。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16A4B, 44, 2)
+
+[leftbox]
+// 『クシュン！[br]
+// 　さむいじゃ[br]
+// 　ないの！！』[wait]
+
+[wait]
+
+// ラミアが[br]
+// おこって[br]
+// おそってきた！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16A77, 22, 2)
+
+[leftbox]
+// 『なかなか[br]
+// やさしい[br]
+// むすめだねぇ』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16A8D, 41, 2)
+
+[leftbox]
+// 『なかなか[br]
+// やさしい[br]
+// むすめだねぇ。[wait]
+
+[wait]
+
+// おれいに[br]
+// この　つえを[br]
+// あげるわ』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16AB6, 11, 2)
+
+[leftbox]
+// 『ありがとね』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16AC1, 21, 2)
+
+[leftbox]
+// ゆかに[br]
+// アイテムが[br]
+// おちている。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16AD6, 119, 2)
+
+[leftbox]
+// おとしあなが[br]
+// おおきなくちを[br]
+// あけている。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// さっき、[br]
+// だれか　ここに[br]
+// おちたみたい。[wait]
+
+[wait]
+
+// ふかさは[br]
+// どれくらい[br]
+// あるのかなぁ。[wait]
+
+[wait]
+
+// この[br]
+// こいしでも[br]
+// おとしてみよ。[wait]
+
+[wait]
+
+// ポイッ。[wait]
+
+[wait]
+
+// [cc]<$48>
+
+[leftbox]
+// ヒューーーーー[br]
+// ーーーーーーー[br]
+// ーーーーーーー[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16B4D, 321, 2)
+
+// [cc]<$49>
+
+[leftbox]
+// コン！[wait]
+
+[wait]
+
+// [cd][ce]<$01>[cf]<$07>
+
+[rightbox]
+// うっひゃー。[wait]
+
+[wait]
+
+// こんな[br]
+// ふかいところに[br]
+// おちたら[wait]
+
+[wait]
+
+// かすりきず[br]
+// どころじゃ[br]
+// すまないよ。[wait]
+
+[wait]
+
+// [ce]<$05>[cf]<$08>
+
+[rightbox]
+// おちたひと、[br]
+// かわいそうに[br]
+// ・・・[wait]
+
+[wait]
+
+// [ce]<$03>[cf]<$08>
+
+[rightbox]
+// なんまいだぶ、[br]
+// なんまいだぶ[br]
+// ・・・・・[wait]
+
+[wait]
+
+[leftbox]
+// 『だれよっ！[br]
+// いしを[br]
+// なげたのは！！[wait]
+
+[wait]
+
+// ケガするじゃ[br]
+// ないのっ！！』[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$07>
+
+[rightbox]
+// げげげっ！[br]
+// にんげんか[br]
+// このひとは！？[c9]<$18>[wait]
+
+[wait]
+
+[leftbox]
+// 『こんな[br]
+// 　ろうやに[br]
+// 　あたしを[wait]
+
+[wait]
+
+// とじこめた[br]
+// つもり？[br]
+// あまいわね。[wait]
+
+[wait]
+
+// うおりゃあ！！[wait]
+
+[wait]
+
+// [cc]<$3B>
+
+[leftbox]
+// ドゴォオオオオ[br]
+// オオオオオン！[br]
+// パラパラ・・・[wait]
+
+[wait]
+
+// ざっと[br]
+// こんなものね。[wait]
+
+[wait]
+
+// さ、はやく[br]
+// サタンさまに[br]
+// あわなくちゃ！[wait]
+
+[wait]
+
+// カツカツカツ[br]
+// ・・・・・[wait]
+
+[wait]
+
+// [cd][ce]<$08>
+
+[rightbox]
+// す、[br]
+// すごすぎる・・[br]
+// ・・・[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16C8E, 17, 2)
+
+// もう[br]
+// したには[br]
+// いないみたい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16C9F, 37, 2)
+
+[leftbox]
+// ぼろぼろ・・・[wait]
+
+[wait]
+
+// かべが[br]
+// くずれて[wait]
+
+[wait]
+
+// へんな[br]
+// いきものが[br]
+// でてきた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16CC4, 127, 2)
+
+[leftbox]
+// 『これはっ！？[br]
+// ししし、[br]
+// しまったぁ！！[wait]
+
+[wait]
+
+// [cc]<$48>
+
+[leftbox]
+// きゃーーーーー[br]
+// ーーーーーーー[br]
+// ーーーーっ！！[wait]
+
+[wait]
+
+// ここまで[br]
+// きたのに[wait]
+
+[wait]
+
+// こんな[br]
+// おとしあなに[wait]
+
+[wait]
+
+// ひっかかる[br]
+// なんてぇーーー[br]
+// ーーーっ！！』[wait]
+
+[wait]
+
+// [cc]<$4B>
+
+[leftbox]
+// じょせいの[br]
+// ひめいが[wait]
+
+[wait]
+
+// きたのほうから[br]
+// きこえた。[wait]
+
+[wait]
+
+// [cd][ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16D63, 93, 2)
+
+[leftbox]
+// 『いまから[br]
+// ちか[br]
+// １０かいまで[wait]
+
+[wait]
+
+// ちょう[br]
+// こうそくで[br]
+// まいりまーす。[wait]
+
+[wait]
+
+// すこし[br]
+// ゆれますので、[wait]
+
+[wait]
+
+// おきをつけて[br]
+// くださぁーい』[wait]
+
+[wait]
+
+// [cb]<$57>
+
+[leftbox]
+// ヒューーーーー[br]
+// ーーーーーーー[br]
+// ーーーーーーー[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16DC0, 51, 2)
+
+// [cc]<$46>
+
+[leftbox]
+// チーン！[wait]
+
+[wait]
+
+[leftbox]
+// 『ちか[br]
+// 　１０かい[br]
+// 　でぇーす。[wait]
+
+[wait]
+
+// またの[br]
+// ごりよう[wait]
+
+[wait]
+
+// おねがい[br]
+// しまぁーす』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16DF3, 18, 2)
+
+// [ce]<$03>[cf]<$05>
+
+[rightbox]
+// おすの[br]
+// やーめた。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16E05, 795, 2)
+
+[leftbox]
+// おとこは[br]
+// コーヒーを[br]
+// のみほして、[wait]
+
+[wait]
+
+// ゆっくりと[br]
+// アルルに[br]
+// ちかづいた。[wait]
+
+[wait]
+
+// [cd][d1]<$0A>[d1]<$03>[d1]<$0D>[d1]<$1F>[d1]<$21>[ce]<$00>
+
+[rightbox]
+// 『あ、[br]
+// 　あの・・・』[wait]
+
+[wait]
+
+// [d1]<$1D>[d1]<$22>
+
+[leftbox]
+// 『ほぅ。[wait]
+
+[wait]
+
+// わたしの[br]
+// しかけた[br]
+// わなをぬけて、[wait]
+
+[wait]
+
+// ここまで[br]
+// これるとはな。[wait]
+
+[wait]
+
+// きさきとなるに[br]
+// ふさわしい』[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$07>
+
+[rightbox]
+// 『な！？』[wait]
+
+[wait]
+
+[leftbox]
+// 『はずかしがる[br]
+// 　ことはない。[wait]
+
+[wait]
+
+// そのうち[br]
+// わたしの[br]
+// みりょくに[wait]
+
+[wait]
+
+// きがついて、[br]
+// はなれられない[br]
+// ようになる』[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// 『よ、[br]
+// よるなぁーーー[br]
+// ーーーっ！！』[wait]
+
+[wait]
+
+// [d1]<$1E>[d1]<$21>
+
+[leftbox]
+// 『さあ、[br]
+// 　あつき[br]
+// 　くちづけを[wait]
+
+[wait]
+
+// かわそうでは[br]
+// ないか』[wait]
+
+[wait]
+
+// [cd][d1]<$01>[cc]<$58>
+
+[rightbox]
+// 『ちょっと[br]
+// まったああああ[br]
+// あああ！！！』[wait]
+
+[wait]
+
+// [d1]<$1D>[d1]<$24>
+
+[leftbox]
+// 『だれだ！？』[wait]
+
+[wait]
+
+// [cd][d1]<$05>
+
+[rightbox]
+// 『そいつから[br]
+// 　はなれろ！』[wait]
+
+[wait]
+
+// [d1]<$02>[ce]<$08>[cf]<$01>
+
+[rightbox]
+// シェゾっ！？[br]
+// たすけにきて[br]
+// くれたんだ！[wait]
+
+[wait]
+
+// [d1]<$05>[d1]<$16>[d1]<$19>
+
+[rightbox]
+// 『その[br]
+// 　むすめは[wait]
+
+[wait]
+
+// おれが[br]
+// さきに[br]
+// みつけたのだ。[wait]
+
+[wait]
+
+// [d1]<$17>[d1]<$2E>[d1]<$16>
+
+[rightbox]
+// きさまの[br]
+// すきには[br]
+// させん！』[wait]
+
+[wait]
+
+// [d1]<$02>[ce]<$05>[cf]<$07>
+
+[rightbox]
+// ・・・・・[br]
+// きたいした[br]
+// ぼくが[wait]
+
+[wait]
+
+// バカだった。[br]
+// とほほ・・・[wait]
+
+[wait]
+
+// [d1]<$1F>[d1]<$22>
+
+[leftbox]
+// 『なにを[br]
+// たわけたことを[br]
+// いっている。[wait]
+
+[wait]
+
+// この　むすめは[br]
+// みずからの[br]
+// いしで[wait]
+
+[wait]
+
+// わたしに[br]
+// あいに[br]
+// きたのだ。[wait]
+
+[wait]
+
+// おぬしの[br]
+// でるまくでは[br]
+// ない』[wait]
+
+[wait]
+
+// [cd][d1]<$1D>[d1]<$21>[d1]<$05>[d1]<$16>[d1]<$18>
+
+[rightbox]
+// 『そこまで[br]
+// 　いうのなら、[wait]
+
+[wait]
+
+// ほんにんに[br]
+// きめてもらおう[br]
+// ではないか！』[wait]
+
+[wait]
+
+// [d1]<$1F>[d1]<$21>
+
+[leftbox]
+// 『フム、[br]
+// 　よかろう』[wait]
+
+[wait]
+
+// [d1]<$02>
+
+[leftbox]
+// 『むすめよ、[br]
+// どちらにするか[br]
+// きめるがよい』[wait]
+
+[wait]
+
+// [d1]<$04>[d1]<$0F>[d1]<$14>
+
+[leftbox]
+// 『おれの[br]
+// 　ところへ[br]
+// 　こい！』[wait]
+
+[wait]
+
+// [d1]<$03>[d1]<$1D>[d1]<$22>
+
+[leftbox]
+// 『さぁ、[br]
+// わたしのもとへ[br]
+// くるのだ』[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$07>
+
+[rightbox]
+// とほほ・・・・[br]
+// ・・・・・・・[br]
+// ・・・・・・・[wait]
+
+[wait]
+
+// [ce]<$06>[cf]<$07>
+
+[rightbox]
+// うぇぇ、[br]
+// どっちも[br]
+// イヤだぁ！！[wait]
+
+[wait]
+
+// [d1]<$04>[d1]<$0F>[d1]<$11>
+
+[leftbox]
+// 『おそいっ！！[wait]
+
+[wait]
+
+// はやく[br]
+// きめねば、[wait]
+
+[wait]
+
+// はんぶんずつに[br]
+// きりさくぞ！』[wait]
+
+[wait]
+
+// [cd][ce]<$05>[cf]<$07>
+
+[rightbox]
+// そ、そんなぁ。[br]
+// とほほ・・・[wait]
+
+[wait]
+
+// きゅうきょくの[br]
+// せんたくだよ[br]
+// これは・・・[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17120, 14, 2)
+
+// [d1]<$02>[d1]<$04>
+
+[rightbox]
+// シェゾにする？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1712E, 655, 2)
+
+// [d1]<$03>[d1]<$1D>[d1]<$24>
+
+[leftbox]
+// 『！！！！！[wait]
+
+[wait]
+
+// わたしより、[br]
+// こやつのほうが[br]
+// いいのか！？』[wait]
+
+[wait]
+
+// [cd][d1]<$05>[d1]<$16>[d1]<$1B>
+
+[rightbox]
+// 『ハハハハハ、[br]
+// 　だろうな。[wait]
+
+[wait]
+
+// [d1]<$16>[d1]<$17>
+
+[rightbox]
+// あんな[br]
+// オッサンなら[wait]
+
+[wait]
+
+// だれだって[br]
+// いやだろうよ』[wait]
+
+[wait]
+
+// [d1]<$1F>[d1]<$25>[d1]<$26>
+
+[leftbox]
+// ぴくっ[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// 『まぁ、[br]
+// オッサンなんか[wait]
+
+[wait]
+
+// はなっから[br]
+// あいてじゃ[br]
+// ないし』[wait]
+
+[wait]
+
+[leftbox]
+// ぴくぴくっ[wait]
+
+[wait]
+
+// [cd][d1]<$16>
+
+[rightbox]
+// 『わかく[br]
+// みせてるだけで[wait]
+
+[wait]
+
+// じつは[br]
+// ジジイじゃ[br]
+// ないのか？』[wait]
+
+[wait]
+
+[leftbox]
+// ぴくぴくぴくっ[wait]
+
+[wait]
+
+// [cd][d1]<$17>
+
+[rightbox]
+// 『さぁ、[br]
+// じじいは[br]
+// ほおっておいて[wait]
+
+[wait]
+
+// おれと[br]
+// いっしょに[br]
+// こい』[wait]
+
+[wait]
+
+// [d1]<$20>[d1]<$24>
+
+[leftbox]
+// 『まぁああああ[br]
+// てぇえええ！！[wait]
+
+[wait]
+
+// そこまで[br]
+// こけにされて[br]
+// だまっていては[wait]
+
+[wait]
+
+// サタンの　なが[br]
+// すたる！[wait]
+
+[wait]
+
+// しねえっ！[br]
+// サタン[br]
+// ブレード！！』[wait]
+
+[wait]
+
+// [cd][d1]<$16>[d1]<$18>
+
+[rightbox]
+// 『なにおっ！！[br]
+// アレイアード[br]
+// スペシャル！』[c9]<$37>[c9]<$38>[wait]
+
+[wait]
+
+// [cc]<$4E>
+
+[leftbox]
+// どどどどどどど[br]
+// がっしゃあああ[br]
+// ああああん！！[wait]
+
+[wait]
+
+// [cd][cc]<$4E>
+
+[rightbox]
+// どどどどどどど[br]
+// がっしゃあああ[br]
+// ああああん！！[wait]
+
+[wait]
+
+// [d1]<$02>[ce]<$08>[cf]<$07>
+
+[rightbox]
+// ふたりが[br]
+// たたかってる。[wait]
+
+[wait]
+
+// ひえええええ、[br]
+// すさまじいぃ。[wait]
+
+[wait]
+
+// [d1]<$05>[d1]<$16>[d1]<$19>
+
+[rightbox]
+// 『く、[br]
+// 　くそぉッ！』[wait]
+
+[wait]
+
+// [d1]<$1F>[d1]<$22>
+
+[leftbox]
+// 『すこしは[br]
+// やるようだが、[wait]
+
+[wait]
+
+// そんなちからで[br]
+// わたしに[br]
+// はむかおうなど[wait]
+
+[wait]
+
+// ひゃくおくねん[br]
+// はやいわッ。[wait]
+
+[wait]
+
+// [d1]<$1D>[d1]<$24>
+
+[leftbox]
+// サタンブレード[br]
+// だいだげきぃい[br]
+// いいい！！！』[wait]
+
+[wait]
+
+// [cd][cc]<$4F>
+
+[rightbox]
+// どっかああああ[br]
+// ああああああん[br]
+// ！！！！！！！[wait]
+
+[wait]
+
+// [d1]<$17>[d1]<$18>
+
+[rightbox]
+// 『む、[br]
+// 　むねんっ！』[c9]<$3C>[wait]
+
+[wait]
+
+// [d1]<$02>[d1]<$1F>[d1]<$21>
+
+[leftbox]
+// 『フ・・・、[wait]
+
+[wait]
+
+// これで[br]
+// じゃまものは[br]
+// いなくなった』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x173BD, 15, 2)
+
+// [d1]<$03>[d1]<$1D>[d1]<$22>
+
+[rightbox]
+// サタンにする？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x173CC, 230, 2)
+
+// [d1]<$03>[d1]<$1F>[d1]<$21>
+
+[leftbox]
+// 『フ・・・、[br]
+// 　やはりな』[wait]
+
+[wait]
+
+// [cd][d1]<$05>[d1]<$16>[d1]<$19>
+
+[rightbox]
+// 『そ、[br]
+// そんなバカな！[wait]
+
+[wait]
+
+// おのれぇ！[br]
+// おまえら[br]
+// ふたりとも[wait]
+
+[wait]
+
+// ここで[br]
+// しねっ！！』[wait]
+
+[wait]
+
+// [d1]<$1F>[d1]<$22>
+
+[leftbox]
+// 『フ・・・、[br]
+// 　おろかな。[wait]
+
+[wait]
+
+// [d1]<$1D>[d1]<$24>
+
+[leftbox]
+// サタン[br]
+// ブレード！』[wait]
+
+[wait]
+
+// [cd][cc]<$4F>
+
+[rightbox]
+// どっかああああ[br]
+// ああああああん[br]
+// ！！！！！！！[wait]
+
+[wait]
+
+// [d1]<$17>[d1]<$18>[c9]<$3C>[d1]<$01>
+
+[rightbox]
+// シェゾは[br]
+// いちげきで[br]
+// ばたんきゅー。[wait]
+
+[wait]
+
+// [d1]<$02>[d1]<$1F>[d1]<$21>
+
+[leftbox]
+// 『それでは[br]
+// 　ちぎりの[br]
+// くちづけを』[wait]
+
+[wait]
+
+// [cd][ce]<$07>[cf]<$05>
+
+[rightbox]
+// 『やだよっ！』[wait]
+
+[wait]
+
+// [d1]<$1D>[d1]<$22>
+
+[leftbox]
+// 『はずかしがる[br]
+// 　ことはない』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x174B2, 12, 2)
+
+// [d1]<$05>
+
+[rightbox]
+// どっちもイヤ？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x174BE, 298, 2)
+
+// 『なにぃー！』[wait]
+
+[wait]
+
+// [d1]<$1D>[d1]<$24>
+
+[leftbox]
+// 『そんなことは[br]
+// 　ゆるさぬ』[wait]
+
+[wait]
+
+// [cd][d1]<$16>[d1]<$18>
+
+[rightbox]
+// 『おれは[wait]
+
+[wait]
+
+// あいつの[br]
+// ちからが[br]
+// ほしいだけだ』[wait]
+
+[wait]
+
+// [d1]<$1F>[d1]<$23>
+
+[leftbox]
+// 『わたしは[wait]
+
+[wait]
+
+// むすめの[br]
+// たましいが[br]
+// あればよい』[wait]
+
+[wait]
+
+// [cd][d1]<$19>
+
+[rightbox]
+// 『なんだよ。[wait]
+
+[wait]
+
+// ほしいものは[br]
+// べつべつじゃ[br]
+// ないか』[wait]
+
+[wait]
+
+// [d1]<$1D>[d1]<$21>
+
+[leftbox]
+// 『ふむ。[wait]
+
+[wait]
+
+// それなら[br]
+// きょうりょく[br]
+// しても[wait]
+
+[wait]
+
+// そんには[br]
+// ならぬな』[wait]
+
+[wait]
+
+// [cd][d1]<$26>
+
+[rightbox]
+// 『そういう[br]
+// 　ことだ。[wait]
+
+[wait]
+
+// せぇのー！[wait]
+
+[wait]
+
+// [d1]<$18>
+
+[rightbox]
+// アレイアード[br]
+// スペシャル！』[c9]<$37>[c9]<$38>[wait]
+
+[wait]
+
+// [d1]<$1D>[d1]<$24>
+
+[leftbox]
+// 『サタン[br]
+// ブレード！！』[wait]
+
+[wait]
+
+// [cd][cc]<$4F>
+
+[rightbox]
+// どどどどっかあ[br]
+// あああああああ[br]
+// ああああん！！[wait]
+
+[wait]
+
+[rightbox]
+// さすがの[br]
+// アルルも、[br]
+// ふたりの[wait]
+
+[wait]
+
+// がったい[br]
+// こうげきには[br]
+// かなわない。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x175E8, 416, 2)
+
+// [d1]<$01>[d1]<$02>[d1]<$0A>[d1]<$03>
+
+[rightbox]
+// 『はぁはぁ[br]
+// 　はぁ・・・』[wait]
+
+[wait]
+
+// [d1]<$1D>[d1]<$22>
+
+[leftbox]
+// 『フム、[br]
+// よそう[br]
+// いじょうだな。[wait]
+
+[wait]
+
+// ますます[br]
+// きにいったぞ。[wait]
+
+[wait]
+
+// [d1]<$1E>[d1]<$21>
+
+[leftbox]
+// さぁ、[br]
+// わたしと[br]
+// ちかいの[wait]
+
+[wait]
+
+// くちづけを[br]
+// かわそう』[wait]
+
+[wait]
+
+// [cd][d1]<$1F>[ce]<$06>[cf]<$07>
+
+[rightbox]
+// 『ち、[br]
+// 　ちかよるなぁ[br]
+// 　ーーー！！』[wait]
+
+[wait]
+
+// [d1]<$1F>[d1]<$21>
+
+[leftbox]
+// 『フ、[br]
+// てれるでない』[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$07>
+
+[rightbox]
+// 『ちょ、[br]
+// 　ちょっと[br]
+// 　まって！！[wait]
+
+[wait]
+
+// そのまえに、[br]
+// ルベルクラク[br]
+// しらない？』[wait]
+
+[wait]
+
+// [d1]<$1D>[d1]<$22>
+
+[leftbox]
+// 『もちろん[br]
+// しっておるが、[wait]
+
+[wait]
+
+// それが[br]
+// どうしたと[br]
+// いうのだ』[wait]
+
+[wait]
+
+// [cd][ce]<$04>[cf]<$08>
+
+[rightbox]
+// 『じつは、[br]
+// それを　とりに[br]
+// きたんだけど』[wait]
+
+[wait]
+
+// [d1]<$20>[d1]<$24>
+
+[leftbox]
+// 『な、なにぃ！[br]
+// そんなことを[br]
+// したら[wait]
+
+[wait]
+
+// カーバンクル[br]
+// ちゃんの[br]
+// いのちが！』[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$08>
+
+[rightbox]
+// へ？[br]
+// カーバンクル？[br]
+// なんのこと？[wait]
+
+[wait]
+
+[leftbox]
+// 『ゆ、[br]
+// ゆるさぬっ！』[wait]
+
+[wait]
+
+// [cd][ce]<$08>[cf]<$07>
+
+[rightbox]
+// 『ちょ、[br]
+// ちょっと！？』[wait]
+
+[wait]
+
+// [d1]<$1C>[d1]<$2A>[d1]<$24>
+
+[leftbox]
+// 『たとえ[br]
+// わたしの[wait]
+
+[wait]
+
+// きさきで[br]
+// あろうと、[br]
+// それだけは[wait]
+
+[wait]
+
+// ぜったいに[br]
+// ゆるさなあああ[br]
+// あああい！！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17788, 39, 2)
+
+[leftbox]
+// 『あなた[br]
+// 　だれ？[wait]
+
+[wait]
+
+// はやく[br]
+// ここから[br]
+// きえないと[wait]
+
+[wait]
+
+// ゆるさない[br]
+// わよ！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x177AF, 14, 2)
+
+[leftbox]
+// 『もう[br]
+// ゆるさない！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x177BD, 99, 2)
+
+[leftbox]
+// へやの[br]
+// おくに[wait]
+
+[wait]
+
+// りりしい[br]
+// かおつきの[br]
+// おとこが[wait]
+
+[wait]
+
+// ごうかなイスに[br]
+// すわって[wait]
+
+[wait]
+
+// ゆうがに[br]
+// コーヒーを[br]
+// のんでいる。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// だれだろ[br]
+// このひと。[wait]
+
+[wait]
+
+// でも、この[br]
+// まがまがしい[br]
+// きは　なに？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17820, 116, 2)
+
+[leftbox]
+// 『あーーー。[br]
+// 　へんなひとが[br]
+// 　いるー』[wait]
+
+[wait]
+
+// 『だれだ[br]
+// 　てめぇ』[wait]
+
+[wait]
+
+// 『ここは[br]
+// 　サタンさまに[br]
+// 　ゆるされた[wait]
+
+[wait]
+
+// かただけが[br]
+// はいることの[br]
+// できる、[wait]
+
+[wait]
+
+// せいなる[br]
+// ばしょですよ。[wait]
+
+[wait]
+
+// そうそうに[br]
+// たちさらないと[br]
+// おしおきです』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17894, 64, 2)
+
+[leftbox]
+// 『あーーー。[br]
+// 　まだ[br]
+// 　いるよー』[wait]
+
+[wait]
+
+// 『いたいめに[br]
+// 　あわせて[br]
+// 　やるぜ！』[wait]
+
+[wait]
+
+// 『いうことの[br]
+// きけないひとは[br]
+// おしおきよ！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x178D4, 47, 2)
+
+// とびらに[br]
+// もじが[br]
+// かいてる。[wait]
+
+[wait]
+
+[leftbox]
+// 『おとこは[br]
+// 　たちいり[br]
+// 　きんし』[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// へんなのー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17903, 45, 2)
+
+[leftbox]
+// 『サタンさまの[br]
+// ハーレムを[br]
+// みだすやつは[wait]
+
+[wait]
+
+// ゆるさないわ！[br]
+// ここで[br]
+// しになさい！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17930, 31, 2)
+
+[leftbox]
+// 『ぶーぶー』[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// 『その　こえは[br]
+// 　ピグラ！？』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1794F, 92, 2)
+
+[leftbox]
+// 『グレート[br]
+// 　スタッフ[br]
+// 　できた。[wait]
+
+[wait]
+
+// わたす。[br]
+// 金１００００[br]
+// くれ』[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// 『金は[br]
+// 　ぜんぶ[br]
+// 　あげるから[wait]
+
+[wait]
+
+// それを[br]
+// わたして！』[wait]
+
+[wait]
+
+[leftbox]
+// 『まいどあり。[br]
+// 　また[br]
+// 　よろしく』[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x179AB, 83, 2)
+
+[rightbox]
+// グレート[br]
+// スタッフを[br]
+// うけとった。[wait]
+
+[wait]
+
+// グレート[br]
+// スタッフから[wait]
+
+[wait]
+
+// けむりのように[br]
+// まりょくが[br]
+// ふきだす。[wait]
+
+[wait]
+
+// たいりょくも[br]
+// まどうりょくも[wait]
+
+[wait]
+
+// [ce]<$00>[cf]<$01>
+
+[rightbox]
+// すべて[br]
+// かいふく[br]
+// していく！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x179FE, 152, 2)
+
+[leftbox]
+// 『グレート[br]
+// 　スタッフ[br]
+// 　できた。[wait]
+
+[wait]
+
+// わたす。[br]
+// 金１００００[br]
+// くれ』[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// 『いま[br]
+// それどころじゃ[br]
+// ないの！[wait]
+
+[wait]
+
+// とにかく[br]
+// それを[br]
+// わたして！』[wait]
+
+[wait]
+
+[leftbox]
+// 『ぶーぶー、[br]
+// 　金くれ』[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// 『いま[br]
+// 　金ないの！[wait]
+
+[wait]
+
+// あとで[br]
+// はらうから！』[wait]
+
+[wait]
+
+[leftbox]
+// 『ぶーぶー。[br]
+// 　それじゃ、[br]
+// 　わたせない。[wait]
+
+[wait]
+
+// では、また』[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17A96, 27, 2)
+
+[rightbox]
+// 『ばかぁーーー[br]
+// ーーーーーーー[br]
+// ーーーッ！！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17AB1, 10, 2)
+
+[leftbox]
+// 『ぶーぶー』[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x16D43, 32, 2)
+
+[rightbox]
+// いまの　こえ、[wait]
+
+[wait]
+
+// どっかで[br]
+// きいたことが[br]
+// あるなぁ・・・[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17ABB, 23, 2)
+
+// [cc]<$39>
+
+[leftbox]
+// にしの　ほうで[br]
+// おとがした。[wait]
+
+[wait]
+
+// [ce]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17AD2, 45, 2)
+
+[leftbox]
+// てんじょうから[br]
+// ゾウが[br]
+// おちてきた。[wait]
+
+[wait]
+
+// まもののうえに[br]
+// おちる。[br]
+// ムギュゥゥゥ。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17AFF, 22, 2)
+
+[leftbox]
+// ゾウは[br]
+// あしばやに[br]
+// にげてった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17B15, 75, 2)
+
+[leftbox]
+// とどとどーん！[br]
+// トドのぐんだん[br]
+// はしってくる。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// わわわっ！[wait]
+
+[wait]
+
+[leftbox]
+// とどとどとどと[br]
+// どとどとどとど[br]
+// とどとどとどど[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17B60, 31, 2)
+
+[leftbox]
+// とどとどーん！[br]
+// トドのぐんだん[br]
+// にげてった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17B7F, 34, 2)
+
+[leftbox]
+// しにがみが[br]
+// やってきた。[wait]
+
+[wait]
+
+// まものは[br]
+// たましいを[br]
+// ぬかれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17BA1, 48, 2)
+
+[leftbox]
+// フガーーー！！[br]
+// フランケンが[br]
+// あらわれた。[wait]
+
+[wait]
+
+// フランケンは[br]
+// まものを[br]
+// ぶんなぐった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17BD1, 51, 2)
+
+// [cd]
+
+[rightbox]
+// やったあ。[br]
+// その　ちょうし[br]
+// その・・・[wait]
+
+[wait]
+
+[leftbox]
+// フランケンは[br]
+// いきおい[br]
+// あまって[wait]
+
+[wait]
+
+// アルルに[br]
+// ぶつかった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17C04, 14, 2)
+
+[leftbox]
+// フランケンは[br]
+// きえた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17C12, 47, 2)
+
+[leftbox]
+// ハローハロー！[br]
+// サンタさんが[br]
+// あらわれた。[wait]
+
+[wait]
+
+// よいこに[br]
+// プレゼントを[br]
+// あげよう。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0x17C41, 13, 2)
+
+// りゅうのツノを[br]
+// もらった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17C4E, 17, 2)
+
+// おうごんリンゴ[br]
+// もらった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17C5F, 28, 2)
+
+[leftbox]
+// グッバイバイ。[br]
+// サンタさんは[br]
+// さっていった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17C7B, 48, 2)
+
+// ふしぎな[br]
+// あおじろい[br]
+// きりが[wait]
+
+[wait]
+
+// アルルを[br]
+// つつむ。[wait]
+
+[wait]
+
+// アルルの[br]
+// まどうりょくが[br]
+// よみがえった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17CAB, 40, 2)
+
+// ふしぎな[br]
+// きいろい[br]
+// ひかりが[wait]
+
+[wait]
+
+// アルルを[br]
+// つつむ。[wait]
+
+[wait]
+
+// バリア[br]
+// みたいだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x168ED, 94, 2)
+
+[leftbox]
+// 『いまから[br]
+// ちか[br]
+// １００かいまで[wait]
+
+[wait]
+
+// ちょう[br]
+// こうそくで[br]
+// まいりまーす。[wait]
+
+[wait]
+
+// すこし[br]
+// ゆれますので、[wait]
+
+[wait]
+
+// おきをつけて[br]
+// くださぁーい』[wait]
+
+[wait]
+
+// [cb]<$57>
+
+[leftbox]
+// ヒューーーーー[br]
+// ーーーーーーー[br]
+// ーーーーーーー[end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0x17CD3, 17, 2)
+
+// [cd]
+
+[rightbox]
+// うわぁ[br]
+// かわいぃー。[wait]
+
+[wait]
+
+// え？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17CE4, 31, 2)
+
+[leftbox]
+// リュンクスは[br]
+// さいふを[br]
+// ぬすんだ。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// し、しまった！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17D03, 59, 2)
+
+[leftbox]
+// きんいろの[br]
+// まどうしょを[br]
+// てにいれた。[wait]
+
+[wait]
+
+// まどうしょには[wait]
+
+[wait]
+
+// ひかりが[br]
+// からだを[br]
+// つつみこむ[wait]
+
+[wait]
+
+// ふしぎな[br]
+// じゅもんが[br]
+// かかれていた。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x17D3E, 22, 2)
+
+// ばよひひひーの[br]
+// まほうを[br]
+// おぼえた！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#ENDREGION(2)
+
+//===========================================================
+// Region 3
+//===========================================================
+
+#STARTREGION(3)
+
+#STARTMSG(0xEE02, 21, 2)
+
+// いっただっき[br]
+// まーす！[br]
+// ぱく。[c9]<$11>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEE17, 8, 2)
+
+// ぱく。[c9]<$11>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEE1F, 26, 2)
+
+// いっただっき[br]
+// まーす！[br]
+// ぱくぱく。[c9]<$11>[c9]<$11>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEE39, 13, 2)
+
+// ぱくぱく。[c9]<$11>[c9]<$11>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEE46, 33, 2)
+
+// いっただっき[br]
+// まーす！[br]
+// ぱくぱくぱく。[c9]<$11>[c9]<$11>[c9]<$11>[c9]<$12>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEE67, 20, 2)
+
+// ぱくぱくぱく。[c9]<$11>[c9]<$11>[c9]<$11>[c9]<$12>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEE7B, 9, 2)
+
+// ぐび。[c9]<$13>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEE84, 15, 2)
+
+// ぐびぐび。[c9]<$13>[c9]<$13>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEE93, 23, 2)
+
+// ぐびぐびぐび。[c9]<$13>[c9]<$13>[c9]<$13>[c9]<$14>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEEAA, 10, 2)
+
+// ぱく。[c9]<$11>[c9]<$12>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEEB4, 32, 2)
+
+// ぱく。[c9]<$11>[wait]
+
+[wait]
+
+// からだが[br]
+// かるくなった[br]
+// かんじがする。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEED4, 30, 2)
+
+// ぱく。[c9]<$11>[wait]
+
+[wait]
+
+// ものが　よく[br]
+// みえるように[br]
+// なってきた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEEF2, 28, 2)
+
+// ぱく。[c9]<$11>[wait]
+
+[wait]
+
+// きんにくが[br]
+// キリッと[br]
+// しまるみたい。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEF0E, 17, 2)
+
+// いま　たべても[br]
+// いみないや。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEF1F, 29, 2)
+
+// ぱく。[c9]<$11>[wait]
+
+[wait]
+
+// どくが[br]
+// きえたみたい。[br]
+// よかったぁ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEF3C, 31, 2)
+
+// 『どんぱ！』[c9]<$20>[wait]
+
+[wait]
+
+// どんぱが[br]
+// ゆかに[br]
+// くっついた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEF5B, 57, 2)
+
+// どんぱうんぱは[br]
+// さけんだ。[wait]
+
+[wait]
+
+// 『どんぱ！[br]
+// 　うんぱ！』[c9]<$20>[c9]<$21>[wait]
+
+[wait]
+
+[leftbox]
+// まものは[br]
+// あぜんと[br]
+// している。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEF94, 31, 2)
+
+// 『うんぱ！』[c9]<$21>[wait]
+
+[wait]
+
+// スゥーッと[br]
+// からだが[br]
+// かるくなる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEFB3, 42, 2)
+
+// うんぱは[br]
+// さけんだ。[wait]
+
+[wait]
+
+// 『うんぱ！』[c9]<$21>[wait]
+
+[wait]
+
+[leftbox]
+// まものは[br]
+// あぜんと[br]
+// している。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEFDD, 25, 2)
+
+// なんだか[br]
+// おにんぎょさん[br]
+// みたいだなぁ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xEFF6, 79, 2)
+
+// アルルは[br]
+// みみを[br]
+// ふさいだ。[wait]
+
+[wait]
+
+// マンドレイクが[br]
+// さけぶ！[wait]
+
+[wait]
+
+// 『きゃああああ[br]
+// ああああああ[br]
+// あああ！！』[c9]<$22>[wait]
+
+[wait]
+
+// きょうれつな[br]
+// ひめいが[br]
+// ひびきわたる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF045, 20, 2)
+
+[leftbox]
+// まものの[br]
+// うごきが[br]
+// とまった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF059, 22, 2)
+
+[leftbox]
+// まものは[br]
+// しょうきを[br]
+// とりもどした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF06F, 25, 2)
+
+[leftbox]
+// しかし、[br]
+// まものも[wait]
+
+[wait]
+
+// みみを[br]
+// ふさいでいた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF088, 23, 2)
+
+// マンドレイクは[br]
+// つかれて[br]
+// さけべない。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF09F, 31, 2)
+
+// はいを[br]
+// まいてみた。[wait]
+
+[wait]
+
+// はいが[br]
+// ひとのかたちに[br]
+// あつまる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF0BE, 20, 2)
+
+[leftbox]
+// バンパイアが[br]
+// ふっかつした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF0D2, 13, 2)
+
+// はいを[br]
+// ばらまいた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF0DF, 70, 2)
+
+[leftbox]
+// はいが[br]
+// まものを[br]
+// つつむ。[wait]
+
+[wait]
+
+// ハ・・・[br]
+// ハ・・・[br]
+// ハ・・・・・[wait]
+
+[wait]
+
+// ハーーーーーッ[br]
+// クショォォォォ[br]
+// ォォォォォン！[wait]
+
+[wait]
+
+// まものは[br]
+// くしゃみを[br]
+// している。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF125, 40, 2)
+
+// はいが[br]
+// アルルを[br]
+// つつむ。[c9]<$18>[wait]
+
+[wait]
+
+// ハクシュン！[br]
+// ハクシュン！[br]
+// ハクシュッッ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF14D, 40, 2)
+
+// ハクシュン！[br]
+// ハクシュン！[br]
+// ハクシュッッ！[wait]
+
+[wait]
+
+// アルルは[br]
+// くしゃみを[br]
+// している。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF175, 61, 2)
+
+// しろてぶくろを[br]
+// つけた。[wait]
+
+[wait]
+
+// んんんん！[wait]
+
+[wait]
+
+// つぼを[br]
+// しげきして[br]
+// きもちいぃ！[wait]
+
+[wait]
+
+// うでから[br]
+// まりょくが[br]
+// あふれでる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF1B2, 46, 2)
+
+// ビリビリッ！[wait]
+
+[wait]
+
+// しろてぶくろが[br]
+// やぶれた。[wait]
+
+[wait]
+
+// げっ。[br]
+// ちからが[br]
+// ぬけてくよぅ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF1E0, 27, 2)
+
+// [c9]<$23>
+
+[rightbox]
+// やの　さきから[br]
+// へんなこえが[br]
+// きこえるよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF1FB, 20, 2)
+
+// やを[br]
+// おもいっきり[br]
+// なげつける。[c9]<$23>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF20F, 43, 2)
+
+[leftbox]
+// グサッ！！[br]
+// あたまに[br]
+// ささる。[wait]
+
+[wait]
+
+// のうがとけて、[br]
+// あたまが[br]
+// ぷーになった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF23A, 40, 2)
+
+// ぱく。[c9]<$11>
+
+[rightbox]
+// んんん、[br]
+// おいしぃ。[wait]
+
+[wait]
+
+// いろんな[br]
+// じょうほうが[br]
+// はいってくる。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF262, 19, 2)
+
+// ぱく。[c9]<$11>
+
+[rightbox]
+// んんん、[br]
+// おいしぃ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF275, 17, 2)
+
+// 『やさしく[br]
+// あつかいなよ』[c9]<$24>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF286, 36, 2)
+
+// 『だめぇー。[br]
+// はなさなぁい』[wait]
+
+[wait]
+
+// ミホのつえが[br]
+// てから[br]
+// はなれないぃ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF2AA, 50, 2)
+
+// ミホのつえが[br]
+// さけぶ。[wait]
+
+[wait]
+
+// 『せこいぞぉ！[wait]
+
+[wait]
+
+// けいきイイのを[br]
+// いっぱつ、[br]
+// ぷわぁーっと！[c9]<$03>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF2DC, 35, 2)
+
+// 『ふぅぅぅ、[br]
+// つかれたよー』[wait]
+
+[wait]
+
+// ミホのつえが[br]
+// ためいきを[br]
+// ついた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF2FF, 24, 2)
+
+// [cc]<$56>ミホのつえが[br]
+// おとをたてて[br]
+// こわれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF317, 18, 2)
+
+// 『どぉんと[br]
+// 　いこうぜ』[c9]<$25>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF329, 37, 2)
+
+// 『だめぇー。[br]
+// はなさなぁい』[wait]
+
+[wait]
+
+// ピチのつえが[br]
+// てから[br]
+// はなれないぃ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF34E, 16, 2)
+
+[rightbox]
+// ピチのつえが[br]
+// ひかる！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF35E, 35, 2)
+
+// ピチのつえが[br]
+// さけぶ。[wait]
+
+[wait]
+
+// 『だめーっ！[wait]
+
+[wait]
+
+// こうげき[br]
+// あるのみー！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF381, 36, 2)
+
+// 『ふぅぅぅ、[br]
+// つかれたよー』[wait]
+
+[wait]
+
+// ピチのつえが[br]
+// ためいきを[br]
+// ついた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF3A5, 25, 2)
+
+// [cc]<$56>ピチのつえが[br]
+// おとをたてて[br]
+// こわれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF3BE, 16, 2)
+
+// 『いご、[br]
+// 　よろしく』[c9]<$26>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF3CE, 36, 2)
+
+// 『だめぇー。[br]
+// はなさなぁい』[wait]
+
+[wait]
+
+// ロフのつえが[br]
+// てから[br]
+// はなれないぃ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF3F2, 16, 2)
+
+// [cd]
+
+[rightbox]
+// ロフのつえが[br]
+// ひかる！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF402, 50, 2)
+
+// ロフのつえが[br]
+// さけぶ。[wait]
+
+[wait]
+
+// 『はい、[br]
+// がんばります』[c9]<$27>[wait]
+
+[wait]
+
+// まりょくが[br]
+// うでに[br]
+// あつまる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF434, 68, 2)
+
+// ロフのつえが[br]
+// さけぶ。[wait]
+
+[wait]
+
+// 『てきに[br]
+// 　せを[br]
+// 　むけるのは[wait]
+
+[wait]
+
+// ひきょうで[br]
+// ございます』[wait]
+
+[wait]
+
+// ロフのつえが[br]
+// にがして[br]
+// くれないぃ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF478, 35, 2)
+
+// 『ふぅぅぅ、[br]
+// つかれたよー』[wait]
+
+[wait]
+
+// ロフのつえが[br]
+// ためいきを[br]
+// ついた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF49B, 24, 2)
+
+// [cc]<$56>ロフのつえが[br]
+// おとをたてて[br]
+// こわれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF4B3, 6, 2)
+
+// 『・・・・・』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF4B9, 28, 2)
+
+// 『・・・・・』[wait]
+
+[wait]
+
+// パポのつえが[br]
+// てから[br]
+// はなれないぃ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF4D5, 46, 2)
+
+// 『だめぇー！』[c9]<$28>[wait]
+
+[wait]
+
+// パポのつえが[br]
+// ぐにゃりと[br]
+// しなって[wait]
+
+[wait]
+
+// けっかいを[br]
+// つくった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF503, 27, 2)
+
+// 『・・・・・』[wait]
+
+[wait]
+
+// パポのつえが[br]
+// ためいきを[br]
+// ついた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF51E, 66, 2)
+
+// 『こわれる[br]
+// 　　　のぉー』[c9]<$29>[wait]
+
+[wait]
+
+// [cc]<$56>パポのつえが[br]
+// しなると、[br]
+// たいりょくと[wait]
+
+[wait]
+
+// まどうりょくが[br]
+// かいふくした。[wait]
+
+[wait]
+
+// パポのつえが[br]
+// こわれた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF560, 12, 2)
+
+// まっかな[br]
+// いしだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF56C, 16, 2)
+
+// [d1]<$2B>
+
+[rightbox]
+// あかのいしを[br]
+// おいた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF57C, 13, 2)
+
+// これは[br]
+// つかえないよ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF589, 19, 2)
+
+// すみきった[br]
+// あおいろの[br]
+// いしだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF59C, 16, 2)
+
+// [d1]<$2C>
+
+[rightbox]
+// あおのいしを[br]
+// おいた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF5AC, 18, 2)
+
+// きいろく[br]
+// かがやく[br]
+// いしだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF5BE, 17, 2)
+
+// [d1]<$2D>
+
+[rightbox]
+// きいろのいしを[br]
+// おいた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF5CF, 21, 2)
+
+// とっても[br]
+// あやしい[br]
+// イヤリングだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF5E4, 37, 2)
+
+// イヤリングから[br]
+// けむりが[br]
+// でてきた。[wait]
+
+[wait]
+
+[leftbox]
+// けむりは[br]
+// まものを[br]
+// つつみこむ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF609, 45, 2)
+
+[leftbox]
+// まものの　めが[br]
+// ハートマークに[br]
+// かわった。[wait]
+
+[wait]
+
+// そして[br]
+// そのばで[br]
+// ねむりだした。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF636, 20, 2)
+
+[leftbox]
+// まものは[br]
+// けむりを[br]
+// はらいのけた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xF64A, 9, 2)
+
+// どうするのヨ。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF653, 16, 2)
+
+// なにをするんで[br]
+// ごわすか？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF663, 8, 2)
+
+// なにするのー。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF66B, 12, 2)
+
+// どれを[br]
+// かうのヨ？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF677, 23, 2)
+
+// どいつを[br]
+// かってくれるで[br]
+// ごわすか？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF68E, 11, 2)
+
+// なにを[br]
+// かうのー？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF699, 12, 2)
+
+// 金が[br]
+// 　　　　　ヨ？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF6A5, 19, 2)
+
+// そいつは[br]
+// 金が[br]
+// でごわすが？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF6B8, 20, 2)
+
+// 金　　　　　に[br]
+// なるのー。[br]
+// いいのー？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF6CC, 9, 2)
+
+// ありがとネ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF6D5, 16, 2)
+
+// まいどありで[br]
+// ごわす！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF6E5, 8, 2)
+
+// 金[br]
+// もらうー。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF6ED, 9, 2)
+
+// しかたないネ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF6F6, 15, 2)
+
+// ざんねんで[br]
+// ごわす！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF705, 10, 2)
+
+// ざんねんなのー[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF70F, 12, 2)
+
+// 金が[br]
+// たりないヨ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF71B, 20, 2)
+
+// 金が[br]
+// ふそくしてるで[br]
+// ごわす！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF72F, 8, 2)
+
+// 金ふそくー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF737, 9, 2)
+
+// もちすぎヨ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF740, 15, 2)
+
+// もちすぎで[br]
+// ごわす！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF74F, 9, 2)
+
+// もちすぎー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF758, 8, 2)
+
+// うりきれヨ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF760, 21, 2)
+
+// うりきれで[br]
+// ごわす！[br]
+// すんません！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF775, 8, 2)
+
+// うりきれー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF77D, 11, 2)
+
+// どれを[br]
+// うるのヨ？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF788, 21, 2)
+
+// どれを[br]
+// うってくれるで[br]
+// ごわすか？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF79D, 10, 2)
+
+// なにを[br]
+// うるのー？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF7A7, 17, 2)
+
+// 金　　　　　で[br]
+// かいとるわヨ？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF7B8, 24, 2)
+
+// 金　　　　　で[br]
+// かいとるで[br]
+// ごわすが？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF7D0, 22, 2)
+
+// 金　　　　　で[br]
+// かいとるー。[br]
+// いいのー？[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF7E6, 9, 2)
+
+// 金[br]
+// はらうわヨ。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF7EF, 21, 2)
+
+// まいど！[br]
+// 金　　　　　で[br]
+// ごわす！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF804, 8, 2)
+
+// 金[br]
+// はらうー。[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF80C, 15, 2)
+
+// じゃあ[br]
+// どーするのヨ？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF81B, 15, 2)
+
+// しかたないで[br]
+// ごわす！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF82A, 10, 2)
+
+// ざんねんなのー[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF834, 13, 2)
+
+// それは[br]
+// かわないわヨ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF841, 23, 2)
+
+// すんません！[br]
+// かいとれないで[br]
+// ごわす！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF858, 11, 2)
+
+// それは[br]
+// だめー。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF863, 7, 2)
+
+// よよよ。[c9]<$1D>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF86A, 7, 2)
+
+// むほほ！[c9]<$1E>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF871, 8, 2)
+
+// もももー。[c9]<$1F>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF879, 41, 2)
+
+// ねぇ、サービス[br]
+// しちゃうから、[br]
+// ネ。[wait]
+
+[wait]
+
+// そんな[br]
+// つれないこと[br]
+// いわないでヨ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF8A2, 41, 2)
+
+// いしを[br]
+// もっているで[br]
+// ごわすか。[wait]
+
+[wait]
+
+// それは[br]
+// だいじにするで[br]
+// ごわす！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF8CB, 17, 2)
+
+// もー、[br]
+// しつこい[br]
+// きゃくー[wait]
+
+[wait]
+
+// [c9]<$1F>[end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xF8DC, 26, 2)
+
+// るいぱんこ！と[br]
+// こころのなかで[br]
+// さけんだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF8F6, 47, 2)
+
+// あたまのなかで[br]
+// なにかが[br]
+// さけぶ。[wait]
+
+[wait]
+
+// 『るいぱんこは[br]
+// いっかいだけ[br]
+// だよーん！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF925, 19, 2)
+
+// ・・・・・・・[br]
+// ・・・・・・・[br]
+// ・・・スカだ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF938, 24, 2)
+
+[leftbox]
+// ゆかに[br]
+// あなが[br]
+// できた。[wait]
+
+[wait]
+
+// 『へ？』[wait]
+
+[wait]
+
+// [cc]<$00>[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF967, 60, 2)
+
+[leftbox]
+// ごっつい[br]
+// アニキが[br]
+// あらわれた。[wait]
+
+[wait]
+
+// 『いまだけ[br]
+// ちからを[br]
+// かしてやろう』[wait]
+
+[wait]
+
+// アニキは[br]
+// アルルに[br]
+// のりうつった。[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF9A3, 17, 2)
+
+// ちからが[br]
+// パワーアップ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF9B4, 17, 2)
+
+// まもりが[br]
+// パワーアップ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF9C5, 83, 2)
+
+[leftbox]
+// ごっつい[br]
+// アニキが[br]
+// あらわれた。[wait]
+
+[wait]
+
+// 『いまだけ[br]
+// ちからを[br]
+// かりるぞ』[wait]
+
+[wait]
+
+// アルルの[br]
+// ちからが[br]
+// ぬきとられた。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ちからが[br]
+// パワーダウン。[br]
+// とほほ・・・[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFA18, 58, 2)
+
+// てんじょうから[br]
+// あらわれた[br]
+// ひとすじの[wait]
+
+[wait]
+
+// ひかりが、[br]
+// アルルを[br]
+// つつみこむ。[wait]
+
+[wait]
+
+// ポカポカして[br]
+// きもちいぃ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFA52, 57, 2)
+
+[leftbox]
+// てんじょうから[br]
+// あらわれた[br]
+// ひとすじの[wait]
+
+[wait]
+
+// ひかりが、[br]
+// まものを[br]
+// つつみこむ。[wait]
+
+[wait]
+
+// まものは[br]
+// よろこんでる。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFA8B, 42, 2)
+
+[leftbox]
+// めがみが[br]
+// あらわれた。[wait]
+
+[wait]
+
+// 『おこづかいを[br]
+// あげましょう』[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ラッキー！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFAB5, 43, 2)
+
+[leftbox]
+// おとこが[br]
+// アルルのよこを[br]
+// とおりすぎる。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// スリだ！[br]
+// 金を[br]
+// ぬすまれた！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFAE0, 58, 2)
+
+// うあぁ、[br]
+// じしんだあ！[wait]
+
+[wait]
+
+[leftbox]
+// ゆれるゆれる[br]
+// ライラいせきが[br]
+// ゆれまくる！[wait]
+
+[wait]
+
+[rightbox]
+// 『わわわッ！』[br]
+// ひっくり[br]
+// こけた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFB1A, 17, 2)
+
+[leftbox]
+// まものも[br]
+// ひっくり[br]
+// こけた。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFB2B, 220, 2)
+
+// [d1]<$07>
+
+[leftbox]
+// キィーーーン！[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// なんの　おと？[wait]
+
+[wait]
+
+// [d1]<$08>
+
+[leftbox]
+// キィーーーーー[br]
+// ーーーーーン！[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// なにか[br]
+// おちてくる[br]
+// おとみたいだ！[wait]
+
+[wait]
+
+// せまって[br]
+// きてる！？[wait]
+
+[wait]
+
+// [d1]<$09>
+
+[leftbox]
+// キィーーーーー[br]
+// ーーーーーーー[br]
+// ーーーーーン！[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ひょえええええ[br]
+// えええええ！！[wait]
+
+[wait]
+
+// [cc]<$3E>
+
+[leftbox]
+// ドドドドッカー[br]
+// ーーーーーーー[br]
+// ーン！！！！！[wait]
+
+[wait]
+
+// [d1]<$06>
+
+[leftbox]
+// ミサイルにより[br]
+// せかいは[br]
+// はめつした。[wait]
+
+[wait]
+
+// ゲーム[br]
+// オーバー。[wait]
+
+[wait]
+
+// [wait]
+
+[wait]
+
+// [wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// [wait]
+
+[wait]
+
+// [wait]
+
+[wait]
+
+// ハッ！[wait]
+
+[wait]
+
+// な、なんだ、[br]
+// ゆめだったんだ[br]
+// こわかったぁ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFC07, 40, 2)
+
+[leftbox]
+// ほのおのけしん[br]
+// サラマンダーが[br]
+// あらわれた。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// げげげッ！[c9]<$18>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFC2F, 34, 2)
+
+[leftbox]
+// ほのおのけしん[br]
+// サラマンダーは[br]
+// とおりすぎた。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ホッ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFC51, 32, 2)
+
+[leftbox]
+// ゴォーーーッ！[br]
+// ほのおを[br]
+// まきちらす。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// あちちちち！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFC71, 27, 2)
+
+[leftbox]
+// ほのおのけしん[br]
+// サラマンダーは[br]
+// さっていった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFC8C, 30, 2)
+
+[leftbox]
+// ゆきおんなが[br]
+// あらわれた。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// げげげッ！[c9]<$18>[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFCAA, 24, 2)
+
+[leftbox]
+// ゆきおんなは[br]
+// とおりすぎた。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ホッ。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFCC2, 31, 2)
+
+[leftbox]
+// ヒュゥーーッ！[br]
+// ゆきを[br]
+// まきちらす。[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// ひょええええ！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFCE1, 17, 2)
+
+[leftbox]
+// ゆきおんなは[br]
+// さっていった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFCF2, 82, 2)
+
+[leftbox]
+// ちゅうかやの[br]
+// でまえが[br]
+// あらわれた。[wait]
+
+[wait]
+
+// 『ギョーザ[br]
+// いちにんまえ[br]
+// おまちどー！』[wait]
+
+[wait]
+
+// [cd]
+
+[rightbox]
+// うわあ、[br]
+// おいしそー！[wait]
+
+[wait]
+
+// パクパク[br]
+// モグモグ。[br]
+// おいしい！[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFD44, 37, 2)
+
+[leftbox]
+// 『な、なんだ[br]
+// この[br]
+// においは！？[wait]
+
+[wait]
+
+// ウップ！[br]
+// た、[br]
+// たまらん！』[wait]
+
+[wait]
+
+// [cd][end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFD69, 19, 2)
+
+[leftbox]
+// まものは[br]
+// きょとんと[br]
+// している。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFD7C, 37, 2)
+
+// おふだが[br]
+// アルルのてに[br]
+// あらわれた。[wait]
+
+[wait]
+
+// 『あくりょう[br]
+// 　たいさん！』[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFDA1, 7, 2)
+
+// [c9]<$1B>
+
+[rightbox]
+// え？[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFDA8, 10, 2)
+
+[leftbox]
+// びーーーむ！！[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xF950, 23, 2)
+
+[leftbox]
+// まものは[br]
+// ならくのそこに[br]
+// おちていった。[wait][end]
+
+[wait][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xFDB2, 9, 2)
+
+[rightbox]
+// [br]
+// らっきょが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFDBB, 13, 2)
+
+[rightbox]
+// [br]
+// ふくじんづけが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFDC8, 11, 2)
+
+[rightbox]
+// [br]
+// カレーライスが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFDD3, 12, 2)
+
+[rightbox]
+// [br]
+// せんにんザケが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFDDF, 12, 2)
+
+[rightbox]
+// [br]
+// まどうザケが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFDEB, 11, 2)
+
+[rightbox]
+// [br]
+// もももザケが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFDF6, 9, 2)
+
+[rightbox]
+// [br]
+// りゅうのツメが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFDFF, 9, 2)
+
+[rightbox]
+// [br]
+// りゅうのしっぽ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE08, 9, 2)
+
+[rightbox]
+// [br]
+// りゅうのツノが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE11, 12, 2)
+
+[rightbox]
+// [br]
+// のうてんぐさが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE1D, 13, 2)
+
+[rightbox]
+// [br]
+// いだてんぐさが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE2A, 12, 2)
+
+[rightbox]
+// [br]
+// めんたまぐさが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE36, 12, 2)
+
+[rightbox]
+// [br]
+// どくけしそうが[end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0xFE42, 12, 2)
+
+[rightbox]
+// [br]
+// マンドレイクが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE4E, 7, 2)
+
+[rightbox]
+// [br]
+// はいが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE55, 12, 2)
+
+[rightbox]
+// [br]
+// しろてぶくろが[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE61, 10, 2)
+
+[rightbox]
+// [br]
+// セイレーンのや[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE6B, 12, 2)
+
+[rightbox]
+// [br]
+// おうごんリンゴ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE77, 6, 2)
+
+// らっきょを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE7D, 10, 2)
+
+// ふくじんづけを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE87, 8, 2)
+
+// カレーライスを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE8F, 9, 2)
+
+// せんにんザケを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFE98, 9, 2)
+
+// まどうザケを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFEA1, 8, 2)
+
+// もももザケを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFEA9, 6, 2)
+
+// りゅうのツメを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFEAF, 7, 2)
+
+// りゅうのしっぽ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFEB6, 6, 2)
+
+// りゅうのツノを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFEBC, 9, 2)
+
+// のうてんぐさを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFEC5, 10, 2)
+
+// いだてんぐさを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFECF, 9, 2)
+
+// めんたまぐさを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFED8, 9, 2)
+
+// どくけしそうを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFEE1, 11, 2)
+
+// どんぱうんぱを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFEEC, 6, 2)
+
+// うんぱを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFEF2, 9, 2)
+
+// マンドレイクを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFEFB, 4, 2)
+
+// はいを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFEFF, 9, 2)
+
+// しろてぶくろを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFF08, 8, 2)
+
+// セイレーンのや[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFF10, 10, 2)
+
+// おうごんリンゴ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFF1A, 7, 2)
+
+// ミホのつえを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFF21, 8, 2)
+
+// ピチのつえを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFF29, 7, 2)
+
+// ロフのつえを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFF30, 9, 2)
+
+// パポのつえを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFF39, 7, 2)
+
+// あかのいしを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFF40, 7, 2)
+
+// あおのいしを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFF47, 8, 2)
+
+// きいろのいしを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFF4F, 8, 2)
+
+// イヤリングを[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFF57, 9, 2)
+
+// アイテムぶくろ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0xFF60, 8, 2)
+
+// ふくぶくろを[end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#ENDREGION(3)
+
+//===========================================================
+// Region 4
+//===========================================================
+
+#STARTREGION(4)
+
+#STARTMSG(0x18202, 12, 2)
+
+[bottombox]
+// 　　　プランナー[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1820E, 14, 2)
+
+[bottombox]
+// はくりゅうほう　かすみ[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1821C, 13, 2)
+
+[bottombox]
+// 　　ドクターけいみ[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18229, 14, 2)
+
+[bottombox]
+// 　　　プログラマー[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18237, 14, 2)
+
+[bottombox]
+// 　　にしざか　ひとし[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18245, 13, 2)
+
+[bottombox]
+// 　　　デザイナー[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18252, 11, 2)
+
+[bottombox]
+// 　　　あるてみす[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1825D, 11, 2)
+
+[bottombox]
+// 　　　サウンド[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18268, 10, 2)
+
+[bottombox]
+// 　　　ＢＡ．Ｍ[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18272, 13, 2)
+
+[bottombox]
+// 　　　ディレクター[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1827F, 15, 2)
+
+[bottombox]
+// 　　すえなが　かつじ[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1828E, 14, 2)
+
+[bottombox]
+// 　　プロデューサー[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1829C, 12, 2)
+
+[bottombox]
+// 　　ＭＯＯにいたに[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x182A8, 21, 2)
+
+[leftbox]
+// リュンクスは[br]
+// さいふを[br]
+// ぬすんだ。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x182BD, 10, 2)
+
+[rightbox]
+// し、しまった！[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x182C7, 22, 2)
+
+[bottombox]
+// ぼくの　なまえは　アルル・ナジャ。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x182DD, 21, 2)
+
+[bottombox]
+// このまえ　１６さいになったばかり。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x182F2, 26, 2)
+
+[bottombox]
+// これでも　まどうしの　たまごなんだよ。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1830C, 26, 2)
+
+[bottombox]
+// ぼくは　まどうを　べんきょうするために、[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18326, 23, 2)
+
+[bottombox]
+// こだいまどうスクールへ　いくんだ。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1833D, 22, 2)
+
+[bottombox]
+// スクールは　とぉーいところに　あるから[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18353, 22, 2)
+
+[bottombox]
+// とっても　たいへんだけど、ぼくは[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18369, 21, 2)
+
+[bottombox]
+// せかいいちの　まどうしになるために[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1837E, 23, 2)
+
+[bottombox]
+// いっしょうけんめい　がんばるんだ。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18395, 16, 2)
+
+[bottombox]
+// だから、こんなところで[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x183A5, 21, 2)
+
+[bottombox]
+// てまどってるばあいぢゃないよ。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x183BA, 15, 2)
+
+[bottombox]
+// はやく　つかまえなきゃ。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x183C9, 8, 2)
+
+[bottombox]
+// わわっ！！[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x183D1, 10, 2)
+
+[bottombox]
+// 『フフフ・・・』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x183DB, 20, 2)
+
+[bottombox]
+// 『だれ！？　なんのようなの！？』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x183EF, 25, 2)
+
+[bottombox]
+// 『おまえの　すべてが　ほしいだけだ』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18408, 12, 2)
+
+[bottombox]
+// ああああああああ！[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18414, 17, 2)
+
+[bottombox]
+// へんたいだわ　このひとっ！[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18425, 19, 2)
+
+[bottombox]
+// 『ウィリィィィィィィィィィ・・・』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18438, 12, 2)
+
+[bottombox]
+// ！！！！！！！！！[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18444, 18, 2)
+
+[bottombox]
+// 『スゥゥゥリィィィィィプ！』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18456, 19, 2)
+
+[bottombox]
+// 『うああああああぁぁぁぁぁ・・・』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18469, 25, 2)
+
+[bottombox]
+// いったぁーい。あたまが　ズキズキする。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18482, 16, 2)
+
+[bottombox]
+// なによ、あの　まどうし！[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18492, 21, 2)
+
+[bottombox]
+// ちょーっと　かおが　いいからって！[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x184A7, 24, 2)
+
+[bottombox]
+// ひとりで　もんくいっても　しかたないや。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x184BF, 24, 2)
+
+[bottombox]
+// まほうで　すぐに　だっしゅつしよう。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x184D7, 13, 2)
+
+[bottombox]
+// えーと、ワー・・・・・・・・・・[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x184E4, 25, 2)
+
+[bottombox]
+// ！？　ま、まほうが　おもいだせないっ！？[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x184FD, 19, 2)
+
+[bottombox]
+// くそぉーーーーーーーーーーっ！！[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18510, 21, 2)
+
+[bottombox]
+// まりょくを　すいとられたっ！！！！！[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18525, 8, 2)
+
+[bottombox]
+// ・・・・・・・・・[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1852D, 25, 2)
+
+[bottombox]
+// 『ずずず・・・。んーーーーー、うまい！』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18546, 22, 2)
+
+[bottombox]
+// 『おちゃは　ウーロンに　かぎるなぁ』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1855C, 16, 2)
+
+[bottombox]
+// まものだ。みはってる・・・[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1856C, 20, 2)
+
+[bottombox]
+// まほうが　つかえないとなると・・・[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18580, 12, 2)
+
+[bottombox]
+// これしかないっ！！[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1858C, 24, 2)
+
+[bottombox]
+// ぼくは　まものを　いろけで　だまして[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x185A4, 16, 2)
+
+[bottombox]
+// カギを　うばいとった。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x185B4, 15, 2)
+
+[bottombox]
+// こんな　ちかろうからは、[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x185C3, 21, 2)
+
+[bottombox]
+// さっさと　だっしゅつしてやるっ！！[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x185D8, 17, 2)
+
+[leftbox]
+// リュンクスが[br]
+// あらわれた。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x185E9, 15, 2)
+
+[rightbox]
+// うわぁ、[br]
+// かわいぃー。　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x185F8, 5, 2)
+
+[rightbox]
+// え？[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0x185FD, 13, 2)
+
+[bottombox]
+// ライラの　いせき・・・[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1860A, 21, 2)
+
+[bottombox]
+// えいがを　きわめた　ライラぞくの[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1861F, 19, 2)
+
+[bottombox]
+// はなやかな　ぶんめいの　あと。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18632, 21, 2)
+
+[bottombox]
+// 『ミイルが　いってたのは　ここね』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18647, 21, 2)
+
+[bottombox]
+// この　ちかに、ルベルクラクっていう[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1865C, 19, 2)
+
+[bottombox]
+// ほうせきが　ねむってるらしい。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1866F, 6, 2)
+
+[bottombox]
+// え゛？[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18675, 23, 2)
+
+[bottombox]
+// 『きゃーーーーーーーーーーー！！！！！』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1868C, 8, 2)
+
+[bottombox]
+// いてて・・・・・[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18694, 15, 2)
+
+[bottombox]
+// おしり　うっちゃった・・・・・[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x186A3, 24, 2)
+
+[bottombox]
+// でも、きょうりょくな　まりょくを　ひめた[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x186BB, 20, 2)
+
+[bottombox]
+// ウラノスのつえと　こうかんなんて、[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x186CF, 24, 2)
+
+[bottombox]
+// いったい　どんな　ほうせきなんだろ・・・[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0x186E7, 20, 2)
+
+[bottombox]
+// 『きゃああああああああああっ！！』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x186FB, 9, 2)
+
+[bottombox]
+// 『ぐ・・・・・』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18704, 9, 2)
+
+[bottombox]
+// 『ぐ！？』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1870D, 17, 2)
+
+[bottombox]
+// 『ぐ・・・ぐぐぐ・・・・・』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1871E, 16, 2)
+
+[bottombox]
+// 『ひたいの　ほうせき・・・』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1872E, 16, 2)
+
+[bottombox]
+// 『ルベルクラクだ・・・・・』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1873E, 26, 2)
+
+[bottombox]
+// 『だいじょうぶだよ、おびえなくても。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18758, 12, 2)
+
+[bottombox]
+// きみの　ひたいから[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18764, 16, 2)
+
+[bottombox]
+// もぎとったりしないから』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18774, 9, 2)
+
+[bottombox]
+// 『・・・・・・・・・・』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1877D, 15, 2)
+
+[bottombox]
+// 『ぼくを　しんじて』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1878C, 11, 2)
+
+[bottombox]
+// 『ぐぐ・・・・・』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18797, 15, 2)
+
+[bottombox]
+// 『ぐぅーーーーー！！』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x187A6, 26, 2)
+
+[bottombox]
+// ルベルクラクを　うめこんだ　せいぶつは、[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x187C0, 26, 2)
+
+[bottombox]
+// ぼくに　てきいがないことを　かんじると、[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x187DA, 18, 2)
+
+[bottombox]
+// ゆっくりと　ちかづいてきた。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x187EC, 22, 2)
+
+[bottombox]
+// ウラノス・スタッフを　てにいれることは[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18802, 15, 2)
+
+[bottombox]
+// できなくなったけど、[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18811, 23, 2)
+
+[bottombox]
+// かわりに　みつけた　１ぴきの　なかま。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18828, 24, 2)
+
+[bottombox]
+// ぼくたちは　ライラのいせきをあとにした。[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18840, 13, 2)
+
+[bottombox]
+// 『じゃ、いこっか』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1884D, 13, 2)
+
+[bottombox]
+// 『ぐーーーーー！』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1885A, 7, 2)
+
+[bottombox]
+// 『あれ？[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18861, 24, 2)
+
+[bottombox]
+// なにか　わすれてる　きがするけど・・・』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18879, 8, 2)
+
+[bottombox]
+// 『ぐ？』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18881, 10, 2)
+
+[bottombox]
+// 『ま、いっか』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1888B, 20, 2)
+
+[bottombox]
+// 『ぐーーーーーーーーーーっ！！』[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1889F, 17, 2)
+
+[bottombox]
+// 　　　　　お　　　わ　　　り[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x188B0, 30, 2)
+
+[bottombox]
+// 　　プロデューサー　　　[br]
+// 　　ＭＯＯにいたに　　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x188CE, 31, 2)
+
+[bottombox]
+// 　　　ディレクター　　　[br]
+// 　　すえなが　かつじ　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x188ED, 29, 2)
+
+[bottombox]
+// 　　　プランナー　　　　[br]
+// はくりゅうほう　かすみ　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x1890A, 30, 2)
+
+[bottombox]
+// 　　　プランナー　　　　[br]
+// 　　ドクターけいみ　　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18928, 31, 2)
+
+[bottombox]
+// 　　　プログラマー　　　[br]
+// 　　にしざか　ひとし　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18947, 31, 2)
+
+[bottombox]
+// グラフィックデザイナー　[br]
+// 　　　あるてみす　　　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18966, 31, 2)
+
+[bottombox]
+// サウンド＆サンプリング　[br]
+// 　　　　ＢＡ．Ｍ　　　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18985, 30, 2)
+
+[bottombox]
+// 　　　コンポーザー　　　[br]
+// 　　　　　まつ　　　　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x189A3, 30, 2)
+
+[bottombox]
+// 　　　コンポーザー　　　[br]
+// 　　　　ＢＡ．Ｍ　　　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x189C1, 32, 2)
+
+[bottombox]
+// 　サウンド・ドライバー　[br]
+// 　　じぇみに　ひろの　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x189E1, 31, 2)
+
+[bottombox]
+// パッケージ＆マニュアル　[br]
+// 　　きづき　あやめ　　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18A00, 33, 2)
+
+[bottombox]
+// パッケージ＆マニュアル　[br]
+// 　　レインボーパパ　　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18A21, 30, 2)
+
+[bottombox]
+// パッケージ＆マニュアル　[br]
+// 　　　　　いち　　　　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18A3F, 30, 2)
+
+[bottombox]
+// パッケージ＆マニュアル　[br]
+// 　　　あるてみす　　　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18A5D, 31, 2)
+
+[bottombox]
+// パッケージ＆マニュアル　[br]
+// 　　かずと　ひそく　　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18A7C, 28, 2)
+
+[bottombox]
+// 　　　きょうりょく　　　[br]
+// 　　　　ＲＣＣ　　　　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18A98, 29, 2)
+
+[bottombox]
+// 　　　きょうりょく　　　[br]
+// 　　けみ・じゅにあ　　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18AB5, 29, 2)
+
+[bottombox]
+// 　　　きょうりょく　　　[br]
+// 　コンパイルのみんな　　[print][end]
+
+[print][end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18AD2, 17, 2)
+
+[bottombox]
+// 　　　[copyright]１９９４　ＣＯＭ[ＰＩ]ＬＥ[end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#STARTMSG(0x18AE3, 5, 2)
+
+// らっきょ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18AE8, 9, 2)
+
+// ふくじんづけ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18AF1, 7, 2)
+
+// カレーライス[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18AF8, 8, 2)
+
+// せんにんザケ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B00, 8, 2)
+
+// まどうザケ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B08, 7, 2)
+
+// もももザケ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B0F, 5, 2)
+
+// りゅうのツメ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B14, 7, 2)
+
+// りゅうのしっぽ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B1B, 5, 2)
+
+// りゅうのツノ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B20, 8, 2)
+
+// のうてんぐさ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B28, 9, 2)
+
+// いだてんぐさ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B31, 8, 2)
+
+// めんたまぐさ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B39, 8, 2)
+
+// どくけしそう[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B41, 10, 2)
+
+// どんぱうんぱ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B4B, 5, 2)
+
+// うんぱ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B50, 8, 2)
+
+// マンドレイク[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B58, 3, 2)
+
+// はい[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B5B, 8, 2)
+
+// しろてぶくろ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B63, 8, 2)
+
+// セイレーンのや[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B6B, 10, 2)
+
+// おうごんリンゴ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B75, 6, 2)
+
+// ミホのつえ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B7B, 7, 2)
+
+// ピチのつえ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B82, 6, 2)
+
+// ロフのつえ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B88, 8, 2)
+
+// パポのつえ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B90, 6, 2)
+
+// あかのいし[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B96, 6, 2)
+
+// あおのいし[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18B9C, 7, 2)
+
+// きいろのいし[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18BA3, 7, 2)
+
+// イヤリング[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18BAA, 1, 2)
+
+// [end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18BAB, 9, 2)
+
+// アイテムぶくろ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18BB4, 7, 2)
+
+// ふくぶくろ[end]
+
+[end]
+
+
+#ENDMSG()
+
+#STARTMSG(0x18BBB, 1, 2)
+
+// [end]
+
+[end]
+
+
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+//empty
+#ENDMSG()
+
+#ENDREGION(4)
+

@@ -1,0 +1,199 @@
+
+
+
+routines:
+  BCD = initCB00
+  CAF = rand8?
+  CC1 = addAtoHL 
+  D3D = waitVblank
+  25AF = doInputWait
+  25F1 = ?
+  2709 = runScriptAndReset???
+  2714 = runScript?
+  271B = handleNextScriptCmd?
+  2764 = sendPendingTextBuffer?
+  27D4 = text printing
+  2B64 = charToFrontBuffer?
+         copy character tilemap to front buffer?
+  2ECE = clearTextArea??
+  ~2F09 = fullyRefreshScreen
+          sends back tilebuffer to front, then sends changed rows to screen
+  31BE = ? decompression?
+  321E = sendPendingExpRamTiles
+  324B = copyTileToExpRam?
+  5CE3 = doVerticalScreenHop
+  ~9D95 = tile-by-tile printing stuff
+    * jumps to 2B64
+
+memory:
+  c004 = nametable scroll x
+  c005 = nametable scroll y
+  c009 = ?
+  c011 = bitfield
+         bit 7 = if set, send marked rows of frontbuffer to vdp
+                 (row markers at c280)
+  c013 = bitfield?
+         effects such as land mine shake? (if low 2 bits set?)
+  c014 = ? bitfield
+         bit 6 = ? reset after script completed
+                 if set, text is not automatically transferred to VDP
+                 at end of script?
+         bit 7 = ? reset when script started?
+  c018 = if nonzero, count of tiles to be transferred from expram to vdp
+         at vblank
+  c03f = current text tile data expram addr
+  c041 = current text tile data vdp addr
+  c043 = current text VRAM tile index
+  c044 = current text window type
+         0 = right window
+         1 = left window
+         2 = bottom window
+  c045 = ? set by op c6
+  c046-c047 = base dstaddr of current text line
+  c051-c055 = bcd conversion buffer (1 byte per digit)
+  c0b2 = base text tile index??
+  c0b3 = count of tile graphics to be transferred from exp RAM to VDP
+         after text printing finished?
+  c0b4-c0b5 = current expram target for text box tile data
+  c0b6-c0b7 = current vdp target for tile data
+  c0c0 = textTilemapBackBufferPtr
+         e.g. d480
+  c0c2 = ? counter while printing char-by-char?
+  c0c3 = ?
+  c0d0 = ?
+  c0d7 = cutscene timer
+  c0f0 = bitfield
+         bit 0 = "wide" virtual tilemap flag
+                 if set, one line in the target tilemap buffer is 32 tiles
+                         (width of full nametable)
+                 if unset, one line is 20 tiles (width of screen)
+         bit 1 = "tall" virtual tilemap flag
+                 if set, one column in the target tilemap buffer is 28 tiles
+                         (height of full nametable)
+                 if unset, one column is 18 tiles (height of screen)
+         bit 4 = ? possibly location for bottom text box?
+                 see 2B9F
+  
+  c106 = ???
+         determines where e.g. encounter tables are copied from??
+         see 50BD
+  c110 = arle level?
+  c111-c112 = arle hp
+  c113-c114 = arle max hp
+  c115 = arle mp
+  c116 = arle max mp
+  c11c = arle money
+  c11e = arle exp
+  c201-c202 = enemy hp
+  c203-c204 = enemy max hp
+  c221-c222 = also arle hp
+  c223-c224 = also arle max hp
+  c225 = also arle mp
+  c226 = also arle max mp
+  
+  c280+ = array of flags indicating which rows of the front buffer have changes
+         which need to be transferred to the vdp (nonzero = row has changes)
+  
+  c403 = tile index in second half of pattern table of current text putpos
+  
+  c480 = current floor data??
+  c500-c53f = current floor encounter tables?
+  
+  cb80-cc3f = ??? next floor data???
+              copied to c480
+              see 50BD
+  cc00 = some sort of special encounter table loaded on floor 4?
+         BUT also used to store unrelated data during the lyra ruins cutscene.
+         triggering the cutscene, then getting to floor 4 without ever resetting
+         or getting a game over will cause this garbage to be loaded to the
+         encounter table, resulting in bugs or crashing.
+         - BCD = load correct table to here
+         - 50BD = load from here to c500, using C106 as src
+  
+  D200 = back tilebuffer
+  D680 = front tilebuffer
+    * tilebuffer dimensions are determined by bits 0/1 of c0f0
+      - no bits set = 20*18
+      - bit 0 set   = 32*18
+      - bit 1 set   = 20*28
+      (setting both bits is invalid -- tilebuffer size is limited to 0x480
+      bytes)
+
+expansion memory:
+  0400+ = buffer for pending tile data for current text string to be
+          transferred to vdp
+
+data:
+  1FAB8+0x8 = 1bpp font
+
+text:
+  00 = space
+  01-0F = ?
+    0C = previous character gets dakuten
+    0D = previous character gets handakuten
+    0F = period??
+  10-BF = text
+  
+  C0+ are opcodes -- 2740 = handler table
+    C3 = linebreak
+    C4 = wait
+    ops with params:
+      C6 = ? 1b
+      C7 = dictionary lookup -- script pointer table at 0x1b463 (0x1f entries)
+
+~97F1 = pre-title sequence code
+~9dbb = intro script execution (to 267d)
+
+1b5f4 = bottom 2 lines of shop main menu tilemap
+
+* tiles 0x18e-0x1a2 reserved for left/bottom text box;
+  tiles 0x1a3-0x1b7(?) for right box
+  (21 tiles each)
+
+to control (successful) lipemco outcome, set breakpoint on 25CE and set A
+to the index of the desired outcome when hit?
+  * this is not correct
+
+sendVwfBuffer:
+  * send tile data to specified sequential locations in expram instead of
+    directly to vdp.
+    reset this address to base position whenever new string started (i.e.
+    initVwfString?).
+  * call a user callback whenever an allocation occurs so that user can e.g.
+    increment pending tile counter.
+    * for all-at-once mode, this is all we need. tilemap stuff is already
+      handled by the game.
+    * for char-by-char mode, we also have to handle the tilemap allocation.
+      start the tile counter preincremented (tile 0x18d) and increment each
+      time an allocation occurs.
+      also increment pending tile counter as normal.
+      * we only have to send the character to the tilemap once, so only
+        do that when an allocation occurs. updates will be automatic so long
+        as we send the tile data to the vdp properly.
+printVwfChar:
+  * user callback whenever buffer is filled, so user can e.g. move to next
+    nametable position
+
+cbc mode:
+  * send tile buffer data to sequential memory locations as it's completed
+
+
+
+todo
+
+done
+  * linebreaks are probably broken for bottom box -- need to account for
+    tilebuffer width setting
+  * "dungeon floor" digit position on map
+  * some item names won't fit on one line:
+    - momomo sake
+      * reduce spacing
+    - antidote herbs
+      * "AntidoteHerb"? or just "Antidote"?
+    - white mittens
+    - siren's arrow
+      * reduce spacing
+  * second "running" scene in intro still has wrong animation phase
+  * tilemap garbage from new tile storage visible on screen-shake effect
+    (for e.g. second shop)
+
