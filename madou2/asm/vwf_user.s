@@ -143,6 +143,13 @@
       ld (textLineBaseDst),hl
       ld (vwfTilemapTargetAddr),hl
       
+      ; TODO: make sure this actually works properly
+      ; this fixes a problem.
+      ; please don't ask me to explain how or why.
+      ; this code is an absolute mess.
+      ld hl,(vwfCbcVramNextTarget)
+      ld (vwfCbcVramTarget),hl
+      
       jr @done
     @notLinebreak:
     

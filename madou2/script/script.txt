@@ -21,7 +21,7 @@ I'm going to die...
 // だめー。[br]
 // いしきが[br]
 // たもてなぁい。[wait][end]
-Oh no... I'm[br]
+Oh no...I'm[br]
 losing con-[br]
 sciousness...
 [wait][end]
@@ -102,7 +102,8 @@ I'm kinda hurting...
 // ためいき、[br]
 // ふぅぅぅー。[wait][end]
 Deep breaths...[br]
-Huff... Puff...
+Huff...[br]
+Puff...
 [wait][end]
 
 
@@ -1059,8 +1060,9 @@ Level up!
 
 // ちかろう[br]
 // 　　かいだよ。[end]
-Dungeon[br]
-Floor [num]
+//Dungeon[br]
+//Floor [num]
+This is dungeon floor [num].
 [end]
 
 
@@ -1070,8 +1072,9 @@ Floor [num]
 
 // ちか[br]
 // 　　かいだよ。[end]
-Underground[br]
-Floor [num]
+//Underground[br]
+//Floor [num]
+This is underground floor [num].
 [end]
 
 
@@ -1107,7 +1110,7 @@ Diacute
 #STARTMSG(0xC7F2, 7, 2)
 
 // ばよえーん[end]
-Baoyen
+Bayoen
 [end]
 
 
@@ -1963,7 +1966,10 @@ The wall collapses, and an item comes out.
 [rightbox]
 // なにも[br]
 // でてこないや。[wait][end]
-Nothing comes out.
+//Nothing comes out.
+
+// this line is in the right box, implying Arle is meant to be saying it, so it makes more sense to use a progressive here
+Nothing's coming out.
 [wait][end]
 
 
@@ -2358,7 +2364,7 @@ Speeds up time around the enemy by a lot.
 // たいりょくが[br]
 // ちょっぴり[br]
 // かいふく。[wait][end]
-Restore a tiny bit of health.
+Restores a tiny bit of health.
 [wait][end]
 
 
@@ -2373,7 +2379,7 @@ Restore a tiny bit of health.
 
 // たいりょくが[br]
 // かいふく。[wait][end]
-Restore health.
+Restores health.
 [wait][end]
 
 
@@ -2510,7 +2516,7 @@ Fully restores both magic and health.
 // だいだげきが[br]
 // でるように[br]
 // なるよ。[wait][end]
-Increase Critical rate.
+Increases Critical rate.
 [wait][end]
 
 
@@ -2526,7 +2532,7 @@ Increase Critical rate.
 
 // すばやさが[br]
 // ふえるよ。[wait][end]
-Increase speed.
+Increases speed.
 [wait][end]
 
 
@@ -2560,7 +2566,7 @@ Less likely to miss.
 // からだの[br]
 // どくを[br]
 // けすよ。[wait][end]
-Remove all poison.
+Removes all poison.
 [wait][end]
 
 
@@ -2822,7 +2828,8 @@ It's so lovely!
 
 // the bag is actually empty when purchased, so this is
 // apparently the intended interpretation
-A bag that items go in.
+//A bag that items go in.
+A bag for carrying items.
 [wait][end]
 
 
@@ -3374,7 +3381,9 @@ The Lynx unwraps its tail.
 // らっきょを[br]
 // とりだして[br]
 // たべはじめた。[wait][end]
-It started eating some veggies.
+//It started eating some veggies.
+
+It started eating some Veggies.
 [wait][end]
 
 
@@ -6997,7 +7006,8 @@ Urgh.
 
 // きんちょうかん[br]
 // ないなぁ・・・[wait]
-It's one of THOSE, huh...
+//It's one of THOSE, huh...
+It's one of THOSE types, huh...
 [wait]
 
 // 『あなた[br]
@@ -7059,7 +7069,9 @@ P-Please, wait a moment!}
 // ぼくは[br]
 // しおを[br]
 // ふりかける。[wait]
-{Let me sprinkle some salt.}
+//{Let me sprinkle some salt.}
+
+{Let me just sprinkle some salt.}
 [wait]
 
 // [ce]<$01>[ce]<$01>[end]
@@ -7310,7 +7322,7 @@ The floor opens.
 // ぼくは[br]
 // おもくないぞ！[wait][end]
 How RUDE![br]
-I'm not heavy!
+I'm not heavy at all!
 [wait][end]
 
 
@@ -14758,7 +14770,11 @@ ered.
 
 // みみを[br]
 // ふさいでいた。[wait][end]
-But your opponent also covered their ears.
+But your[br]
+opponent[br]
+also cov-[br]
+ered their[br]
+ears.
 [wait][end]
 
 #SETHEIGHT(4)
@@ -14948,7 +14964,12 @@ You feel the power slip away.
 // やの　さきから[br]
 // へんなこえが[br]
 // きこえるよ。[wait][end]
-You hear a weird voice from the tip of the arrow.
+//You hear a weird voice from the tip of the arrow.
+
+// original translation was slightly too long and corrupted sprite table.
+// didn't catch this until madou3.
+// oops!
+You hear a weird voice from the arrow's tip.
 [wait][end]
 
 #SETHEIGHT(4)
@@ -17540,7 +17561,7 @@ Mystery Bag
 
 [bottombox]
 // 　　ＭＯＯにいたに[print][end]
-[space8px][space8px][space8px][space2px]Moo Niitani
+[space8px][space8px][space8px][space2px]MOO Niitani
 [end]
 
 
