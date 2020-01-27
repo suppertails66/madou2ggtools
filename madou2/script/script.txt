@@ -2364,7 +2364,7 @@ Speeds up time around the enemy by a lot.
 // たいりょくが[br]
 // ちょっぴり[br]
 // かいふく。[wait][end]
-Restores a tiny bit of health.
+Restore a tiny bit of health.
 [wait][end]
 
 
@@ -2379,7 +2379,7 @@ Restores a tiny bit of health.
 
 // たいりょくが[br]
 // かいふく。[wait][end]
-Restores health.
+Restore health.
 [wait][end]
 
 
@@ -2516,7 +2516,7 @@ Fully restores both magic and health.
 // だいだげきが[br]
 // でるように[br]
 // なるよ。[wait][end]
-Increases Critical rate.
+Increase Critical rate.
 [wait][end]
 
 
@@ -2532,7 +2532,7 @@ Increases Critical rate.
 
 // すばやさが[br]
 // ふえるよ。[wait][end]
-Increases speed.
+Increase speed.
 [wait][end]
 
 
@@ -2566,7 +2566,7 @@ Less likely to miss.
 // からだの[br]
 // どくを[br]
 // けすよ。[wait][end]
-Removes all poison.
+Remove all poison.
 [wait][end]
 
 
